@@ -3,7 +3,7 @@
 适用于中文拼接语音库(UTAU, DeepVocal, VocalSharp)的极简录音表. 
 A minimal reclist for Mandarin stitching voickbank(UTAU, DeelVocal, Vocalsharp).
 
-## reclist
+## CVVC reclist
 
 含有2个版本/Have two versions: Full & Lite.
 Full: 90 行/Lines, 825 原音设定/OTOs.
