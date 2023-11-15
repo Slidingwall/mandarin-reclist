@@ -8,10 +8,13 @@
 
 ## 音标详解  
 
-汉语普通话的韵母共有韵头、韵腹、韵尾三部分组成，韵母再与声母组合为新的音节。  
-其中，韵头有`无韵头`、`i-`、`u-`、`ü-`四种情况，韵尾有`无韵尾`、`-i`、`-u`、`-n`、`-ng`五种情况。去掉韵头、韵尾后，韵腹共有14个。可整合为下表： 
+每个汉语音节均由`首音`和`韵`组成。`首音`分为`声母`和`韵头(介音)`，`韵`分为`韵腹(核音)`和`韵尾(尾音)`。[*参考来源*](http://jpk.pku.edu.cn/course/llyyx/script/142.pdf)  
+其中，韵头有`无韵头`, `i-`, `u-`, `ü-`四种情况，韵尾有`无韵尾`, `-i`, `-u`, `-n`, `-ng`五种情况。韵腹共有14个。可整理为下表： 
 
-| 可能的韵头<br/>Possible Meditals| 韵腹(X-SAMPA)<br/> Nucleus in X-SAMPA| 可能的韵尾<br/>Possible Coda|可组合的韵母<br /> Possible Vowels|
+Each Chinese syllable is composed of `Onset` and `Rhyme`` The `Onset` is divided into `Initial` and `Medial`, while `Rhyme` is divided into `Nucleus` and `Ending`. [* Reference source *]（ http://jpk.pku.edu.cn/course/llyyx/script/142.pdf ）
+Among them, there are four cases of Medial: `No Medial`, `i-`, `u -`, `ü -`, and five cases of Ending: `No Ending`, `- i`, `- u`, `- n`, and `- ng`. And there are a total of 14 Nuclei. It can be organized into the following table:
+
+| 可能的韵头<br/>Possible Medials| 韵腹(X-SAMPA)<br/> Nuclei in X-SAMPA| 可能的韵尾<br/>Possible Endings|可组合的韵母<br /> Possible Vowels|
 | ------ | ------ | ------ | ------ |
 | ∅, i-, u- | a | ∅, -i, -n | a, ai, an, ia, ua, uai, uan |
 | ∅, i-, u- | A | -u, -ng | ao, ang, iao, iang, uang |
@@ -28,13 +31,15 @@
 | ∅ | i` | ∅ | i (zh ch sh r) |
 | ∅, i-| U | -ng | ong, iong |
 
-韵头韵腹组合整理如下：  
+**韵头韵腹组合整理如下/Medial-Nucleus Combanations are organized as follows**：  
 a, ia, ua; A, iA, uA; @, i@, u@; ei, ui, ie, ue; ian, uan; ong, iong; o/uo, e, i, u, ü, er, i0, ir  
 共25个，与声母结合后可产生274个CV组合，录音表收录了其中的273个读音。  
+In total of 25. Combined with Inintal, it can produce 274 CV combinations, of which 273 pronunciations are in the reclist.  
 
-韵腹韵尾组合整理如下：  
+**韵腹韵尾组合整理如下/Nucleus-Ending Combanations are organized as follows**：  
 a, *ai*, *an*; *ao*, *ang*; i, *in*, *ing*; ou, en, eng; ü, *ün*; e0, ei; o, e, u, er, i0, ir; *en0*, *ong*  
-共23个。Full表与中文CVVC韵尾一致，Lite表则会将斜体的韵尾并入ou, en, eng中，整合后个数14个，制作时需将Overlap放在韵腹韵尾的交界处。 
+共23个。Full表与中文CVVC韵尾一致，Lite表则会将斜体的韵尾并入`ou`, `en`, `eng`中，整合后个数14个，制作时需将Overlap放在韵腹韵尾的交界处。 
+In total of 23. The Full table is consistent with the Chinese CVVC ending, while the Lite table will incorporate the italicized ending into `ou`, `en`,` eng`, with a total of 14 after integration. During OTO, Overlap needs to be placed at the junction of Nucleus and Ending.  
 
 ## 制作指南
 模板中CV/VC/Extra部分分开设定. 设定完成后请合并回同一文件中.   
