@@ -26,7 +26,7 @@ A minimal reclist for Mandarin stitching voickbank(UTAU, DeelVocal, Vocalsharp).
 | ∅, i-| U | -ng | ong, iong |
 
 韵头韵腹组合整理如下：  
-a, ia, ua; A, iA, uA,; @, i@, u@; ei, ui, ie, ue; ian, uan; ong, iong; o/uo, e, i, u, ü, er, i0, ir  
+a, ia, ua; A, iA, uA; @, i@, u@; ei, ui, ie, ue; ian, uan; ong, iong; o/uo, e, i, u, ü, er, i0, ir  
 共25个，与声母结合后可产生274个CV组合，录音表收录了其中的273个读音。  
 
 韵腹韵尾组合整理如下：  
