@@ -1,7 +1,7 @@
 ## CVVC reclist
 
 **含有2个版本/Have two versions**: Full & Lite.  
-—**Full**: 90 行/Lines, 825 原音设定/OTOs.  
+**Full**: 90 行/Lines, 825 原音设定/OTOs.  
 **Lite**: 66 行/Lines, 561 原音设定/OTOs.  
 两者均为8字表/Both have 8 syllables in each line.   
 **Extra**: 开头/语尾音素, 23行/Lines, 110原音设定/OTOs.  
