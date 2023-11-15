@@ -34,5 +34,7 @@ a, *ai*, *an*; *ao*, *ang*; i, *in*, *ing*; ou, en, eng; ü, *ün*; e0, ei; o, e
 共23个。Full表与中文CVVC韵尾一致，Lite表则会将斜体的韵尾并入ou, en, eng中，整合后个数14个，制作时需将Overlap放在韵腹韵尾的交界处。 
 
 ## 制作指南
+模板中CV/VC/Extra部分分开设定. 设定完成后请合并回同一文件中.   
+CV/VC/Extra parts are seperated in templates. Merge them while OTO are done.  
 
-在写了 / In progressing.
+剩下的在写了 / In progressing.
