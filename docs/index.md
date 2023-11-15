@@ -11,7 +11,7 @@
 每个汉语音节均由`首音`和`韵`组成。`首音`分为`声母`和`韵头(介音)`，`韵`分为`韵腹(核音)`和`韵尾(尾音)`。[*参考来源*](http://jpk.pku.edu.cn/course/llyyx/script/142.pdf)  
 其中，韵头有`无韵头`, `i-`, `u-`, `ü-`四种情况，韵尾有`无韵尾`, `-i`, `-u`, `-n`, `-ng`五种情况。韵腹共有14个。可整理为下表： 
 
-Each Chinese syllable is composed of `Onset` and `Rhyme` The `Onset` is divided into `Initial` and `Medial`, while `Rhyme` is divided into `Nucleus` and `Ending`. [* Reference source *]（ http://jpk.pku.edu.cn/course/llyyx/script/142.pdf ）
+Each Chinese syllable is composed of `Onset` and `Rhyme`. The `Onset` is divided into `Initial` and `Medial`, while `Rhyme` is divided into `Nucleus` and `Ending`. [*Reference source*](http://jpk.pku.edu.cn/course/llyyx/script/142.pdf)  
 Among them, there are four cases of Medial: `No Medial`, `i-`, `u -`, `ü -`, and five cases of Ending: `No Ending`, `- i`, `- u`, `- n`, and `- ng`. And there are a total of 14 Nuclei. It can be organized into the following table:
 
 | 可能的韵头<br/>Possible Medials| 韵腹(X-SAMPA)<br/> Nuclei in X-SAMPA| 可能的韵尾<br/>Possible Endings|可组合的韵母<br /> Possible Vowels|
