@@ -33,11 +33,13 @@ Among them, there are four cases of Medial: `No Medial`, `i-`, `u -`, `ü -`, an
 
 **韵头韵腹组合整理如下/Medial-Nucleus Combanations are organized as follows**：  
 a, ia, ua; A, iA, uA; @, i@, u@; ei, ui, ie, ue; ian, uan; ong, iong; o/uo, e, i, u, ü, er, i0, ir  
+
 共25个，与声母结合后可产生274个CV组合，录音表收录了其中的273个读音。  
 In total of 25. Combined with Inintal, it can produce 274 CV combinations, of which 273 pronunciations are in the reclist.  
 
 **韵腹韵尾组合整理如下/Nucleus-Ending Combanations are organized as follows**：  
 a, *ai*, *an*; *ao*, *ang*; i, *in*, *ing*; ou, en, eng; ü, *ün*; e0, ei; o, e, u, er, i0, ir; *en0*, *ong*  
+
 共23个。Full表与中文CVVC韵尾一致，Lite表则会将斜体的韵尾并入`ou`, `en`, `eng`中。  
 整合后个数14个，制作时需将Overlap放在韵腹韵尾的交界处。 
 In total of 23. The Full table is consistent with the Chinese CVVC ending, while the Lite table will incorporate the italicized ending into `ou`, `en`,` eng`.  
