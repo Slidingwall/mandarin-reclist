@@ -1,4 +1,9 @@
-# 录音表音标详解  
+# mandarin-reclist
+
+适用于中文拼接语音库(UTAU, DeepVocal, VocalSharp)的极简录音表.  
+A minimal reclist for Mandarin stitching voickbank(UTAU, DeelVocal, Vocalsharp).  
+
+## 录音表音标详解  
 
 汉语普通话的韵母共有韵头、韵腹、韵尾三部分组成，韵母再与声母组合为新的音节。  
 其中，韵头有`无韵头`、`i-`、`u-`、`ü-`四种情况，韵尾有`无韵尾`、`-i`、`-u`、`-n`、`-ng`五种情况。去掉韵头、韵尾后，韵腹共有14个。可整合为下表： 
@@ -27,3 +32,7 @@ a, ia, ua; A, iA, uA,; @, i@, u@; ei, ui, ie, ue; ian, uan; ong, iong; o/uo, e, 
 韵腹韵尾组合整理如下：  
 a, *ai*, *an*; *ao*, *ang*; i, *in*, *ing*; ou, en, eng; ü, *ün*; e0, ei; o, e, u, er, i0, ir; *en0*, *ong*  
 共23个。Full表与中文CVVC韵尾一致，Lite表则会将斜体的韵尾并入ou, en, eng中，整合后个数14个，制作时需将Overlap放在韵腹韵尾的交界处。 
+
+## 制作指南
+
+在写了 / In progressing.
