@@ -3,7 +3,7 @@
 汉语普通话的韵母共有韵头、韵腹、韵尾三部分组成，韵母再与声母组合为新的音节。  
 其中，韵头有`无韵头`、`i-`、`u-`、`ü-`四种情况，韵尾有`无韵尾`、`-i`、`-u`、`-n`、`-ng`五种情况。去掉韵头、韵尾后，韵腹共有14个。可整合为下表： 
 
-| 可能的韵头<br/>Possible Meditals| 韵腹<br/> Rhymes| 可能的韵尾<br/>Possible Coda|可组合的韵母<br /> Possible Vowels|
+| 可能的韵头<br/>Possible Meditals| 韵腹(X-SAMPA)<br/> Rhymes in X-SAMPA| 可能的韵尾<br/>Possible Coda|可组合的韵母<br /> Possible Vowels|
 | ------ | ------ | ------ | ------ |
 | ∅, i-, u- | a | ∅, -i, -n | a, ai, an, ia, ua, uai, uan |
 | ∅, i-, u- | A | -u, -ng | ao, ang, iao, iang, uang |
