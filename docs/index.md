@@ -3,7 +3,7 @@
 适用于中文拼接语音库(UTAU, DeepVocal, VocalSharp)的极简录音表.  
 A minimal reclist for Mandarin stitching voickbank(UTAU, DeelVocal, Vocalsharp).  
 
-## 录音表音标详解  
+## 音标详解  
 
 汉语普通话的韵母共有韵头、韵腹、韵尾三部分组成，韵母再与声母组合为新的音节。  
 其中，韵头有`无韵头`、`i-`、`u-`、`ü-`四种情况，韵尾有`无韵尾`、`-i`、`-u`、`-n`、`-ng`五种情况。去掉韵头、韵尾后，韵腹共有14个。可整合为下表： 
@@ -38,3 +38,7 @@ a, *ai*, *an*; *ao*, *ang*; i, *in*, *ing*; ou, en, eng; ü, *ün*; e0, ei; o, e
 CV/VC/Extra parts are seperated in templates. Merge them while OTO are done.  
 
 剩下的在写了 / In progressing.
+
+## 示例声库
+
+在录了 / In progressing.
