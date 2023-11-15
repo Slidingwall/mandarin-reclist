@@ -38,8 +38,10 @@ In total of 25. Combined with Inintal, it can produce 274 CV combinations, of wh
 
 **韵腹韵尾组合整理如下/Nucleus-Ending Combanations are organized as follows**：  
 a, *ai*, *an*; *ao*, *ang*; i, *in*, *ing*; ou, en, eng; ü, *ün*; e0, ei; o, e, u, er, i0, ir; *en0*, *ong*  
-共23个。Full表与中文CVVC韵尾一致，Lite表则会将斜体的韵尾并入`ou`, `en`, `eng`中，整合后个数14个，制作时需将Overlap放在韵腹韵尾的交界处。 
-In total of 23. The Full table is consistent with the Chinese CVVC ending, while the Lite table will incorporate the italicized ending into `ou`, `en`,` eng`, with a total of 14 after integration. During OTO, Overlap needs to be placed at the junction of Nucleus and Ending.  
+共23个。Full表与中文CVVC韵尾一致，Lite表则会将斜体的韵尾并入`ou`, `en`, `eng`中。  
+整合后个数14个，制作时需将Overlap放在韵腹韵尾的交界处。 
+In total of 23. The Full table is consistent with the Chinese CVVC ending, while the Lite table will incorporate the italicized ending into `ou`, `en`,` eng`.  
+In total of 14 after integration. During OTO, Overlap needs to be placed at the junction of Nucleus and Ending.  
 
 ## 制作指南
 模板中CV/VC/Extra部分分开设定. 设定完成后请合并回同一文件中.   
