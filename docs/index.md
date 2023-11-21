@@ -67,12 +67,20 @@ In total of 23. The Full table is consistent with the Chinese CVVC ending, while
 整合后个数14个，制作时需将Overlap放在韵腹韵尾的交界处。  
 In total of 14 after integration. During OTO, Overlap needs to be placed at the junction of Nucleus and Ending.
 
+## 录制指南
+
+在写了 / In progressing.
+
 ## 制作指南
 
 模板中CV/VC/Extra部分分开设定. 设定完成后请合并回同一文件中.  
 CV/VC/Extra parts are seperated in templates. Merge them while OTO are done.
 
 剩下的在写了 / In progressing.
+
+## 使用指南
+
+在写了 / In progressing.
 
 ## 示例声库
 
