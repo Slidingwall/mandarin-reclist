@@ -4,8 +4,8 @@
 
 | 版本<br/>Version | 录音条数<br/>Recording Lines | 元音设定条数<br/>OTO lines | 每行音节<br/>Syllables in each line |
 | -------------------- | -------------------------------- | ------------------------------ | --------------------------------------- |
-| **Full** | 90 | 825 | 8 |
-| **Lite** | 66 | 561 | 8 |
+| **Full** | 88 | 825 | 8 |
+| **Lite** | 65 | 561 | 8 |
 | **Extra^** | 23 | 110 | N/A |
 
 ^：`Extra`主要录制开头或语尾音素。  
@@ -45,11 +45,10 @@ Among them, there are four cases of Medial: `No Medial`, `i-`, `u-`, `ü-`, and 
 > - ei, ui, ie, ue;
 > - ian, uan;
 > - ong, iong;
-> - o/uo, e, i, u, ü, er, i0, ir
+> - e, i, u/o/uo, ü, er, i0, ir
 
-共25个，与声母结合后可产生274个CV组合，录音表收录了其中的273个读音。  
-In total of 25. Combined with Inintal, it can produce 274 CV combinations, of which 273 pronunciations are in the reclist.
-
+共24个，与声母结合后可产生274个CV组合。
+In total of 24. Combined with Inintal, it can produce 274 CV combinations.  
 **韵腹韵尾组合整理如下：**  
 **Nucleus-Ending Combanations are organized as follows:**
 

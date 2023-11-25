@@ -7,8 +7,8 @@ A minimal reclist for Mandarin stitching voickbank(UTAU, DeelVocal, Vocalsharp).
 
 | 版本<br/>Version | 录音条数<br/>Recording Lines | 元音设定条数<br/>OTO lines | 每行音节<br/>Syllables in each line |
 | -------------------- | -------------------------------- | ------------------------------ | --------------------------------------- |
-| **Full** | 90 | 825 | 8 |
-| **Lite** | 66 | 561 | 8 |
+| **Full** | 88 | 825 | 8 |
+| **Lite** | 65 | 561 | 8 |
 | **Extra^** | 23 | 110 | N/A |
 
 ^：`Extra`主要录制开头或语尾音素。  
