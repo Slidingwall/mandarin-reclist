@@ -3,7 +3,7 @@
 ## 版本对比 Version Comparison
 
 | 版本<br/>Version | 录音条数<br/>Recording Lines | 元音设定条数<br/>OTO lines | 每行音节<br/>Syllables in each line |
-| -------------------- | -------------------------------- | ------------------------------ | --------------------------------------- |
+| :--------------------: | :--------------------------------: | :------------------------------: | :---------------------------------------: |
 | **Full** | 88 | 825 | 8 |
 | **Lite** | 65 | 561 | 8 |
 | **Extra^** | 23 | 110 | N/A |
@@ -20,7 +20,7 @@ Each Chinese syllable is composed of `Onset` and `Rhyme`. The `Onset` is divided
 Among them, there are four cases of Medial: `No Medial`, `i-`, `u-`, `ü-`, and five cases of Ending: `No Ending`, `-i`, `-u`, `-n`, and `-ng`. And there are a total of 14 Nuclei. It can be organized into the following table:
 
 | 可能的韵头<br/>Possible Medials | 韵腹(X-SAMPA)<br/>Nuclei in X-SAMPA | 可能的韵尾<br/>Possible Endings | 可组合的韵母<br/> Possible Vowels |
-| ----------------------------------- | ---------------------------------------- | ----------------------------------- | ---------------------------------- |
+| :-----------------------------------: | :----------------------------------------: | :-----------------------------------: | :----------------------------------: |
 | ∅, i-, u- | a | ∅, -i, -n | a, ai, an, ia, ua, uai, uan |
 | ∅, i-, u- | A | -u, -ng | ao, ang, iao, iang, uang |
 | u- | o | ∅ | o, uo |
@@ -47,8 +47,9 @@ Among them, there are four cases of Medial: `No Medial`, `i-`, `u-`, `ü-`, and 
 > - ong, iong;
 > - e, i, u/o/uo, ü, er, i0, ir
 
-共24个，与声母结合后可产生274个CV组合。
+共24个，与声母结合后可产生274个CV组合。  
 In total of 24. Combined with Inintal, it can produce 274 CV combinations.  
+
 **韵腹韵尾组合整理如下：**  
 **Nucleus-Ending Combanations are organized as follows:**
 
@@ -60,8 +61,8 @@ In total of 24. Combined with Inintal, it can produce 274 CV combinations.
 > - e0, ei;
 > - o, e, u, er, i0, ir, ***en0***, ***ong***
 
-共23个。Full表与中文CVVC韵尾一致，而Lite表则会将粗斜体的韵尾并入 `ou`, `en`, `eng`中。  
-In total of 23. The Full table is consistent with the Chinese CVVC ending, while the Lite table will incorporate the bold-italicized ending into `ou`, `en`,`eng`.  
+共23个。Full表与中文CVVC韵尾一致，而Lite表则会将粗斜体的韵尾并入 `ei`, `ou`, `en`, `eng`中。  
+In total of 23. The Full table is consistent with the Chinese CVVC ending, while the Lite table will incorporate the bold-italicized ending into `ei`, `ou`, `en`,`eng`.  
 
 整合后个数14个，制作时需将Overlap放在韵腹韵尾的交界处。  
 In total of 14 after integration. During OTO, Overlap needs to be placed at the junction of Nucleus and Ending.
