@@ -85,3 +85,7 @@ CV/VC/Extra parts are seperated in templates. Merge them while OTO are done.
 ## 示例声库
 
 在录了 / In progressing.
+
+## 相关链接
+
+My projects:    [vocaloid-dictionaries](/vocaloid-dictionaries/)    [synthv-dictionaries](/synthv-dictionaries/)
