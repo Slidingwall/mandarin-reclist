@@ -141,3 +141,5 @@ It should be noted that when `an` is combined with `i-` and `ü-`, the pronuncia
 
 这几个是后鼻音，它们分别是对应的韵母同`ng`结合而成的。需要注意的是，`ang`中的`a`在这里发`ɑ`的音，像`tongue`不过口型更大，`eng`中的`e`在这里发`ə`的音，像`melancholy`中的第二个音节，`ong`中的`o`在这里发`ʊ`的音。  
 These are post-nasal sounds, and they are formed by combining the corresponding finals with 'ng', respectively. It should be noted that the 'a' in 'ang' pronounces 'ɑ' here, like a 'tongue' but the mouth is more open, the 'e' in 'eng' pronounces 'ə' here, like the second syllable in 'melancholy', and the 'o' in 'ong' pronounces 'ʊ' here.
+
+[Back to home](/mandarin-reclist/)
