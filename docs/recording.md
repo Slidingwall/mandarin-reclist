@@ -73,7 +73,10 @@ In total of 14 after integration. During OTO, Overlap needs to be placed at the 
 ## 发音指导 Pronunciation instruction
 
 对于非中文母语者而言，想掌握汉语拼音的一个难处在于每个字母可能对应多个不同的发音。不过好消息是，录制用于歌唱的语音库不需要考虑音调的问题。你可以通过现有的语音库来指导发声，或者搜索相关的教学视频。  
-For non-native Chinese speakers, one of the difficulties in mastering Hanyu Pinyin is that each letter may correspond to multiple different sounds. The good news, though, is that recording a voice library for singing doesn't need to take into account the pitch. You can use your existing voice library to guide vocalization, or search for relevant instructional videos.  
+For non-native Chinese speakers, one of the difficulties in mastering Hanyu Pinyin is that each letter may correspond to multiple different sounds. The good news, though, is that recording a voice library for singing doesn't need to take into account the pitch. You can use your existing voice library to guide vocalization, or search for relevant instructional videos. 
+
+您可以参考[发音记号表](/vocaloid-dictionaries/symbol-charts)以便从其它语言中获得与普通话相近的发音。  
+You can refer to the [Symbol Charts](/vocaloid-dictionaries/symbol-charts) to get pronunciations similar to Mandarin from other languages.
 
 下面会简单讲解一下每个拼音的发音。  
 The following will briefly explain the pronunciation of each pinyin.  
@@ -122,7 +125,7 @@ The `e` is pronounced `ɤ` when it appears alone, which is a bit like the `u` in
 ### ai,ei,ui,ao,ou,iu
 
 这些双元音在英语中都可以找得到。`ai`的发音就像字母`I`，`ei`的发音就像字母`A`，`ao`的发音就像`now`中的`ow`，不过`a`的发音更靠后（`ɑ`），`ou`的发音就像字母`O`。`ui`和`iu`实质上是`uei`和`iou`的缩写。`uei`的发音类似`way`，而`iou`的发音则更像`yogurt`的第一个音节（`jəu-gət`）。请注意，它与字母`U`或者英语`you`的发音（`ju:`）不同。  
-These diphthongs can be found in English. `ai` is pronounced like the letter `I`, `ei` is pronounced like the letter `A`, `ao` is pronounced like `ow` in `now`, but the 'a' is pronounced more back ('ɑ'), and `ou` is pronounced like the letter `O`. `ui` and `iu` are essentially abbreviations of `uei` and `iou`. `uei` is pronounced like `way`, while `iou` is pronounced more like the first syllable of `yogurt` (`jəu-gət`). Note that it is not the same as the letter `U` or the English pronunciation of `you` (`ju:`).
+These diphthongs can be found in English. `ai` is pronounced like the letter `I`, `ei` is pronounced like the letter `A`, `ao` is pronounced like `ow` in `now`, but the `a` is pronounced more back (`ɑ`), and `ou` is pronounced like the letter `O`. `ui` and `iu` are essentially abbreviations of `uei` and `iou`. `uei` is pronounced like `way`, while `iou` is pronounced more like the first syllable of `yogurt` (`jəu-gət`). Note that it is not the same as the letter `U` or the English pronunciation of `you` (`ju:`).
 
 ### ie,üe,er
 
@@ -140,6 +143,6 @@ It should be noted that when `an` is combined with `i-` and `ü-`, the pronuncia
 ### ang,eng,ing,ong
 
 这几个是后鼻音，它们分别是对应的韵母同`ng`结合而成的。需要注意的是，`ang`中的`a`在这里发`ɑ`的音，像`tongue`不过口型更大，`eng`中的`e`在这里发`ə`的音，像`melancholy`中的第二个音节，`ong`中的`o`在这里发`ʊ`的音。  
-These are post-nasal sounds, and they are formed by combining the corresponding finals with 'ng', respectively. It should be noted that the 'a' in 'ang' pronounces 'ɑ' here, like a 'tongue' but the mouth is more open, the 'e' in 'eng' pronounces 'ə' here, like the second syllable in 'melancholy', and the 'o' in 'ong' pronounces 'ʊ' here.
+These are post-nasal sounds, and they are formed by combining the corresponding finals with `ng`, respectively. It should be noted that the `a` in `ang` pronounces `ɑ` here, like a `tongue` but the mouth is more open, the `e` in `eng` pronounces `ə` here, like the second syllable in `melancholy`, and the `o` in `ong` pronounces `ʊ` here.
 
 [Back to home](/mandarin-reclist/)
