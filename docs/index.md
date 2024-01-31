@@ -11,12 +11,16 @@
 ^：`Extra`主要录制开头或语尾音素。  
 ^: `Extra` is mainly for beginning or ending notes.
 
-## 录制指南
+## 录制指南 / Recording Guide
+
+如果您是汉语母语者，您可以直接使用汉字注释辅助您的录制。  
+If you are a native Chinese speaker, you can directly use HanziComments to assist your recording.   
 
 [包含音标详解与发音指导。 / Contains phonetic transcription and pronunciation instructions.](/mandarin-reclist/recording)
 
-## 制作指南
+## 制作指南 / Producing Guide
 
+[包含如何使用录音软件和标注软件。 / Contains how to use recording software and labeling software.](/mandarin-reclist/)
 模板中CV/VC/Extra部分分开设定. 设定完成后请合并回同一文件中.  
 CV/VC/Extra parts are seperated in templates. Merge them while OTO are done.
 
