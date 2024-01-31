@@ -20,7 +20,7 @@ If you are a native Chinese speaker, you can directly use HanziComments to assis
 
 ## 制作指南 / Producing Guide
 
-[包含如何使用录音软件和标注软件。 / Contains how to use recording software and labeling software.](/mandarin-reclist/)
+[包含如何使用录音软件和标注软件。 / Contains how to use recording software and labeling software.](/mandarin-reclist/producing)  
 模板中CV/VC/Extra部分分开设定. 设定完成后请合并回同一文件中.  
 CV/VC/Extra parts are seperated in templates. Merge them while OTO are done.
 
