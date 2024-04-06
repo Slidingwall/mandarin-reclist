@@ -50,8 +50,8 @@ Among them, there are four cases of Medial: `No Medial`, `i-`, `u-`, `ü-`, and 
 > - ong, iong;
 > - e, i, u/o/uo, ü, er, i0, ir
 
-共24个，与声母结合后可产生274个CV组合。  
-In total of 24. Combined with Inintal, it can produce 274 CV combinations.  
+共24个，与声母结合后可产生274个CV组合。Lite表将`ian`并入`ie`，`uan`并入`ue`，总计259个CV组合。  
+In total of 24. Combined with Inintal, it can produce 274 CV combinations. Lite table will combine `ian` into `ie`, `uan` into `ue`, in total of 259 CV combinations.  
 
 **韵腹韵尾组合整理如下：**  
 **Nucleus-Ending Combanations are organized as follows:**

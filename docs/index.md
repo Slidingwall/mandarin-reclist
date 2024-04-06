@@ -4,8 +4,8 @@
 
 | 版本<br/>Version | 录音条数<br/>Recording Lines | 元音设定条数<br/>OTO lines | 每行音节<br/>Syllables in each line |
 | :--------------------: | :--------------------------------: | :------------------------------: | :---------------------------------------: |
-| **Full** | 88 | 825 | 8 |
-| **Lite** | 65 | 561 | 8 |
+| **Full** | 88 | 826 | 8 |
+| **Lite** | 63 | 595 | 8 |
 | **Extra^** | 23 | 110 | N/A |
 
 ^：`Extra`主要录制开头或语尾音素。  
@@ -20,7 +20,11 @@ If you are a native Chinese speaker, you can directly use HanziComments to assis
 
 ## 制作指南 / Producing Guide
 
+这部分教程会讲述如何使用RecStar进行录制，用vLabeler进行标注，以及将其转换为Deepvocal/Vocalsharp所支持的语音库。
+In this tutorial, you'll learn how to record with RecStar, annotate with vLabeler, and convert it to a voice library supported by Deepvocal/Vocalsharp.
+
 [包含如何使用录音软件和标注软件。 / Contains how to use recording software and labeling software.](/mandarin-reclist/producing)  
+
 模板中CV/VC/Extra部分分开设定. 设定完成后请合并回同一文件中.  
 CV/VC/Extra parts are seperated in templates. Merge them while OTO are done.
 
