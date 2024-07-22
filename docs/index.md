@@ -28,6 +28,9 @@ In this tutorial, you'll learn how to record with RecStar, annotate with vLabele
 模板中CV/VC/Extra部分分开设定. 设定完成后请合并回同一文件中.  
 CV/VC/Extra parts are seperated in templates. Merge them while OTO are done.
 
+请注意, OpenUTAU不支持`presamp.ini`文件中的`[REPLACE]`项，因此分发时请使用`presamp_OprnUTAU.ini`, 并通过[KiraOtoToolbox](https://github.com/shine5402/KiraOtoToolbox), 导入`Copy_****.json`进行复制以达到预期效果。  
+Please note that OpenUTAU does not support the `[REPLACE]` item in the `presamp.ini` file, so please use `presamp_OprnUTAU.ini` when distributing and import `Copy_****.json` via [KiraOtoToolbox](https://github.com/shine5402/KiraOtoToolbox) Make a copy to achieve the desired effect.  
+
 剩下的在写了 / In progressing.
 
 ## 使用指南
