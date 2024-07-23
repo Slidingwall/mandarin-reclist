@@ -18,16 +18,16 @@ nav_order: 1
 
 ## 指南 / Guide
 
-[音标与发音](/mandarin-reclist/recording)介绍了本录音笔的设计思路，以及普通话的发音指南。如果您是汉语母语者，您可以直接使用汉字注释辅助您的录制。  
-[Phonetics and pronunciation](/mandarin-reclist/recording) introduce the design ideas of this Reclist, as well as the pronunciation guide of Mandarin. If you are a native Chinese speaker, you can directly use HanziComments to assist your recording.   
+[**音标与发音**](/mandarin-reclist/recording)介绍了本录音笔的设计思路，以及普通话的发音指南。如果您是汉语母语者，您可以直接使用汉字注释辅助您的录制。  
+[**Phonetics and pronunciation**](/mandarin-reclist/recording) introduce the design ideas of this Reclist, as well as the pronunciation guide of Mandarin. If you are a native Chinese speaker, you can directly use HanziComments to assist your recording.   
 
-[制作声库](/mandarin-reclist/producing) 会讲述如何使用RecStar进行录制，用vLabeler进行标注，以及将其转换为Deepvocal/Vocalsharp所支持的语音库。
-In [Producing Voicebank](/mandarin-reclist/producing), you'll learn how to record with RecStar, annotate with vLabeler, and convert it to a voice library supported by Deepvocal/Vocalsharp.
+[**制作声库**](/mandarin-reclist/producing) 会讲述如何使用RecStar进行录制，用vLabeler进行标注，以及将其转换为Deepvocal/Vocalsharp所支持的语音库。  
+In [**Producing Voicebank**](/mandarin-reclist/producing), you'll learn how to record with RecStar, annotate with vLabeler, and convert it to a voice library supported by Deepvocal/Vocalsharp.
 
 模板中CV/VC/Extra部分分开设定. 设定完成后请合并回同一文件中.  
 CV/VC/Extra parts are seperated in OTO templates. Merge them while OTO labeling are done.
 
-{: .important }
+{: .warning }
 > 请注意, OpenUTAU不支持`presamp.ini`文件中的`[REPLACE]`项，因此分发时请使用`presamp_OpenUTAU.ini`, 并通过[KiraOtoToolbox](https://github.com/shine5402/KiraOtoToolbox), 导入`Copy_****.json`, 对CV部分进行复制以达到预期效果。  
 > Please note that OpenUTAU does not support the `[REPLACE]` item in the `presamp.ini` file, so please use `presamp_OpenUTAU.ini` when distributing and import `Copy_****.json` via [KiraOtoToolbox](https://github.com/shine5402/KiraOtoToolbox), Make a copy of CV parts to achieve the desired effect.  
 
