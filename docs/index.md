@@ -41,6 +41,8 @@ CV/VC/Extra parts are seperated in OTO templates. Merge them while OTO labeling 
 
 在录了 / In progressing.
 
-## 相关链接
+{: .important-title }
+> See also / 参见: 
+> 
+> [vocaloid-dictionaries](/vocaloid-dictionaries/){: .btn .btn-blue .mr-2 }  [synthv-dictionaries](/synthv-dictionaries/){: .btn .btn-blue .mr-2 }
 
-My projects:    [vocaloid-dictionaries](/vocaloid-dictionaries/){: .btn .fs-5 .mb-4 .mb-md-0 }    [synthv-dictionaries](/synthv-dictionaries/){: .btn .fs-5 .mb-4 .mb-md-0 }
