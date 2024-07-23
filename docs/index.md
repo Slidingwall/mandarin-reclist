@@ -1,3 +1,8 @@
+---
+title: HOME 主页
+nav_order: 1
+---
+
 # CVVC reclist
 
 ## 版本对比 Version Comparison
