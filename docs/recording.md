@@ -1,6 +1,11 @@
-# 录制指南 Recording Guide
-- [录制指南 Recording Guide](#录制指南-recording-guide)
-  - [音标详解 Phonetic transcription in detail](#音标详解-phonetic-transcription-in-detail)
+---
+nav_order: 1
+---
+
+
+# Phonetics and Pronunciation 音标与发音
+- [Phonetics and Pronunciation 音标与发音](#phonetics-and-pronunciation-音标与发音)
+  - [音标详解 Phonetics in detail](#音标详解-phonetics-in-detail)
   - [发音指导 Pronunciation instruction](#发音指导-pronunciation-instruction)
     - [b/p,d/t,g/k](#bpdtgk)
     - [m,f,n,l,h](#mfnlh)
@@ -14,7 +19,7 @@
     - [an,en,in,un,ün](#aneninunün)
     - [ang,eng,ing,ong](#angengingong)
 
-## 音标详解 Phonetic transcription in detail
+## 音标详解 Phonetics in detail
 
 每个汉语音节均由 `首音`和 `韵`组成。`首音`分为 `声母`和 `韵头(介音)`，`韵`分为 `韵腹(核音)`和 `韵尾(尾音)`。[*参考来源*](http://jpk.pku.edu.cn/course/llyyx/script/142.pdf)  
 Each Chinese syllable is composed of `Onset` and `Rhyme`. The `Onset` is divided into `Initial` and `Medial`, while `Rhyme` is divided into `Nucleus` and `Ending`. [*Reference source*](http://jpk.pku.edu.cn/course/llyyx/script/142.pdf)
@@ -104,7 +109,7 @@ The first two are more like the Japanese word for `chi (ち)`, which is also an 
 ### zh/ch,sh/r
 
 虽然不是同一个音标，但是第一对会更像英语里的`tʃ`，就像`Church`里的`ch`一样，也是一个不送气一个送气。第二对则更像英语里的`ʃ`和`ʒ`，`sh`比较像英语`share`里的`sh`，`r`比较像英语里`measure`中`s`的发音。需要注意的是，这只是近似的音标。它们正确的音标应该是`tʂ` `tʂʰ` `ʂ`和`ʐ`。  
-Although it is not the same phonetic alphabet, the first pair will be more like the `tʃ` in English, like the `ch` in `Church`, one is one without aspiration and one aspirated. The second pair is more like the `ʃ` and `ʒ` in English, the `sh` is more like the `sh` in `share`, and the `r` is more like the `s` in `measure`. It is important to note that this is only an approximate phonetic transcription. Their correct phonetic transcription should be `tʂ`, `tʂh`, `ʂ` and `ʐ`.  
+Although it is not the same phonetic alphabet, the first pair will be more like the `tʃ` in English, like the `ch` in `Church`, one is one without aspiration and one aspirated. The second pair is more like the `ʃ` and `ʒ` in English, the `sh` is more like the `sh` in `share`, and the `r` is more like the `s` in `measure`. It is important to note that this is only an approximate phonetics. Their correct phonetics should be `tʂ`, `tʂh`, `ʂ` and `ʐ`.  
 
 ### y(i-),w(u-)
 
@@ -145,4 +150,3 @@ It should be noted that when `an` is combined with `i-` and `ü-`, the pronuncia
 这几个是后鼻音，它们分别是对应的韵母同`ng`结合而成的。需要注意的是，`ang`中的`a`在这里发`ɑ`的音，像`tongue`不过口型更大，`eng`中的`e`在这里发`ə`的音，像`melancholy`中的第二个音节，`ong`中的`o`在这里发`ʊ`的音。  
 These are post-nasal sounds, and they are formed by combining the corresponding finals with `ng`, respectively. It should be noted that the `a` in `ang` pronounces `ɑ` here, like a `tongue` but the mouth is more open, the `e` in `eng` pronounces `ə` here, like the second syllable in `melancholy`, and the `o` in `ong` pronounces `ʊ` here.
 
-[Back to home](/mandarin-reclist/)

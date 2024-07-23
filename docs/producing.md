@@ -1,6 +1,11 @@
-# 制作指南 Producing Guide
+---
+nav_order: 2
+---
 
-## 录音软件 Recording Software
+
+# 制作声库 Producing Voicebank
+
+## 录音 Recording
 
 此处以最新的录制软件[`RecStar`](https://github.com/sdercolin/RecStar)的Windows版本，以及[`いつほし式8モーラガイドBGM`](https://bowlroll.net/file/50209)做示范。  
 This is an example of the Windows version of the latest recording software [`RecStar`](https://github.com/sdercolin/RecStar) and the [`いつほし式8モーラガイドBGM`](https://bowlroll.net/file/50209).    
@@ -33,7 +38,7 @@ Then, click on the note symbol on the right side to select the BGM file.
 最后，点击红色按钮或按下回车键即可开始您的录制。红色按钮的两侧箭头或者键盘的左右箭头可以切换录音。  
 Last, click the red button or press enter to start your recording. The arrows on either side of the red button or the left and right arrows on the keyboard can switch recordings.
 
-## 标注软件 Labeling Software 
+## 标注 Labeling
 
  此处以最新的制作软件[`vLabeler`]()的Windows版本做示范。  
 
@@ -58,4 +63,3 @@ Last, click the red button or press enter to start your recording. The arrows on
 
 标注完成后，选择`文件`->`导出`以保存标注好的oto.ini。
 
-[Back to home](/mandarin-reclist/)
