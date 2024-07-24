@@ -47,6 +47,7 @@ Among them, there are four cases of Medial: `No Medial`, `i-`, `u-`, `ü-`, and 
 **韵头韵腹组合整理如下：**  
 **Medial-Nucleus Combanations are organized as follows:**
 
+{: .highlight }
 > - a, ia, ua;
 > - A, iA, uA;
 > - @, i@, u@;
@@ -61,6 +62,7 @@ In total of 24. Combined with Inintal, it can produce 274 CV combinations. Lite 
 **韵腹韵尾组合整理如下：**  
 **Nucleus-Ending Combanations are organized as follows:**
 
+{: .highlight }
 > - a, ***ai***, ***an***;
 > - ***ao***, ***ang***;
 > - i, ***in***, ***ing***;
