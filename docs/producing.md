@@ -28,19 +28,19 @@ Then, click on the note symbol on the right side to select the BGM file.
 
 <details>
 <summary>The following has been fixed in the latest version of Recstar. 以下内容在最新版的Recstar中已修复。</summary>
-
-{: .warning-title }
+  
+{: .warning-title }  
 > 过时信息 / Outdated  
 >  
 > 如果您在设置中选择`连续录音(基于BGM设置)`或`裁剪录音(基于BGM设置)`，以120BPM的BGM为例，我们建议您将10,11行的更改为：  
-> If you select `Continuous Recording (Based on the guide BGM)` or `Trim Recording (Based on the guide BGM)` in the settings, taking a BGM of 120BPM as an example, we recommend that you change the 10,11 lines to:
+> If you select `Continuous Recording (Based on the guide BGM)` or `Trim Recording (Based on the guide BGM)` in the settings, taking a BGM of 120BPM as an example, we recommend that you change the 10,11 lines to:  
 >```
 >   5, 7.5,	0, 1, 0, 0, 録音停止  
 >   6, 7.5,	0, 0, 1, 1, 録音を保存し次へ  
 >```
 > 对于其它节奏的BGM，您可能需要手动调节他们的动作时间，以保证录音完整。对于已经导入的BGM，您可以在`帮助`->`打开内容目录`中，找到`bgms`文件夹，调整`*.config.json`文件中的动作时间(`"timeMS"`，以毫秒为单位)。调整完成后，保存文件并重启RecStar。  
-> For BGMs of other speeds, you may need to manually adjust their movement time to ensure that the recording is complete. For BGMs that have already been imported, you can find the 'bgms' folder in `Help`->`Open Content Directory` and adjust the action time (`"timeMS"`, in milliseconds) in the `*.config.json` file. Once the adjustment is complete, save the file and restart RecStar.
-
+> For BGMs of other speeds, you may need to manually adjust their movement time to ensure that the recording is complete. For BGMs that have already been imported, you can find the 'bgms' folder in `Help`->`Open Content Directory` and adjust the action time (`"timeMS"`, in milliseconds) in the `*.config.json` file. Once the adjustment is complete, save the file and restart RecStar.  
+  
 </details>
 
 
