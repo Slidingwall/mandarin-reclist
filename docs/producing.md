@@ -2,8 +2,7 @@
 nav_order: 3
 ---
 
-
-# 制作声库 Producing Voicebank
+# 录制与标注 Recording and Labeling
 
 ## 录音 Recording
 
@@ -16,7 +15,9 @@ First, click `File` ->`Import Reclist`, and `File`->`Import Guide BGM` to import
 
 ![Create new session](/assets/RS2.png)  
 其次，点击右下角的`+`按钮，选择导入的录音表及注释，以新建录音会话。  
-Second, click the '+' button in the bottom right corner and select the imported recording sheet and comments to create a new recording session.  
+Second, click the '+' button in the bottom right corner and select the imported recording sheet and comments to create a new recording session. 
+
+{: .note }
 > 如果您选择导入注释，请在设置中选择带有注释的标题栏样式。  
 > If you choose to import comments, select a title bar style with comments in the settings.   
 > ![Create new session](/assets/RS2-1.png)
@@ -26,7 +27,7 @@ Second, click the '+' button in the bottom right corner and select the imported 
 Then, click on the note symbol on the right side to select the BGM file.  
 
 {: .warning-title }
-> 过时信息 / Outdated   --Fixed in the latest Recstar version. 在最新版的Recstar中已修复。
+> 过时信息 / Outdated   --Fixed in the latest Recstar version. 在最新版的Recstar中已修复。  
 > 如果您在设置中选择`连续录音(基于BGM设置)`或`裁剪录音(基于BGM设置)`，以120BPM的BGM为例，我们建议您将10,11行的更改为：  
 > If you select `Continuous Recording (Based on the guide BGM)` or `Trim Recording (Based on the guide BGM)` in the settings, taking a BGM of 120BPM as an example, we recommend that you change the 10,11 lines to:
 >```
@@ -53,20 +54,24 @@ CV/VC/Extra parts are seperated in OTO templates. Merge them while OTO labeling 
 
 再次，在数据源设置中，选择`文件`，然后导入录音表所对应的oto模板。  
 
-{: .notice }
+{: .note }
 > 如果vLabeler提示您导入出错，尝试将oto模板移动到C盘并重新导入。
 
 最后，您可以看到vLabeler的标注界面，开始进行标注。  
 
-> 对于不同类型的采样，您的标注应如下：  
+对于不同类型的采样，您的标注应如下：  
+
+{: .new-title }
 > 对于CV而言：  
 > 当其声母为爆破音时(b,p,d,t,g,k,j,q,zh,ch,z,c)，黄线（左边界）与`重`应该重合。
 > 当其声母为其他辅音时(m,f,n,l,h,x,sh,r,s)，`重`应位于声母波形稳定处。
 > 以上两种情况下，黄线（左边界）位于波形开始处，`先`位于辅音元音交界处。
 > 当其声母为半元音(y,w)或不含声母为纯元音时，黄线（左边界）、`重`、`先`应该重合。
 > `固`和白线（右边界）分别位于韵腹（波形稳定处）的开头与结尾。当介音(i-,u-,ü-)存在时，它应该位于蓝色区域内。当韵尾(-i,-u,-n,-ng)存在时，它应该位于白色区域内。
-> 对于VC而言：
-> 对于Extra而言：
+{: .important-title }
+> 对于VC而言：  
+{: .highlight-title }
+> 对于Extra而言：  
 
 标注完成后，选择`文件`->`导出`以保存标注好的oto.ini。
 
