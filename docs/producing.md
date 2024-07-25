@@ -26,8 +26,11 @@ Second, click the '+' button in the bottom right corner and select the imported 
 再次，点击右侧的音符符号以选择BGM文件。  
 Then, click on the note symbol on the right side to select the BGM file.  
 
+<details>
+<summary>The following has been fixed in the latest version of Recstar. 以下内容在最新版的Recstar中已修复。</summary>
+
 {: .warning-title }
-> 过时信息 / Outdated   --Fixed in the latest Recstar version. 在最新版的Recstar中已修复。  
+> 过时信息 / Outdated  
 >  
 > 如果您在设置中选择`连续录音(基于BGM设置)`或`裁剪录音(基于BGM设置)`，以120BPM的BGM为例，我们建议您将10,11行的更改为：  
 > If you select `Continuous Recording (Based on the guide BGM)` or `Trim Recording (Based on the guide BGM)` in the settings, taking a BGM of 120BPM as an example, we recommend that you change the 10,11 lines to:
@@ -37,6 +40,9 @@ Then, click on the note symbol on the right side to select the BGM file.
 >```
 > 对于其它节奏的BGM，您可能需要手动调节他们的动作时间，以保证录音完整。对于已经导入的BGM，您可以在`帮助`->`打开内容目录`中，找到`bgms`文件夹，调整`*.config.json`文件中的动作时间(`"timeMS"`，以毫秒为单位)。调整完成后，保存文件并重启RecStar。  
 > For BGMs of other speeds, you may need to manually adjust their movement time to ensure that the recording is complete. For BGMs that have already been imported, you can find the 'bgms' folder in `Help`->`Open Content Directory` and adjust the action time (`"timeMS"`, in milliseconds) in the `*.config.json` file. Once the adjustment is complete, save the file and restart RecStar.
+
+</details>
+
 
 ![Recording](/assets/RS4.png)  
 最后，点击红色按钮或按下回车键即可开始您的录制。红色按钮的两侧箭头或者键盘的左右箭头可以切换录音。  
@@ -65,11 +71,11 @@ CV/VC/Extra parts are seperated in OTO templates. Merge them while OTO labeling 
 {: .new-title }
 > 对于CV而言：  
 >  
-> 当其声母为爆破音时(b,p,d,t,g,k,j,q,zh,ch,z,c)，黄线（左边界）与`重`应该重合。
-> 当其声母为其他辅音时(m,f,n,l,h,x,sh,r,s)，`重`应位于声母波形稳定处。
-> 以上两种情况下，黄线（左边界）位于波形开始处，`先`位于辅音元音交界处。
-> 当其声母为半元音(y,w)或不含声母为纯元音时，黄线（左边界）、`重`、`先`应该重合。
-> `固`和白线（右边界）分别位于韵腹（波形稳定处）的开头与结尾。当介音(i-,u-,ü-)存在时，它应该位于蓝色区域内。当韵尾(-i,-u,-n,-ng)存在时，它应该位于白色区域内。
+> 当其声母为爆破音时(b,p,d,t,g,k,j,q,zh,ch,z,c)，黄线（左边界）与`重`应该重合。  
+> 当其声母为其他辅音时(m,f,n,l,h,x,sh,r,s)，`重`应位于声母波形稳定处。  
+> 以上两种情况下，黄线（左边界）位于波形开始处，`先`位于辅音元音交界处。  
+> 当其声母为半元音(y,w)或不含声母为纯元音时，黄线（左边界）、`重`、`先`应该重合。  
+> `固`和白线（右边界）分别位于韵腹（波形稳定处）的开头与结尾。当介音(i-,u-,ü-)存在时，它应该位于蓝色区域内。当韵尾(-i,-u,-n,-ng)存在时，它应该位于白色区域内。  
   
   
 {: .important-title }
