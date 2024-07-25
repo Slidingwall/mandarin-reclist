@@ -25,6 +25,8 @@ Second, click the '+' button in the bottom right corner and select the imported 
 再次，点击右侧的音符符号以选择BGM文件。  
 Then, click on the note symbol on the right side to select the BGM file.  
 
+{: .warning-title }
+> 过时信息 / Outdated   --Fixed in the latest Recstar version. 在最新版的Recstar中已修复。
 > 如果您在设置中选择`连续录音(基于BGM设置)`或`裁剪录音(基于BGM设置)`，以120BPM的BGM为例，我们建议您将10,11行的更改为：  
 > If you select `Continuous Recording (Based on the guide BGM)` or `Trim Recording (Based on the guide BGM)` in the settings, taking a BGM of 120BPM as an example, we recommend that you change the 10,11 lines to:
 >```
@@ -40,7 +42,10 @@ Last, click the red button or press enter to start your recording. The arrows on
 
 ## 标注 Labeling
 
- 此处以最新的制作软件[`vLabeler`]()的Windows版本做示范。  
+此处以最新的制作软件[`vLabeler`]()的Windows版本做示范。  
+
+模板中CV/VC/Extra部分分开设定. 设定完成后请合并回同一文件中.  
+CV/VC/Extra parts are seperated in OTO templates. Merge them while OTO labeling are done.
 
 首先，新建项目，在目录设置中，选择在RecStar中录制完成的文件夹。  
 
@@ -48,6 +53,7 @@ Last, click the red button or press enter to start your recording. The arrows on
 
 再次，在数据源设置中，选择`文件`，然后导入录音表所对应的oto模板。  
 
+{: .notice }
 > 如果vLabeler提示您导入出错，尝试将oto模板移动到C盘并重新导入。
 
 最后，您可以看到vLabeler的标注界面，开始进行标注。  
@@ -60,6 +66,7 @@ Last, click the red button or press enter to start your recording. The arrows on
 > 当其声母为半元音(y,w)或不含声母为纯元音时，黄线（左边界）、`重`、`先`应该重合。
 > `固`和白线（右边界）分别位于韵腹（波形稳定处）的开头与结尾。当介音(i-,u-,ü-)存在时，它应该位于蓝色区域内。当韵尾(-i,-u,-n,-ng)存在时，它应该位于白色区域内。
 > 对于VC而言：
+> 对于Extra而言：
 
 标注完成后，选择`文件`->`导出`以保存标注好的oto.ini。
 
