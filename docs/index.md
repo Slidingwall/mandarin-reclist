@@ -25,7 +25,7 @@ nav_order: 1
 In [**Recording and Labeling**](/mandarin-reclist/producing), you'll learn how to record with RecStar, annotate with vLabeler, and convert it to a voice library supported by Deepvocal/Vocalsharp.
 
 [**测试与使用**](/mandarin-reclist/using)将会介绍如何组装语音库，并让其在UTAU/OpenUTAU、Deepvocal或Vocalsharp发出声音。
-[**Testing and Using**](/mandarin-reclist/using) will show you how to assemble a voice library and make it sound in UTAU/OpenUTAU, Deepvocal, or Vocalsharp
+[**Testing and Using**](/mandarin-reclist/using) will show you how to assemble a voice library and make it sound in UTAU/OpenUTAU, Deepvocal, or Vocalsharp.
 
 ## 示例声库
 
