@@ -24,15 +24,8 @@ nav_order: 1
 [**录制与标注**](/mandarin-reclist/producing) 会讲述如何使用RecStar进行录制，用vLabeler进行标注，以及将其转换为Deepvocal/Vocalsharp所支持的语音库。  
 In [**Recording and Labeling**](/mandarin-reclist/producing), you'll learn how to record with RecStar, annotate with vLabeler, and convert it to a voice library supported by Deepvocal/Vocalsharp.
 
-{: .warning }
-> 请注意, OpenUTAU不支持`presamp.ini`文件中的`[REPLACE]`项，因此分发时请使用`presamp_OpenUTAU.ini`, 并通过[KiraOtoToolbox](https://github.com/shine5402/KiraOtoToolbox), 导入`Copy_****.json`, 对CV部分进行复制以达到预期效果。  
-> Please note that OpenUTAU does not support the `[REPLACE]` item in the `presamp.ini` file, so please use `presamp_OpenUTAU.ini` when distributing and import `Copy_****.json` via [KiraOtoToolbox](https://github.com/shine5402/KiraOtoToolbox), Make a copy of CV parts to achieve the desired effect.  
-
-剩下的在写了 In progressing.
-
-## 使用指南
-
-在写了 In progressing.
+[**测试与使用**](/mandarin-reclist/using)将会介绍如何组装语音库，并让其在UTAU/OpenUTAU、Deepvocal或Vocalsharp发出声音。
+[**Testing and Using**](/mandarin-reclist/using) will show you how to assemble a voice library and make it sound in UTAU/OpenUTAU, Deepvocal, or Vocalsharp
 
 ## 示例声库
 
