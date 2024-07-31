@@ -21,8 +21,8 @@ nav_order: 2
 
 ## 音标详解 Phonetics in detail
 
-每个汉语音节均由 `首音`和 `韵`组成。`首音`分为 `声母`和 `韵头(介音)`，`韵`分为 `韵腹(核音)`和 `韵尾(尾音)`。[*参考来源*](http://jpk.pku.edu.cn/course/llyyx/script/142.pdf)  
-Each Chinese syllable is composed of `Onset` and `Rhyme`. The `Onset` is divided into `Initial` and `Medial`, while `Rhyme` is divided into `Nucleus` and `Ending`. [*Reference source*](http://jpk.pku.edu.cn/course/llyyx/script/142.pdf)
+在中文里，每个音节均由 `首音`和 `韵`组成。`首音`分为 `声母`和 `韵头(介音)`，`韵`分为 `韵腹(核音)`和 `韵尾(尾音)`。[*参考来源*](http://jpk.pku.edu.cn/course/llyyx/script/142.pdf)  
+In Mandarin, each syllable is composed of `Onset` and `Rhyme`. The `Onset` is divided into `Initial` and `Medial`, while `Rhyme` is divided into `Nucleus` and `Ending`. [*Reference source*](http://jpk.pku.edu.cn/course/llyyx/script/142.pdf)
 
 其中，韵头有 `无韵头`, `i-`, `u-`, `ü-`四种情况，韵尾有 `无韵尾`, `-i`, `-u`, `-n`, `-ng`五种情况。韵腹共有14个。可整理为下表：  
 Among them, there are four cases of Medial: `No Medial`, `i-`, `u-`, `ü-`, and five cases of Ending: `No Ending`, `-i`, `-u`, `-n`, and `-ng`. And there are a total of 14 Nuclei. It can be organized into the following table:
@@ -44,6 +44,9 @@ Among them, there are four cases of Medial: `No Medial`, `i-`, `u-`, `ü-`, and 
 | ∅ | i` | ∅ | i (zh ch sh r) |
 | ∅, i- | U | -ng | ong, iong |
 
+CVVC语音库的特点是，在元音延长部分的末尾进行一次拼接。在这里，就是在韵腹，或者韵腹和韵尾的交界处进行一次拼接。因此，可以将韵母按照韵头韵腹、韵腹韵尾分别进行组合。  
+CVVC voice library is characterized by a single splicing at the end of the vowel extension. Here, it is a splicing at Nucleus, or between Nucleus and Ending. Therefore, the finals can be combined separately according to Medial-Nucleus and Nucleus-Ending.  
+
 **韵头韵腹组合整理如下：**  
 **Medial-Nucleus Combanations are organized as follows:**
 
@@ -57,7 +60,7 @@ Among them, there are four cases of Medial: `No Medial`, `i-`, `u-`, `ü-`, and 
 > - e, i, u/o/uo, ü, er, i0, ir
 
 共24个，与声母结合后可产生274个CV组合。Lite表将`ian`并入`ie`，`uan`并入`ue`，总计259个CV组合。  
-In total of 24. Combined with Inintal, it can produce 274 CV combinations. Lite table will combine `ian` into `ie`, `uan` into `ue`, in total of 259 CV combinations.  
+In total of 24. Combined with Inintal, it can produce 274 CV combinations. Lite Reclist will combine `ian` into `ie`, `uan` into `ue`, in total of 259 CV combinations.  
 
 **韵腹韵尾组合整理如下：**  
 **Nucleus-Ending Combanations are organized as follows:**
@@ -72,15 +75,19 @@ In total of 24. Combined with Inintal, it can produce 274 CV combinations. Lite 
 > - o, e, u, er, i0, ir, ***en0***, ***ong***
 
 共23个。Full表与中文CVVC韵尾一致，而Lite表则会将粗斜体的韵尾并入 `ei`, `ou`, `en`, `eng`中。  
-In total of 23. The Full table is consistent with the Chinese CVVC ending, while the Lite table will incorporate the bold-italicized ending into `ei`, `ou`, `en`,`eng`.  
+In total of 23. The Full Reclist is consistent with the Chinese CVVC ending, while the Lite Reclist will incorporate the bold-italicized ending into `ei`, `ou`, `en`,`eng`.  
 
 整合后个数14个，制作时需将Overlap放在韵腹韵尾的交界处。  
 In total of 14 after integration. During OTO, Overlap needs to be placed at the junction of Nucleus and Ending.
 
 ## 发音指导 Pronunciation instruction
 
-对于非中文母语者而言，想掌握汉语拼音的一个难处在于每个字母可能对应多个不同的发音。不过好消息是，录制用于歌唱的语音库不需要考虑音调的问题。你可以通过现有的语音库来指导发声，或者搜索相关的教学视频。  
-For non-native Chinese speakers, one of the difficulties in mastering Hanyu Pinyin is that each letter may correspond to multiple different sounds. The good news, though, is that recording a voice library for singing doesn't need to take into account the pitch. You can use your existing voice library to guide vocalization, or search for relevant instructional videos. 
+对于非中文母语者而言，想掌握汉语拼音的一个难处在于每个字母可能对应多个不同的发音。  
+For non-native Chinese speakers, one of the difficulties in mastering Hanyu Pinyin is that each letter may correspond to multiple different sounds.  
+不过好消息是，录制用于歌唱的语音库不需要考虑音调的问题。  
+The good news, though, is that recording a voice library for singing doesn't need to take into account the pitch.  
+你可以通过现有的语音库来指导发声，或者搜索相关的教学视频。  
+You can use your existing voice library to guide vocalization, or search for relevant instructional videos.   
 
 您可以参考[发音记号表](/vocaloid-dictionaries/symbol-charts)以便从其它语言中获得与普通话相近的发音。  
 You can refer to the [Symbol Charts](/vocaloid-dictionaries/symbol-charts) to get pronunciations similar to Mandarin from other languages.
@@ -110,8 +117,11 @@ The first two are more like the Japanese word for `chi (ち)`, which is also an 
 
 ### zh/ch,sh/r
 
-虽然不是同一个音标，但是第一对会更像英语里的`tʃ`，就像`Church`里的`ch`一样，也是一个不送气一个送气。第二对则更像英语里的`ʃ`和`ʒ`，`sh`比较像英语`share`里的`sh`，`r`比较像英语里`measure`中`s`的发音。需要注意的是，这只是近似的音标。它们正确的音标应该是`tʂ` `tʂʰ` `ʂ`和`ʐ`。  
-Although it is not the same phonetic alphabet, the first pair will be more like the `tʃ` in English, like the `ch` in `Church`, one is one without aspiration and one aspirated. The second pair is more like the `ʃ` and `ʒ` in English, the `sh` is more like the `sh` in `share`, and the `r` is more like the `s` in `measure`. It is important to note that this is only an approximate phonetics. Their correct phonetics should be `tʂ`, `tʂh`, `ʂ` and `ʐ`.  
+虽然不是同一个音标，但是第一对会更像英语里的`tʃ`，就像`Church`里的`ch`一样，也是一个不送气一个送气。  
+Although it is not the same phonetic alphabet, the first pair will be more like the `tʃ` in English, like the `ch` in `Church`, one is one without aspiration and one aspirated.   
+  
+第二对则更像英语里的`ʃ`和`ʒ`，`sh`比较像英语`share`里的`sh`，`r`比较像英语里`measure`中`s`的发音。需要注意的是，这只是近似的音标。它们正确的音标应该是`tʂ` `tʂʰ` `ʂ`和`ʐ`。  
+The second pair is more like the `ʃ` and `ʒ` in English, the `sh` is more like the `sh` in `share`, and the `r` is more like the `s` in `measure`. It is important to note that this is only an approximate phonetics. Their correct phonetics should be `tʂ`, `tʂh`, `ʂ` and `ʐ`.  
 
 ### y(i-),w(u-)
 
@@ -142,10 +152,10 @@ The pronunciation of `e` in the first two pinyin is similar to the `e` in `bed`.
 ### an,en,in,un,ün
 
 这几个是前鼻音，它们分别是对应的韵母同`n`结合而成的。需要注意的是，`en`中的`e`在这里发`ə`的音，类似`London`的第二个音节。而`un`是`uen`的缩写，它的发音更像是轻读时的`when`。此外，由于`l` `n`不会在常用音节中与`ün`结合，录音表中的`ün`均被写为`un`。  
-These are prenasal sounds, and they are formed by combining the corresponding finals with `n`, respectively. It should be noted that the `e` in `en` is pronounced `ə` here, similar to the second syllable of `London`. And `un` is an abbreviation of `uen`, and its pronunciation is more like `when` when pronounced lightly. In addition, since `l` `n` is not combined with `ün` in common syllables, `ün` in the recording table is written as `un`.   
+These are prenasal sounds, and they are formed by combining the corresponding finals with `n`, respectively. It should be noted that the `e` in `en` is pronounced `ə` here, similar to the second syllable of `London`. And `un` is an abbreviation of `uen`, and its pronunciation is more like `when` when pronounced lightly. In addition, since `l` `n` is not combined with `ün` in common syllables, `ün` in the Reclist is written as `un`.   
 
 需要注意的是，当`an`与`i-` `ü-`组合时，`a`的发音将变为`ɛ`，更像`dress`中的`e`。不过，同`u-`组合的时候不会发生这种音变。此外，由于`l` `n`不会在常用音节中与`üan`结合，录音表中的`üan`均被写为`uan`。  
-It should be noted that when `an` is combined with `i-` and `ü-`, the pronunciation of `a` will change to `ɛ`, more like the `e` in `dress`. However, this change does not occur when combined with `u-`. In addition, since `l` `n` is not combined with `üan` in common syllables, `üan` in the recording table is written as `uan`.  
+It should be noted that when `an` is combined with `i-` and `ü-`, the pronunciation of `a` will change to `ɛ`, more like the `e` in `dress`. However, this change does not occur when combined with `u-`. In addition, since `l` `n` is not combined with `üan` in common syllables, `üan` in the Reclist is written as `uan`.  
 
 ### ang,eng,ing,ong
 
