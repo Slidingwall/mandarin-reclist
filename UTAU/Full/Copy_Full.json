@@ -1,1442 +1,1442 @@
 {
     "content": {
-        "behaviorCopy": false,
-        "behaviorReplace": true,
-        "opStrategy": 0,
+        "behaviorCopy": true,
+        "behaviorReplace": false,
+        "opStrategy": 2,
         "rules": [
             {
                 "matchPattern": "a",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "ai"
             },
             {
                 "matchPattern": "a",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "an"
             },
             {
                 "matchPattern": "ao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "ang"
             },
             {
                 "matchPattern": "ba",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "bai"
             },
             {
                 "matchPattern": "ba",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "ban"
             },
             {
                 "matchPattern": "bang",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "bao"
             },
             {
                 "matchPattern": "beng",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "ben"
             },
             {
                 "matchPattern": "bia",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "biai"
             },
             {
                 "matchPattern": "biao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "biang"
             },
             {
                 "matchPattern": "bi",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "bin"
             },
             {
                 "matchPattern": "bi",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "bing"
             },
             {
                 "matchPattern": "biao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "bio"
             },
             {
                 "matchPattern": "beng",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "bou"
             },
             {
                 "matchPattern": "buan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "bua"
             },
             {
                 "matchPattern": "buan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "buai"
             },
             {
                 "matchPattern": "bo",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "buo"
             },
             {
                 "matchPattern": "ca",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "cai"
             },
             {
                 "matchPattern": "ca",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "can"
             },
             {
                 "matchPattern": "cao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "cang"
             },
             {
                 "matchPattern": "ce",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "cei"
             },
             {
                 "matchPattern": "ceng",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "cen"
             },
             {
                 "matchPattern": "cha",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "chai"
             },
             {
                 "matchPattern": "cha",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "chan"
             },
             {
                 "matchPattern": "chao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "chang"
             },
             {
                 "matchPattern": "cheng",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "chen"
             },
             {
                 "matchPattern": "chuo",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "cho"
             },
             {
                 "matchPattern": "cheng",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "chou"
             },
             {
                 "matchPattern": "chuan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "chua"
             },
             {
                 "matchPattern": "chuan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "chuai"
             },
             {
                 "matchPattern": "cuo",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "co"
             },
             {
                 "matchPattern": "ceng",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "cou"
             },
             {
                 "matchPattern": "cuan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "cua"
             },
             {
                 "matchPattern": "cuan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "cuai"
             },
             {
                 "matchPattern": "da",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "dai"
             },
             {
                 "matchPattern": "da",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "dan"
             },
             {
                 "matchPattern": "dang",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "dao"
             },
             {
                 "matchPattern": "deng",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "den"
             },
             {
                 "matchPattern": "dia",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "diai"
             },
             {
                 "matchPattern": "diao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "diang"
             },
             {
                 "matchPattern": "di",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "din"
             },
             {
                 "matchPattern": "di",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "ding"
             },
             {
                 "matchPattern": "diao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "dio"
             },
             {
                 "matchPattern": "duo",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "do"
             },
             {
                 "matchPattern": "deng",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "dou"
             },
             {
                 "matchPattern": "duan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "dua"
             },
             {
                 "matchPattern": "duan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "duai"
             },
             {
                 "matchPattern": "eng",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "en"
             },
             {
                 "matchPattern": "fa",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "fai"
             },
             {
                 "matchPattern": "fa",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "fan"
             },
             {
                 "matchPattern": "fang",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "fao"
             },
             {
                 "matchPattern": "feng",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "fen"
             },
             {
                 "matchPattern": "fia",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "fiai"
             },
             {
                 "matchPattern": "fiao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "fiang"
             },
             {
                 "matchPattern": "fi",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "fin"
             },
             {
                 "matchPattern": "fi",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "fing"
             },
             {
                 "matchPattern": "fiao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "fio"
             },
             {
                 "matchPattern": "feng",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "fong"
             },
             {
                 "matchPattern": "feng",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "fou"
             },
             {
                 "matchPattern": "fuan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "fua"
             },
             {
                 "matchPattern": "fuan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "fuai"
             },
             {
                 "matchPattern": "fo",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "fuo"
             },
             {
                 "matchPattern": "ga",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "gai"
             },
             {
                 "matchPattern": "ga",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "gan"
             },
             {
                 "matchPattern": "gao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "gang"
             },
             {
                 "matchPattern": "geng",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "gen"
             },
             {
                 "matchPattern": "gia",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "giai"
             },
             {
                 "matchPattern": "giao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "giang"
             },
             {
                 "matchPattern": "gi",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "gin"
             },
             {
                 "matchPattern": "gi",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "ging"
             },
             {
                 "matchPattern": "giao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "gio"
             },
             {
                 "matchPattern": "guo",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "go"
             },
             {
                 "matchPattern": "geng",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "gou"
             },
             {
                 "matchPattern": "guan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "gua"
             },
             {
                 "matchPattern": "guan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "guai"
             },
             {
                 "matchPattern": "ha",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "hai"
             },
             {
                 "matchPattern": "ha",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "han"
             },
             {
                 "matchPattern": "hao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "hang"
             },
             {
                 "matchPattern": "heng",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "hen"
             },
             {
                 "matchPattern": "hia",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "hiai"
             },
             {
                 "matchPattern": "hiao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "hiang"
             },
             {
                 "matchPattern": "hi",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "hin"
             },
             {
                 "matchPattern": "hi",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "hing"
             },
             {
                 "matchPattern": "hiao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "hio"
             },
             {
                 "matchPattern": "huo",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "ho"
             },
             {
                 "matchPattern": "heng",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "hou"
             },
             {
                 "matchPattern": "huan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "hua"
             },
             {
                 "matchPattern": "huan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "huai"
             },
             {
                 "matchPattern": "yi",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "i"
             },
             {
                 "matchPattern": "ya",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "ia"
             },
             {
                 "matchPattern": "ya",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "iai"
             },
             {
                 "matchPattern": "yan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "ian"
             },
             {
                 "matchPattern": "yao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "iang"
             },
             {
                 "matchPattern": "yao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "iao"
             },
             {
                 "matchPattern": "ye",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "ie"
             },
             {
                 "matchPattern": "yi",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "in"
             },
             {
                 "matchPattern": "yi",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "ing"
             },
             {
                 "matchPattern": "yao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "io"
             },
             {
                 "matchPattern": "yong",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "iong"
             },
             {
                 "matchPattern": "you",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "iou"
             },
             {
                 "matchPattern": "you",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "iu"
             },
             {
                 "matchPattern": "jia",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "jiai"
             },
             {
                 "matchPattern": "jiao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "jiang"
             },
             {
                 "matchPattern": "ji",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "jin"
             },
             {
                 "matchPattern": "ji",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "jing"
             },
             {
                 "matchPattern": "jiao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "jio"
             },
             {
                 "matchPattern": "juan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "jua"
             },
             {
                 "matchPattern": "juan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "juai"
             },
             {
                 "matchPattern": "ju",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "jun"
             },
             {
                 "matchPattern": "ju",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "jv"
             },
             {
                 "matchPattern": "jue",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "jve"
             },
             {
                 "matchPattern": "ju",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "jyu"
             },
             {
                 "matchPattern": "ka",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "kai"
             },
             {
                 "matchPattern": "ka",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "kan"
             },
             {
                 "matchPattern": "kao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "kang"
             },
             {
                 "matchPattern": "keng",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "ken"
             },
             {
                 "matchPattern": "kia",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "kiai"
             },
             {
                 "matchPattern": "kiao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "kiang"
             },
             {
                 "matchPattern": "ki",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "kin"
             },
             {
                 "matchPattern": "ki",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "king"
             },
             {
                 "matchPattern": "kiao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "kio"
             },
             {
                 "matchPattern": "kuo",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "ko"
             },
             {
                 "matchPattern": "keng",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "kou"
             },
             {
                 "matchPattern": "kuan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "kua"
             },
             {
                 "matchPattern": "kuan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "kuai"
             },
             {
                 "matchPattern": "la",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "lai"
             },
             {
                 "matchPattern": "la",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "lan"
             },
             {
                 "matchPattern": "lang",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "lao"
             },
             {
                 "matchPattern": "leng",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "len"
             },
             {
                 "matchPattern": "lia",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "liai"
             },
             {
                 "matchPattern": "liao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "liang"
             },
             {
                 "matchPattern": "li",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "lin"
             },
             {
                 "matchPattern": "li",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "ling"
             },
             {
                 "matchPattern": "liao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "lio"
             },
             {
                 "matchPattern": "luo",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "lo"
             },
             {
                 "matchPattern": "leng",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "lou"
             },
             {
                 "matchPattern": "luan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "lua"
             },
             {
                 "matchPattern": "luan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "luai"
             },
             {
                 "matchPattern": "lue",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "lve"
             },
             {
                 "matchPattern": "lv",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "lyu"
             },
             {
                 "matchPattern": "ma",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "mai"
             },
             {
                 "matchPattern": "ma",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "man"
             },
             {
                 "matchPattern": "mang",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "mao"
             },
             {
                 "matchPattern": "meng",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "men"
             },
             {
                 "matchPattern": "mia",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "miai"
             },
             {
                 "matchPattern": "miao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "miang"
             },
             {
                 "matchPattern": "mi",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "min"
             },
             {
                 "matchPattern": "mi",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "ming"
             },
             {
                 "matchPattern": "miao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "mio"
             },
             {
                 "matchPattern": "meng",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "mong"
             },
             {
                 "matchPattern": "meng",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "mou"
             },
             {
                 "matchPattern": "muan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "mua"
             },
             {
                 "matchPattern": "muan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "muai"
             },
             {
                 "matchPattern": "mo",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "muo"
             },
             {
                 "matchPattern": "na",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "nai"
             },
             {
                 "matchPattern": "na",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "nan"
             },
             {
                 "matchPattern": "nang",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "nao"
             },
             {
                 "matchPattern": "neng",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "nen"
             },
             {
                 "matchPattern": "nia",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "niai"
             },
             {
                 "matchPattern": "niao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "niang"
             },
             {
                 "matchPattern": "ni",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "nin"
             },
             {
                 "matchPattern": "ni",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "ning"
             },
             {
                 "matchPattern": "niao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "nio"
             },
             {
                 "matchPattern": "nuo",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "no"
             },
             {
                 "matchPattern": "neng",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "nou"
             },
             {
                 "matchPattern": "nuan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "nua"
             },
             {
                 "matchPattern": "nuan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "nuai"
             },
             {
                 "matchPattern": "nue",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "nve"
             },
             {
                 "matchPattern": "nv",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "nyu"
             },
             {
                 "matchPattern": "wo",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "o"
             },
             {
                 "matchPattern": "eng",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "ou"
             },
             {
                 "matchPattern": "pa",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "pai"
             },
             {
                 "matchPattern": "pa",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "pan"
             },
             {
                 "matchPattern": "pang",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "pao"
             },
             {
                 "matchPattern": "peng",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "pen"
             },
             {
                 "matchPattern": "pia",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "piai"
             },
             {
                 "matchPattern": "piao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "piang"
             },
             {
                 "matchPattern": "pi",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "pin"
             },
             {
                 "matchPattern": "pi",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "ping"
             },
             {
                 "matchPattern": "piao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "pio"
             },
             {
                 "matchPattern": "peng",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "pou"
             },
             {
                 "matchPattern": "puan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "pua"
             },
             {
                 "matchPattern": "puan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "puai"
             },
             {
                 "matchPattern": "po",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "puo"
             },
             {
                 "matchPattern": "qia",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "qiai"
             },
             {
                 "matchPattern": "qiao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "qiang"
             },
             {
                 "matchPattern": "qi",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "qin"
             },
             {
                 "matchPattern": "qi",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "qing"
             },
             {
                 "matchPattern": "qiao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "qio"
             },
             {
                 "matchPattern": "quan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "qua"
             },
             {
                 "matchPattern": "quan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "quai"
             },
             {
                 "matchPattern": "qu",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "qun"
             },
             {
                 "matchPattern": "qu",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "qv"
             },
             {
                 "matchPattern": "que",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "qve"
             },
             {
                 "matchPattern": "qu",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "qyu"
             },
             {
                 "matchPattern": "ran",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "ra"
             },
             {
                 "matchPattern": "ran",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "rai"
             },
             {
                 "matchPattern": "rao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "rang"
             },
             {
                 "matchPattern": "reng",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "ren"
             },
             {
                 "matchPattern": "ruo",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "ro"
             },
             {
                 "matchPattern": "reng",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "rou"
             },
             {
                 "matchPattern": "R",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "RR"
             },
             {
                 "matchPattern": "ruan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "rua"
             },
             {
                 "matchPattern": "ruan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "ruai"
             },
             {
                 "matchPattern": "sa",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "sai"
             },
             {
                 "matchPattern": "sa",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "san"
             },
             {
                 "matchPattern": "sao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "sang"
             },
             {
                 "matchPattern": "se",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "sei"
             },
             {
                 "matchPattern": "seng",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "sen"
             },
             {
                 "matchPattern": "sha",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "shai"
             },
             {
                 "matchPattern": "sha",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "shan"
             },
             {
                 "matchPattern": "shao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "shang"
             },
             {
                 "matchPattern": "sheng",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "shen"
             },
             {
                 "matchPattern": "shuo",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "sho"
             },
             {
                 "matchPattern": "sheng",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "shou"
             },
             {
                 "matchPattern": "shuan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "shua"
             },
             {
                 "matchPattern": "shuan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "shuai"
             },
             {
                 "matchPattern": "suo",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "so"
             },
             {
                 "matchPattern": "seng",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "sou"
             },
             {
                 "matchPattern": "suan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "sua"
             },
             {
                 "matchPattern": "suan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "suai"
             },
             {
                 "matchPattern": "ta",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "tai"
             },
             {
                 "matchPattern": "ta",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "tan"
             },
             {
                 "matchPattern": "tang",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "tao"
             },
             {
                 "matchPattern": "teng",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "ten"
             },
             {
                 "matchPattern": "tia",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "tiai"
             },
             {
                 "matchPattern": "tiao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "tiang"
             },
             {
                 "matchPattern": "ti",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "tin"
             },
             {
                 "matchPattern": "ti",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "ting"
             },
             {
                 "matchPattern": "tiao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "tio"
             },
             {
                 "matchPattern": "tuo",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "to"
             },
             {
                 "matchPattern": "teng",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "tou"
             },
             {
                 "matchPattern": "tuan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "tua"
             },
             {
                 "matchPattern": "tuan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "tuai"
             },
             {
                 "matchPattern": "wu",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "u"
             },
             {
                 "matchPattern": "wan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "ua"
             },
             {
                 "matchPattern": "wan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "uai"
             },
             {
                 "matchPattern": "wan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "uan"
             },
             {
                 "matchPattern": "wang",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "uang"
             },
             {
                 "matchPattern": "yue",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "ue"
             },
             {
                 "matchPattern": "wei",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "uei"
             },
             {
                 "matchPattern": "wen",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "uen"
             },
             {
                 "matchPattern": "wei",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "ui"
             },
             {
                 "matchPattern": "wen",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "un"
             },
             {
                 "matchPattern": "wo",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "uo"
             },
             {
                 "matchPattern": "yu",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "v"
             },
             {
                 "matchPattern": "yuan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "van"
             },
             {
                 "matchPattern": "yue",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "ve"
             },
             {
                 "matchPattern": "yun",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "vn"
             },
             {
                 "matchPattern": "wan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "wa"
             },
             {
                 "matchPattern": "wan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "wai"
             },
             {
                 "matchPattern": "wen",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "weng"
             },
             {
                 "matchPattern": "wen",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "wong"
             },
             {
                 "matchPattern": "wei",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "wui"
             },
             {
                 "matchPattern": "xia",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "xiai"
             },
             {
                 "matchPattern": "xiao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "xiang"
             },
             {
                 "matchPattern": "xi",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "xin"
             },
             {
                 "matchPattern": "xi",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "xing"
             },
             {
                 "matchPattern": "xiao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "xio"
             },
             {
                 "matchPattern": "xun",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "xu"
             },
             {
                 "matchPattern": "xuan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "xua"
             },
             {
                 "matchPattern": "xuan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "xuai"
             },
             {
                 "matchPattern": "xun",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "xv"
             },
             {
                 "matchPattern": "xue",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "xve"
             },
             {
                 "matchPattern": "xun",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "xyu"
             },
             {
                 "matchPattern": "ya",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "yai"
             },
             {
                 "matchPattern": "yao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "yang"
             },
             {
                 "matchPattern": "yi",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "yin"
             },
             {
                 "matchPattern": "yi",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "ying"
             },
             {
                 "matchPattern": "yao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "yo"
             },
             {
                 "matchPattern": "yue",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "yve"
             },
             {
                 "matchPattern": "za",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "zai"
             },
             {
                 "matchPattern": "za",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "zan"
             },
             {
                 "matchPattern": "zao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "zang"
             },
             {
                 "matchPattern": "zeng",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "zen"
             },
             {
                 "matchPattern": "zha",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "zhai"
             },
             {
                 "matchPattern": "zha",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "zhan"
             },
             {
                 "matchPattern": "zhao",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "zhang"
             },
             {
                 "matchPattern": "zheng",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "zhen"
             },
             {
                 "matchPattern": "zhuo",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "zho"
             },
             {
                 "matchPattern": "zheng",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "zhou"
             },
             {
                 "matchPattern": "zhuan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "zhua"
             },
             {
                 "matchPattern": "zhuan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "zhuai"
             },
             {
                 "matchPattern": "zuo",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "zo"
             },
             {
                 "matchPattern": "zeng",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "zou"
             },
             {
                 "matchPattern": "zuan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "zua"
             },
             {
                 "matchPattern": "zuan",
-                "strategy": 0,
+                "strategy": 1,
                 "targetPattern": "zuai"
             }
         ]
     },
-    "lastModified": "2024-07-22T17:02:55",
+    "lastModified": "2024-08-01T10:52:08",
     "name": "Full",
     "version": 2
 }

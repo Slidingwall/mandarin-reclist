@@ -19,7 +19,7 @@ First, click `File` ->`Import Reclist`, and `File`->`Import Guide BGM` to import
   
 ![Create new session](/assets/RS2.png)  
 其次，点击右下角的`+`按钮，选择导入的录音表及注释，以新建录音会话。  
-Second, click the '+' button in the bottom right corner and select the imported recording sheet and comments to create a new recording session. 
+Second, click the `+` button in the bottom right corner and select the imported recording sheet and comments to create a new recording session. 
   
 {: .note }
 > 如果您选择导入注释，请在设置中选择带有注释的标题栏样式。  
