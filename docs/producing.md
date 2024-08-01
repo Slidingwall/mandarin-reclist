@@ -129,10 +129,13 @@ After labeling completed, select `File` -> `Export Label File` to save the label
 
 {: .important }
 > 请注意，录音表模板的数值参考120BPM的[`いつほし式8モーラガイドBGM`](https://bowlroll.net/file/50209)设定。  
-> Please note that the value of thetemplate refers to the ['いつほし式8モーラガイドBGM'](https://bowlroll.net/file/50209) setting of 120BPM.  
+> Please note that the value of thetemplate refers to the [`いつほし式8モーラガイドBGM`](https://bowlroll.net/file/50209) setting of 120BPM.  
 > 
 > 如果您采用其他的BGM，可以通过标注各模板内前1个音频（VC为前2个音频），并通过查找与替换来快速调整模板。  
 > If you use other BGMs, you can mark the first audio in each template (the first two audio in VC) and quickly adjust the template by finding and replacing it. 
+>
+> 以Lite模板为例：  
+> Take the Lite template as an example:   
 > ```ini
 > #For CV
 > _ba_pa_ma_fa_da_ta_na_la.wav=ba#,1450,150,-400,50,0
