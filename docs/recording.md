@@ -3,21 +3,7 @@ nav_order: 2
 ---
 
 
-# Phonetics and Pronunciation 音标与发音
-- [Phonetics and Pronunciation 音标与发音](#phonetics-and-pronunciation-音标与发音)
-  - [音标详解 Phonetics in detail](#音标详解-phonetics-in-detail)
-  - [发音指导 Pronunciation instruction](#发音指导-pronunciation-instruction)
-    - [b/p,d/t,g/k](#bpdtgk)
-    - [m,f,n,l,h](#mfnlh)
-    - [z/c,s](#zcs)
-    - [j/q,x](#jqx)
-    - [zh/ch,sh/r](#zhchshr)
-    - [y(i-),w(u-)](#yi-wu-)
-    - [a,o,e,i,u,ü](#aoeiuü)
-    - [ai,ei,ui,ao,ou,iu](#aieiuiaoouiu)
-    - [ie,üe,er](#ieüeer)
-    - [an,en,in,un,ün](#aneninunün)
-    - [ang,eng,ing,ong](#angengingong)
+# 音标与发音 Phonetics and Pronunciation
 
 ## 音标详解 Phonetics in detail
 
@@ -74,11 +60,8 @@ In total of 24. Combined with Inintal, it can produce 274 CV combinations. Lite 
 > - e0, ei;
 > - o, e, u, er, i0, ir, ***en0***, ***ong***
 
-共23个。Full表与中文CVVC韵尾一致，而Lite表则会将粗斜体的韵尾并入 `ei`, `ou`, `en`, `eng`中。  
-In total of 23. The Full Reclist is consistent with the Chinese CVVC ending, while the Lite Reclist will incorporate the bold-italicized ending into `ei`, `ou`, `en`,`eng`.  
-
-整合后个数14个，制作时需将Overlap放在韵腹韵尾的交界处。  
-In total of 14 after integration. During OTO, Overlap needs to be placed at the junction of Nucleus and Ending.
+共23个。Full表与中文CVVC韵尾一致，而Lite表则会将粗斜体的韵尾并入 `ei`, `ou`, `en`, `eng`中，整合后个数14个。  
+In total of 23. The Full Reclist is consistent with the Chinese CVVC ending, while the Lite Reclist will incorporate the bold-italicized ending into `ei`, `ou`, `en`,`eng`, In total of 14 after integration.   
 
 ## 发音指导 Pronunciation instruction
 

@@ -3,9 +3,11 @@ title: HOME 主页
 nav_order: 1
 ---
 
-# CVVC reclist
+# mandarin-reclist
 
-## 版本对比 Version Comparison
+[View on Github](https://github.com/Slidingwall/mandarin-reclist/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }   [vocaloid-dictionaries](/vocaloid-dictionaries/){: .btn .fs-5 .mb-4 .mb-md-0 }   [synthv-dictionaries](/synthv-dictionaries/){: .btn .fs-5 .mb-4 .mb-md-0 } 
+
+## 录音表对比 Reclist Comparison
 
 | 版本<br/>Version | 录音条数<br/>Recording Lines | 元音设定条数<br/>OTO lines | 每行音节<br/>Syllables in each line |
 | :--------------------: | :--------------------------------: | :------------------------------: | :---------------------------------------: |
@@ -13,8 +15,9 @@ nav_order: 1
 | **Lite** | 63 | 595 | 8 |
 | **Extra^** | 23 | 110 | N/A |
 
-^：`Extra`主要录制开头或语尾音素。  
-^: `Extra` is mainly for beginning or ending notes.
+{: .note }
+> ^：`Extra`主要录制开头或语尾音素。  
+> ^: `Extra` is mainly for beginning or ending notes.
 
 ## 指南 Guide
 
@@ -31,8 +34,5 @@ In [**Recording and Labeling**](/mandarin-reclist/producing), you'll learn how t
 
 在录了 In progressing.
 
-{: .important-title }
-> See also / 参见: 
-> 
-> [vocaloid-dictionaries](/vocaloid-dictionaries/){: .btn .btn-blue .mr-2 }  [synthv-dictionaries](/synthv-dictionaries/){: .btn .btn-blue .mr-2 }
+
 
