@@ -5,6 +5,11 @@ nav_order: 1
 
 # mandarin-reclist
 
+{: .fs-6 .fw-300 } 
+适用于中文拼接语音库(UTAU, DeepVocal, VocalSharp)的极简录音表.  
+A minimal reclist for Mandarin stitching voickbank(UTAU, DeelVocal, Vocalsharp).  
+{: .fs-6 .fw-300 } 
+
 [View on Github](https://github.com/Slidingwall/mandarin-reclist/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }   [vocaloid-dictionaries](/vocaloid-dictionaries/){: .btn .fs-5 .mb-4 .mb-md-0 }   [synthv-dictionaries](/synthv-dictionaries/){: .btn .fs-5 .mb-4 .mb-md-0 } 
 
 ## 录音表对比 Reclist Comparison
