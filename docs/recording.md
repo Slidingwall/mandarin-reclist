@@ -10,8 +10,15 @@ nav_order: 2
 在中文里，每个音节均由 `首音`和 `韵`组成。`首音`分为 `声母`和 `韵头(介音)`，`韵`分为 `韵腹(核音)`和 `韵尾(尾音)`。[*参考来源*](http://jpk.pku.edu.cn/course/llyyx/script/142.pdf)  
 In Mandarin, each syllable is composed of `Onset` and `Rhyme`. The `Onset` is divided into `Initial` and `Medial`, while `Rhyme` is divided into `Nucleus` and `Ending`. [*Reference source*](http://jpk.pku.edu.cn/course/llyyx/script/142.pdf)
 
-其中，韵头有 `无韵头`, `i-`, `u-`, `ü-`四种情况，韵尾有 `无韵尾`, `-i`, `-u`, `-n`, `-ng`五种情况。韵腹共有14个。可整理为下表：  
-Among them, there are four cases of Medial: `No Medial`, `i-`, `u-`, `ü-`, and five cases of Ending: `No Ending`, `-i`, `-u`, `-n`, and `-ng`. And there are a total of 14 Nuclei. It can be organized into the following table:
+韵头有四种情况： `无韵头`, `i-`, `u-`, `ü-`；  
+韵尾有五种情况： `无韵尾`, `-i`, `-u`, `-n`, `-ng`；  
+韵腹共有14个。  
+There are four cases of Medial: `No Medial`, `i-`, `u-`, `ü-`;   
+five cases of Ending: `No Ending`, `-i`, `-u`, `-n`, `-ng`;   
+and 14 Nuclei in total. 
+
+CVVC语音库的特点是，在元音延长部分的末尾，即韵腹韵尾的交界处进行一次拼接。因此，可以将韵母按照韵头韵腹、韵腹韵尾分别进行组合。
+CVVC voice library is characterized by a single splicing at the end of the vowel extension, where between Nucleus and Ending. Therefore, the finals can be combined separately according to Medial-Nucleus and Nucleus-Ending.  
 
 | 可能的韵头<br/>Possible Medials | 韵腹(X-SAMPA)<br/>Nuclei in X-SAMPA | 可能的韵尾<br/>Possible Endings | 可组合的韵母<br/> Possible Vowels |
 | :-----------------------------------: | :----------------------------------------: | :-----------------------------------: | :----------------------------------: |
@@ -30,9 +37,6 @@ Among them, there are four cases of Medial: `No Medial`, `i-`, `u-`, `ü-`, and 
 | ∅ | i` | ∅ | i (zh ch sh r) |
 | ∅, i- | U | -ng | ong, iong |
 
-CVVC语音库的特点是，在元音延长部分的末尾进行一次拼接。在这里，就是在韵腹，或者韵腹和韵尾的交界处进行一次拼接。因此，可以将韵母按照韵头韵腹、韵腹韵尾分别进行组合。  
-CVVC voice library is characterized by a single splicing at the end of the vowel extension. Here, it is a splicing at Nucleus, or between Nucleus and Ending. Therefore, the finals can be combined separately according to Medial-Nucleus and Nucleus-Ending.  
-
 **韵头韵腹组合整理如下：**  
 **Medial-Nucleus Combanations are organized as follows:**
 
@@ -40,13 +44,12 @@ CVVC voice library is characterized by a single splicing at the end of the vowel
 > - a, ia, ua;
 > - A, iA, uA;
 > - @, i@, u@;
-> - ei, ui, ie, ue;
-> - ian, uan;
+> - ei, ui, ie, ue, ian, uan;
 > - ong, iong;
 > - e, i, u/o/uo, ü, er, i0, ir
 
-共24个，与声母结合后可产生274个CV组合。Lite表将`ian`并入`ie`，`uan`并入`ue`，总计259个CV组合。  
-In total of 24. Combined with Inintal, it can produce 274 CV combinations. Lite Reclist will combine `ian` into `ie`, `uan` into `ue`, in total of 259 CV combinations.  
+共24个，与声母结合后可产生274个CV组合。Lite表将`ian` `uan`并入`ie` `ue`，总计259个CV组合。  
+In total of 24. Combined with Inintal, it can produce 274 CV combinations. Lite Reclist will combine `ian` `uan` into `ie` `ue`, in total of 259 CV combinations.  
 
 **韵腹韵尾组合整理如下：**  
 **Nucleus-Ending Combanations are organized as follows:**
