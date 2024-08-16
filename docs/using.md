@@ -21,7 +21,8 @@ And `prefix.map` provides the software with which samples are used for different
 您可以参考已有的其他声库设置后两者。  
 You can refer to the other sound banks you already have to set up the latter two.  
 
-在项目的`UTAU`文件夹中，提供了与录音表相匹配的`presamp.ini`。因为OpenUTAU不支持`presamp.ini`文件中的`[REPLACE]`项。所以需要通过复制来补充被合并的CV项。您可以使用[KiraOtoToolbox](https://github.com/shine5402/KiraOtoToolbox)，选择`根据别名复制/替换`，选择`oto_CV.ini`并点击`加载`，点击右侧蓝色图标并导入`Copy_****.json`并进行复制。复制完成后的其他步骤同上。  
+在项目的`UTAU`文件夹中，提供了与录音表相匹配的`presamp.ini`。因为OpenUTAU中的`ZH CVVC`音素器不支持`presamp.ini`文件中的`[REPLACE]`项，所以您需要通过复制来补充被合并的CV项，或者自行添加文件夹中的`ZH_CVVC_with_replace.cs`。 
+对于复制，您可以使用[KiraOtoToolbox](https://github.com/shine5402/KiraOtoToolbox)，选择`根据别名复制/替换`，选择`oto_CV.ini`并点击`加载`，点击右侧蓝色图标并导入`Copy_****.json`并进行复制。复制完成后的其他步骤同上。  
 ![Toolbox](/assets/KO1.png) ![Load](/assets/KO2.png)   
 
 ## 在UTAU和OpenUTAU中使用
