@@ -11,31 +11,26 @@ async function generateOTO() {
         if (!response.ok) throw new Error('Network response was not ok');  
         const oto = await response.json();  
         const processWavs = (wavsObj) => {  
-            const result = []
-            for (const [wavsKey, wavs] of Object.entries(wavsObj)) {  
-                if (wavs.cv && Array.isArray(wavs.cv)) {  
-                    wavs.cv.forEach((line, i) => {  
-                        if (line && /^[bpdtgkjqzc]/.test(line)) {  
-                            result.push(`${wavsKey}.wav=${line}#,${blank - 50 + note * i},${note * 0.3},-${note * 0.8},50,0`);  
-                        } else if (line) {  
-                            result.push(`${wavsKey}.wav=${line}#,${blank - 50 + note * i},${note * 0.3},-${note * 0.8},50,16`);  
-                        }  
-                    });  
+            const generateLine = (wavsKey, line, note, blank, type) => {  
+                if (!line) return [];  
+                const base = `${wavsKey}.wav=${line}#`;  
+                if (type === 'cv') {  
+                    const pattern = /^[bpdtgkjqzc]/.test(line) ? ',50,0' : ',50,16';  
+                    return [`${base}${blank - 50 + note * i},${note * 0.3},-${note * 0.8}${pattern}`];  
+                } else if (type === 'vc') {  
+                    const otoKey = ["a", "A0", "e", "@", "er", "ei"].includes(line.split(" ")[1]) ?  
+                        `${note * 0.8},-${note * 1.2},${note * 0.6}` :  
+                        `${note * 0.6},-${note * 0.7},${note * 0.5}`;  
+                    return [`${base}${blank + note * (i + 0.4)},${otoKey},${note * 0.2}`];  
                 }  
-                if (wavs.vc && Array.isArray(wavs.vc)) {  
-                    wavs.vc.forEach((line, i) => {  
-                        if (line) {  
-                            const parts = line.split(" ");  
-                            const otoKey = ["a", "A0", "e", "@", "er", "ei"].includes(parts[1]) ?  
-                                `${note * 0.8},-${note * 1.2},${note * 0.6}` :  
-                                `${note * 0.6},-${note * 0.7},${note * 0.5}`;  
-                            result.push(`${wavsKey}.wav=${line}#,${blank + note * (i + 0.4)},${otoKey},${note * 0.2}`);  
-                        }  
-                    });  
-                }  
-            }
-            return result;  
-        };  
+                return [];  
+            };  
+            return Object.entries(wavsObj).flatMap(([wavsKey, wavs]) => {  
+                const cvLines = (wavs.cv || []).flatMap((line, i) => generateLine(wavsKey, line, i, blank, 'cv'));  
+                const vcLines = (wavs.vc || []).flatMap((line, i) => generateLine(wavsKey, line, i, blank, 'vc'));  
+                return [...cvLines, ...vcLines];  
+            });  
+        };   
         switch (type) {  
             case "Lite":  
                 result = processWavs(oto.CVVC_Lite);  
