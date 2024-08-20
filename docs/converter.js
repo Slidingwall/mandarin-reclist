@@ -1,5 +1,5 @@
 async function generateOTO() {
-    const blank = parseInt(document.getElementById('BPM').value, 10)
+    const blank = parseInt(document.getElementById('blank').value, 10)
     const note = 60000 / parseInt(document.getElementById('BPM').value, 10);
     const type = document.getElementById('type').value;
     const result = []
