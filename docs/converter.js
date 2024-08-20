@@ -41,15 +41,19 @@ async function generateOTO() {
             case "Full":  
                 processWavs(oto.CVVC_Full);  
                 break;  
-            case "VCV":  
-                for (const [wavsKey, wavsArray] of Object.entries(oto.VCV)) {  
-                    wavsArray.forEach((line, i) => {  
-                        if (line) {  
-                            result.push(`${wavsKey}.wav=${line}#,${blank + note * (i + 0.6)},${note * 0.8},-${note * 1.2},${note * 0.6},${note * 0.2}`);  
-                        }  
-                    });  
+                case "VCV":  
+                for (const [wavsKey, wavs] of Object.entries(oto.VCV)) {  
+                    if (Array.isArray(wavs)) {  
+                        wavs.forEach((line, i) => {  
+                            if (line) {  
+                                result.push(`${wavsKey}.wav=${line}#,${blank + note * (i + 0.6)},${note * 0.8},-${note * 1.2},${note * 0.6},${note * 0.2}`);  
+                            }  
+                        });  
+                    } else {  
+                        console.error(`Expected an array but got ${typeof wavs} for key ${wavsKey}`);  
+                    }  
                 }  
-                break;  
+                break;
         }  
         output.textContent = result.join('\n');  
     } catch (error) {  
