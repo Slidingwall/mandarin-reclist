@@ -1,6 +1,5 @@
 {
-    "CVVC_Lite": [
-        {
+    "CVVC_Lite": {
             "_ba_pa_ma_fa_da_ta_na_la":                 {
                     "cv": [
                         "ba",
@@ -1064,10 +1063,8 @@
                         "i0 A0"
                     ]
                 }
-        }
-    ],
-    "CVVC_Full": [
-        {
+        },
+    "CVVC_Full": {
             "_ba_pa_ma_fa_da_ta_na_la":                 {
                     "cv": [
                         "ba",
@@ -2574,8 +2571,7 @@
                         null
                     ]
                 }
-        }
-    ],
+        },
     "VCV": {
             "_a_a_wo_mie_gao_nie_ne_shao": [
                 "- a",
