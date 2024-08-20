@@ -11,6 +11,7 @@ async function generateOTO() {
         if (!response.ok) throw new Error('Network response was not ok');  
         const oto = await response.json();  
         const processWavs = (wavsObj) => {  
+            const result = []
             for (const [wavsKey, wavs] of Object.entries(wavsObj)) {  
                 if (wavs.cv && Array.isArray(wavs.cv)) {  
                     wavs.cv.forEach((line, i) => {  
@@ -32,16 +33,17 @@ async function generateOTO() {
                         }  
                     });  
                 }  
-            }  
+            }
+            return result;  
         };  
         switch (type) {  
             case "Lite":  
-                processWavs(oto.CVVC_Lite);  
+                result = processWavs(oto.CVVC_Lite);  
                 break;  
             case "Full":  
-                processWavs(oto.CVVC_Full);  
+                result = processWavs(oto.CVVC_Full);  
                 break;  
-                case "VCV":  
+            case "VCV":  
                 for (const [wavsKey, wavs] of Object.entries(oto.VCV)) {  
                     if (Array.isArray(wavs)) {  
                         wavs.forEach((line, i) => {  
@@ -49,8 +51,6 @@ async function generateOTO() {
                                 result.push(`${wavsKey}.wav=${line}#,${blank + note * (i + 0.6)},${note * 0.8},-${note * 1.2},${note * 0.6},${note * 0.2}`);  
                             }  
                         });  
-                    } else {  
-                        console.error(`Expected an array but got ${typeof wavs} for key ${wavsKey}`);  
                     }  
                 }  
                 break;
