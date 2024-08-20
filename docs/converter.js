@@ -29,7 +29,7 @@ async function generateOTO() {
                             const otoKey = ["a", "A0", "e", "@", "er", "ei"].includes(parts[1]) ?  
                                 `${note * 0.8},-${note * 1.2},${note * 0.6}` :  
                                 `${note * 0.6},-${note * 0.7},${note * 0.5}`;  
-                            result.push(`${wavsKey}.wav=${line}#,${blank + note * (i + 0.6)},${otoKey},${note * 0.2}`);  
+                            result.push(`${wavsKey}.wav=${line}#,${blank + note * (i + 0.4)},${otoKey},${note * 0.2}`);  
                         }  
                     });  
                 }  
@@ -48,7 +48,7 @@ async function generateOTO() {
                     if (Array.isArray(wavs)) {  
                         wavs.forEach((line, i) => {  
                             if (line) {  
-                                result.push(`${wavsKey}.wav=${line}#,${blank + note * (i + 0.6)},${note * 0.8},-${note * 1.2},${note * 0.6},${note * 0.2}`);  
+                                result.push(`${wavsKey}.wav=${line}#,${blank + note * (i + 0.4)},${note * 0.8},-${note * 1.2},${note * 0.6},${note * 0.2}`);  
                             }  
                         });  
                     }  
