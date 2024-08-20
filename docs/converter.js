@@ -1,7 +1,6 @@
 async function generateOTO() {  
-    const blank = parseInt(document.getElementById('blank').value, 10);  
-    const bpm = parseInt(document.getElementById('BPM').value, 10);  
-    const note = 60000 / bpm;  
+    const blank = parseInt(document.getElementById('blank').value, 10);    
+    const note = parseInt(60000 / document.getElementById('BPM').value, 10);  
     const type = document.getElementById('type').value;  
     const output = document.getElementById('output');  
     let result = [];  
@@ -11,7 +10,7 @@ async function generateOTO() {
         if (!response.ok) throw new Error('Network response was not ok');  
         const oto = await response.json();  
         const processWavs = (wavsObj) => {  
-            const generateLine = (wavsKey, line, note, i, blank, type) => {  
+            const generateLine = (wavsKey, line, i, blank, type) => {  
                 if (!line) return [];  
                 const base = `${wavsKey}.wav=${line}#`;  
                 if (type === 'cv') {  
@@ -26,8 +25,8 @@ async function generateOTO() {
                 return [];  
             };  
             return Object.entries(wavsObj).flatMap(([wavsKey, wavs]) => {  
-                const cvLines = (wavs.cv || []).flatMap((line, i) => generateLine(wavsKey, line, note, i, blank, 'cv'));  
-                const vcLines = (wavs.vc || []).flatMap((line, i) => generateLine(wavsKey, line, note, i, blank, 'vc'));  
+                const cvLines = (wavs.cv || []).flatMap((line, i) => generateLine(wavsKey, line, i, blank, 'cv'));  
+                const vcLines = (wavs.vc || []).flatMap((line, i) => generateLine(wavsKey, line, i, blank, 'vc'));  
                 return [...cvLines, ...vcLines];  
             });  
         };   
