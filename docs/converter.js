@@ -1,6 +1,6 @@
 async function generateOTO() {  
     const blank = parseInt(document.getElementById('blank').value, 10);    
-    const note = parseInt(60000 / document.getElementById('BPM').value, 10);  
+    const note = (60000 / parseFloat( document.getElementById('BPM').value)).toFixed(3);  
     const type = document.getElementById('type').value;  
     const output = document.getElementById('output');  
     let result = [];  
