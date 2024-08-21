@@ -61,3 +61,12 @@ async function generateOTO() {
         output.textContent = `There was a problem with your fetch operation: ${error}`;  
     }  
 }
+function downloadResult() {  
+    const blob = new Blob([document.getElementById('output').value], { type: 'text/plain' });  
+    const downloadLink = document.createElement('a');  
+    const type = document.getElementById('type').value;
+    downloadLink.href = URL.createObjectURL(blob);  
+    downloadLink.download = `oto_${type}.ini`;  
+    downloadLink.click();  
+    URL.revokeObjectURL(downloadLink.href);  
+}
