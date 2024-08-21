@@ -22,7 +22,7 @@ Since the program automatically deducts the duration of consonant sounds, **the 
     <option value="Full">CVVC_Full</option>  
     <option value="VCV">VCV</option>  
   </select>  
-  <input type="submit" class="btn" onclick="event.preventDefault(); generateOTO();" value="提交">  {: .btn .btn-green }
+  <input type="submit" class="btn" onclick="event.preventDefault(); generateOTO();" value="提交">{: .btn .btn-green }  
 </form>  
 
 ## 生成结果 OTO Result
