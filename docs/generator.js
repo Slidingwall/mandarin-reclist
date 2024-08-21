@@ -14,7 +14,7 @@ async function generateOTO() {
   
     try {  
         const response = await fetch("https://slidingwall.github.io/mandarin-reclist/assets/oto.json");  
-        if (!response.ok) throw new Error('Network response was not ok');  
+        if (!response.ok) output.textContent = 'Network response was not ok';  
         const oto = await response.json();  
         const processWavs = (wavsObj) => {  
             const generateLine = (wavsKey, line, i, blank, type) => {  
