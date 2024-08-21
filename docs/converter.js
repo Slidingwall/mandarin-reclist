@@ -1,6 +1,6 @@
 function formatFloat(num) {  
         const dotIndex = num.toString().indexOf('.');  
-        if (dotIndex === -1 || (dotIndex !== -1 && nnum.toString().slice(dotIndex + 1).length <= 3)) {  
+        if (dotIndex === -1 || (dotIndex !== -1 && num.toString().slice(dotIndex + 1).length <= 3)) {  
             return num;  
         }   
         return num.toFixed(3);
