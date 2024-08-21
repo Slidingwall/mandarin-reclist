@@ -3,7 +3,7 @@ function formatFloat(num) {
         if (dotIndex === -1 || (dotIndex !== -1 && num.toString().slice(dotIndex + 1).length <= 3)) {  
             return num;  
         }   
-        return num.toFixed(3);
+        return num.toFixed(3).replace(/\.?0+$/, '');
     }
 async function generateOTO() {  
     const blank = parseInt(document.getElementById('blank').value, 10);    
@@ -19,7 +19,7 @@ async function generateOTO() {
         const processWavs = (wavsObj) => {  
             const generateLine = (wavsKey, line, i, blank, type) => {  
                 if (!line) return [];  
-                const base = `${wavsKey}.wav=${line}#`;  
+                const base = `${wavsKey}.wav=${line}#,`;  
                 if (type === 'cv') {  
                     const pattern = /^[bpdtgkjqzc]/.test(line) ? ',50,0' : ',50,16';  
                     return [`${base}${formatFloat(blank - 50 + note * i)},${formatFloat(note * 0.3)},-${formatFloat(note * 0.8)}${pattern}`];  
