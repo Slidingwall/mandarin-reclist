@@ -1,9 +1,9 @@
 ---
 layout: default
-title: OTO Generator
+title: Oto模板生成器 Oto Generator
 nav_order: 5
 --- 
-# Oto模板生成器 OTO Generator
+# Oto模板生成器 Oto Generator
 
 对于不同的BGM，此处提供一个模板生成器，以便根据不同的节奏与空白值来生成oto文件模板。请注意，空白值的单位为毫秒(msec)。  
 由于程序会自动扣除辅音发声的时间，**此处的空白值是指第一个元音发声的时刻**。  
