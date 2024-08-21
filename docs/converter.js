@@ -1,6 +1,13 @@
+function formatFloat(num) {  
+        const dotIndex = num.toString().indexOf('.');  
+        if (dotIndex === -1 || (dotIndex !== -1 && nnum.toString().slice(dotIndex + 1).length <= 3)) {  
+            return num;  
+        }   
+        return num.toFixed(3);
+    }
 async function generateOTO() {  
     const blank = parseInt(document.getElementById('blank').value, 10);    
-    const note = (60000 / parseFloat( document.getElementById('BPM').value)).toFixed(3);  
+    const note = (60000 / parseFloat( document.getElementById('BPM').value));  
     const type = document.getElementById('type').value;  
     const output = document.getElementById('output');  
     let result = [];  
@@ -15,12 +22,12 @@ async function generateOTO() {
                 const base = `${wavsKey}.wav=${line}#`;  
                 if (type === 'cv') {  
                     const pattern = /^[bpdtgkjqzc]/.test(line) ? ',50,0' : ',50,16';  
-                    return [`${base}${blank - 50 + note * i},${note * 0.3},-${note * 0.8}${pattern}`];  
+                    return [`${base}${formatFloat(blank - 50 + note * i)},${formatFloat(note * 0.3)},-${formatFloat(note * 0.8)}${pattern}`];  
                 } else if (type === 'vc') {  
                     const otoKey = ["a", "A0", "e", "@", "er", "ei"].includes(line.split(" ")[1]) ?  
-                        `${note * 0.8},-${note * 1.2},${note * 0.6}` :  
-                        `${note * 0.6},-${note * 0.7},${note * 0.5}`;  
-                    return [`${base}${blank + note * (i + 0.4)},${otoKey},${note * 0.2}`];  
+                        `${formatFloat(note * 0.8)},-${formatFloat(note * 1.2)},${formatFloat(note * 0.6)}` :  
+                        `${formatFloat(note * 0.6)},-${formatFloat(note * 0.7)},${formatFloat(note * 0.5)}`;  
+                    return [`${base}${formatFloat(blank + note * (i + 0.4))},${otoKey},${formatFloat(note * 0.2)}`];  
                 }  
                 return [];  
             };  
@@ -42,7 +49,7 @@ async function generateOTO() {
                     if (Array.isArray(wavs)) {  
                         wavs.forEach((line, i) => {  
                             if (line) {  
-                                result.push(`${wavsKey}.wav=${line}#,${blank + note * (i + 0.4)},${note * 0.8},-${note * 1.2},${note * 0.6},${note * 0.2}`);  
+                                result.push(`${wavsKey}.wav=${line}#,${formatFloat(blank + note * (i + 0.4))},${formatFloat(note * 0.8)},-${formatFloat(note * 1.2)},${formatFloat(note * 0.6)},${formatFloat(note * 0.2)}`);  
                             }  
                         });  
                     }  
