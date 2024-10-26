@@ -13,24 +13,24 @@ nav_order: 3
 > 您也可以使用您熟悉的传统录音软件，例如`OREMO`。  
 > You can also use traditional recording software that you are familiar with, such as `OREMO`.  
   
-![Importing](/assets/RS1.png)  
+![Importing](/assets/RS1.webp)  
 首先，点击`文件`->`导入录音表`，以及`文件`->`导入BGM`，来导入录音表与BGM文件。  
 First, click `File` ->`Import Reclist`, and `File`->`Import Guide BGM` to import the reclist and GuideBGM file.  
   
-![Create new session](/assets/RS2.png)  
+![Create new session](/assets/RS2.webp)  
 其次，点击右下角的`+`按钮，选择导入的录音表及注释，以新建录音会话。  
 Second, click the `+` button in the bottom right corner and select the imported recording sheet and comments to create a new recording session. 
   
 {: .note }
 > 如果您选择导入注释，请在设置中选择带有注释的标题栏样式。  
 > If you choose to import comments, select a title bar style with comments in the settings.   
-> ![Create new session](/assets/RS2-1.png)
+> ![Create new session](/assets/RS2-1.webp)
   
-![Choose BGM](/assets/RS3.png)  
+![Choose BGM](/assets/RS3.webp)  
 再次，点击右侧的音符符号以选择BGM文件。  
 Then, click on the note symbol on the right side to select the BGM file.  
   
-![Recording](/assets/RS4.png)  
+![Recording](/assets/RS4.webp)  
 最后，点击红色按钮或按下回车键即可开始您的录制。红色按钮的两侧箭头或者键盘的左右箭头可以切换录音。  
 Last, click the red button or press enter to start your recording. The arrows on either side of the red button or the left and right arrows on the keyboard can switch recordings.  
 
@@ -52,15 +52,15 @@ CV/VC/Extra parts are seperated in OTO templates, merge them while OTO labeling 
 
 首先，新建项目，在目录设置中，选择在RecStar中录制完成的文件夹。  
 First, create a new project, and in the directory settings, select the folder where you want to record in RecStar.  
-![Create new project](/assets/VL1.png) 
+![Create new project](/assets/VL1.webp) 
 
 其次，在标注器设置中，选择`UTAU oto 标注器`。  
 Second, in the labeler settings, select `UTAU oto labeler`.  
-![Choose labeler](/assets/VL2.png) 
+![Choose labeler](/assets/VL2.webp) 
 
 再次，在数据源设置中，选择`文件`，然后导入录音表所对应的oto模板。  
 Then, in the data source settings, select `File` and import the OTO template corresponding to the Reclist.  
-![Choose template](/assets/VL3.png)
+![Choose template](/assets/VL3.webp)
 
 {: .note }
 > 如果vLabeler提示您导入出错，尝试将oto模板移动到C盘并重新导入。  
@@ -68,7 +68,7 @@ Then, in the data source settings, select `File` and import the OTO template cor
 
 最后，您可以看到vLabeler的标注界面，开始进行标注。  
 Finally, you can see the labeling interface of vLabeler and start labeling.  
-![Labeling interface](/assets/VL4.png)
+![Labeling interface](/assets/VL4.webp)
 
 对于不同类型的采样，您的标注应如下：  
 For different types of sampling, your should label like this:  
@@ -77,22 +77,22 @@ For different types of sampling, your should label like this:
  
 当其声母为爆破音时(b,p,d,t,g,k,j,q,zh,ch,z,c)，黄线（左边界）与`重`应该重合。  
 When the initials are plosives (b,p,d,t,g,k,j,q,zh,ch,z,c), the yellow line (left boundary) should coincide with `Ovl`.  
-![Plosives](/assets/CV1.png)  
+![Plosives](/assets/CV1.webp)  
 
 当其声母为其他辅音时(m,f,n,l,h,x,sh,r,s)，`重`应位于声母波形稳定处。  
 When the initials are other consonants (m,f,n,l,h,x,sh,r,s), `Ovl` should be located at the stable initial waveform.  
-![Other consonants](/assets/CV2.png)  
+![Other consonants](/assets/CV2.webp)  
 
 以上两种情况下，黄线（左边界）位于波形开始处，`先`位于辅音元音交界处。  
 In both cases, the yellow line (left boundary) is at the beginning of the waveform and the `Preu` is at the junction of the consonant vowels.  
  
 当其声母为半元音(y,w)或不含声母为纯元音时，黄线（左边界）、`重`、`先`应该重合。  
 When the initials are semi-vowels (y, w) or pure vowels without initials, the yellow line (left boundary), `Ovl`, and `Preu` should coincide.   
-![semi-vowels](/assets/CV3.png)  
+![semi-vowels](/assets/CV3.webp)  
 
 `固`和白线（右边界）分别位于韵腹（波形稳定处）的开头与结尾。当介音(i-,u-,ü-)存在时，它应该位于蓝色区域内。当韵尾(-i,-u,-n,-ng)存在时，它应该位于白色区域内。  
 The `fixed` and white lines (right boundary) are located at the beginning and end of the Nucleus (where the waveform is stable). When a Medial (i-, u-, ü-) is present, it should be within the blue area. When the Ending (-i, -u, -n, -ng) are present, it should be within the white area.  
-![Rhyme](/assets/CV4.png)  
+![Rhyme](/assets/CV4.webp)  
   
   
 
@@ -104,15 +104,15 @@ Place `Preu` at the junction of vowels and consonants. In general, there is no n
 But when the Ending (-i, -u, -n, -ng) is present, make sure that the `Ovl` is at the beginning of the rhyme.  
 如果第二个音素是元音，请参照CV进行标注。  
 If the second phoneme is a vowel, please refer to the CV for labeling.  
-![Ending](/assets/VC1.png)  
+![Ending](/assets/VC1.webp)  
 
 对于爆破音(b,p,d,t,g,k,j,q,zh,ch,z,c)，请将`固`和白线（右边界）放在空白处。  
 For plosives (b,p,d,t,g,k,j,q,zh,ch,z,c), place the `Ovl` and the white line (right boundary) in the blank.  
-![Plosives](/assets/VC2.png)  
+![Plosives](/assets/VC2.webp)  
 
 对于其他辅音(m,f,n,l,h,x,sh,r,s,y,w)，请将`固`放在辅音波形稳定的地方，白线（右边界）放在辅音结束处。  
 For other consonants (m, f, n, l, h, x, sh, r, s, y, w), place `Ovl` where the consonant waveform is stable and the white line (right boundary) at the end of the consonant.  
-![Other consonants](/assets/VC3.png)  
+![Other consonants](/assets/VC3.webp)  
   
   
 
@@ -125,7 +125,7 @@ The Beginning can be seen as a VC without a vowel, while the other samples can b
   
 标注完成后，选择`文件`->`导出标注文件`以保存标注好的oto.ini。  
 After labeling completed, select `File` -> `Export Label File` to save the labeled oto.ini.  
-![Export](/assets/VL5.png) 
+![Export](/assets/VL5.webp) 
 
 {: .important }
 > 请注意，录音表模板的数值参考120BPM的[`いつほし式8モーラガイドBGM`](https://bowlroll.net/file/50209)设定。  
