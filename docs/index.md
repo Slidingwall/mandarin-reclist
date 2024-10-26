@@ -33,7 +33,7 @@ A minimal reclist for Mandarin stitching voickbank(UTAU, DeelVocal, Vocalsharp).
 [**录制与标注**](/mandarin-reclist/producing) 会讲述如何使用RecStar进行录制，用vLabeler进行标注，以及将其转换为Deepvocal/Vocalsharp所支持的语音库。  
 In [**Recording and Labeling**](/mandarin-reclist/producing), you'll learn how to record with RecStar, annotate with vLabeler, and convert it to a voice library supported by Deepvocal/Vocalsharp.
 
-[**测试与使用**](/mandarin-reclist/using)将会介绍如何组装语音库，并让其在UTAU/OpenUTAU、Deepvocal或Vocalsharp发出声音。
+[**测试与使用**](/mandarin-reclist/using)将会介绍如何组装语音库，并让其在UTAU/OpenUTAU、Deepvocal或Vocalsharp发出声音。  
 [**Testing and Using**](/mandarin-reclist/using) will show you how to assemble a voice library and make it sound in UTAU/OpenUTAU, Deepvocal, or Vocalsharp.
 
 ## 示例声库
