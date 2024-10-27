@@ -18,7 +18,7 @@ A minimal reclist for Mandarin stitching voickbank(UTAU, DeelVocal, Vocalsharp).
 | :--------------------: | :--------------------------------: | :------------------------------: | :---------------------------------------: |
 | **CVVC_Full** | 88 | 826 | 8 |
 | **CVVC_Lite** | 63 | 595 | 8 |
-| **CVVC_Extra[^1]** | 23 | 110 | N/A |
+| **CVVC_Extra[^1]** | 23 | 110 | 4 |
 | **VCV** | 609 | 3899 | 8 |
 
 
