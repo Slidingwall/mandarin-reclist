@@ -37,33 +37,37 @@ CVVC voice library is characterized by a single splicing at the end of the vowel
 | ∅ | i` | ∅ | i (zh ch sh r) |
 | ∅, i- | U | -ng | ong, iong |
 
-**韵头韵腹组合整理如下：**  
-**Medial-Nucleus Combanations are organized as follows:**
+{: .note-title }
+> 韵头韵腹组合 / Medial-Nucleus Combanations:
+> 
+> {: .opaque }
+> <div markdown="block">
+> {: .highlight }
+> > - a, ia, ua;
+> > - A, iA, uA;
+> > - @, i@, u@;
+> > - ei, ui, ie, ue, ian, uan;
+> > - ong, iong;
+> > - e, er, u/o/uo, ü, i, i0, ir
+>
+> 共24个，与声母结合后可产生274个CV组合。Lite及VCV表将`ian` `uan`并入`ie` `ue`，总计259个CV组合。  
+> In total of 24. Combined with Inintal, it can produce 274 CV combinations. Lite and VCV Reclist will combine `ian` `uan` into `ie` `ue`, in total of 259 CV combinations.  
 
-{: .highlight }
-> - a, ia, ua;
-> - A, iA, uA;
-> - @, i@, u@;
-> - ei, ui, ie, ue, ian, uan;
-> - ong, iong;
-> - e, er, u/o/uo, ü, i, i0, ir
-
-共24个，与声母结合后可产生274个CV组合。Lite表将`ian` `uan`并入`ie` `ue`，总计259个CV组合。  
-In total of 24. Combined with Inintal, it can produce 274 CV combinations. Lite Reclist will combine `ian` `uan` into `ie` `ue`, in total of 259 CV combinations.  
-
-**韵腹韵尾组合整理如下：**  
-**Nucleus-Ending Combanations are organized as follows:**
-
-{: .highlight }
-> - a, ***ai***/ei, ***ao***/ou;
-> - ***an***/en/***in***/***en0***/***ün***;
-> - ***ang***/eng/***ing***/***ong***;
-> - e, e0, er;
-> - i, i0, ir;
-> - o, u, ü
-
-共23个。Full表与中文CVVC韵尾一致，而Lite表则会将粗斜体的韵尾并入 `ei`, `ou`, `en`, `eng`中，整合后个数14个。  
-In total of 23. The Full Reclist is consistent with the Chinese CVVC ending, while the Lite Reclist will incorporate the bold-italicized ending into `ei`, `ou`, `en`,`eng`, In total of 14 after integration.   
+{: .note-title }
+> 韵腹韵尾组合 / Nucleus-Ending Combanations:
+> 
+> {: .opaque }
+> <div markdown="block">
+> {: .highlight }
+> > - a, ***ai***/ei, ***ao***/ou;
+> > - ***an***/en/***in***/***en0***/***ün***;
+> > - ***ang***/eng/***ing***/***ong***;
+> > - e, e0, er;
+> > - i, i0, ir;
+> > - o, u, ü
+>
+>共23个。Full表与中文CVVC韵尾一致，而Lite及VCV表则会将粗斜体的韵尾并入 `ei`, `ou`, `en`, `eng`中，整合后个数14个。  
+>In total of 23. The Full Reclist is consistent with the Chinese CVVC ending, while the Lite and VCV Reclist will incorporate the bold-italicized ending into `ei`, `ou`, `en`,`eng`, In total of 14 after integration.   
 
 ## 发音指导 Pronunciation instruction
 
