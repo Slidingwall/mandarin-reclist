@@ -60,16 +60,16 @@ CVVC voice library is characterized by a single splicing at the end of the vowel
 > {: .opaque }
 > <div markdown="block">
 > {: .highlight }
-> > - a, ***ai***/ei, ***ao***/ou;
-> > - ***an***/en/***in***/***en0***/***ün***;
-> > - ***ang***/eng/***ing***/***ong***;
+> > - a, ***ai***/ei(Lite) or :i(VCV), ***ao***/ou(Lite) or :u(VCV);
+> > - ***an***/en(Lite) or n(VCV)/***in***/***en0***/***ün***;
+> > - ***ang***/eng(Lite) or ng(VCV)/***ing***/***ong***;
 > > - e, e0, er;
 > > - i, i0, ir;
 > > - o, u, ü
 > </div>
 > 
->共23个。Full表与中文CVVC韵尾一致，而Lite及VCV表则会将粗斜体的韵尾并入 `ei`, `ou`, `en`, `eng`中，整合后个数14个。  
->In total of 23. The Full Reclist is consistent with the Chinese CVVC ending, while the Lite and VCV Reclist will incorporate the bold-italicized ending into `ei`, `ou`, `en`,`eng`, In total of 14 after integration.   
+>共23个。Full表与中文CVVC韵尾一致，而Lite及VCV表则会将粗斜体的韵尾并入 `ei / :i`, `ou / :u`, `en / n`, `eng / ng`中，整合后个数14个。  
+>In total of 23. The Full Reclist is consistent with the Chinese CVVC ending, while the Lite and VCV Reclist will incorporate the bold-italicized ending into `ei / :i`, `ou / :u`, `en / n`,`eng / ng`, In total of 14 after integration.   
 
 ## 发音指导 Pronunciation instruction
 
