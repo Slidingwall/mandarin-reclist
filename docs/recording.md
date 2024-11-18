@@ -37,7 +37,7 @@ CVVC voice library is characterized by a single splicing at the end of the vowel
 | ∅ | i` | ∅ | i (zh ch sh r) |
 | ∅, i- | U | -ng | ong, iong |
 
-{: .note-title }
+{: .important-title }
 > 韵头韵腹组合 / Medial-Nucleus Combanations:
 > 
 > {: .opaque }
@@ -54,7 +54,7 @@ CVVC voice library is characterized by a single splicing at the end of the vowel
 > 共24个，与声母结合后可产生274个CV组合。Lite及VCV表将`ian` `uan`并入`ie` `ue`，总计259个CV组合。  
 > In total of 24. Combined with Inintal, it can produce 274 CV combinations. Lite and VCV Reclist will combine `ian` `uan` into `ie` `ue`, in total of 259 CV combinations.  
 
-{: .note-title }
+{: .important-title }
 > 韵腹韵尾组合 / Nucleus-Ending Combanations:
 > 
 > {: .opaque }
