@@ -27,9 +27,12 @@ You can refer to the other sound banks you already have to set up the latter two
 在项目的`UTAU`文件夹中，提供了与录音表相匹配的`presamp.ini`。因为OpenUTAU中的`ZH CVVC`音素器不支持`presamp.ini`文件中的`[REPLACE]`项，所以您需要通过复制来补充被合并的CV项，或者自行添加文件夹中的`ZH_CVVC_with_replace.cs`。 
 In the `UTAU` folder of the project, a `presamp.ini` file that matches the recording sheet is provided. Since the `ZH CVVC` phonemeizer in OpenUTAU does not support the `[REPLACE]` section in the `presamp.ini` file, you need to supplement the merged CV entries by copying them or manually add the `ZH_CVVC_with_replace.cs` file from the folder.  
 
-对于复制，您可以使用[KiraOtoToolbox](https://github.com/shine5402/KiraOtoToolbox)，选择`根据别名复制/替换`，选择`oto_CV.ini`并点击`加载`，点击右侧蓝色图标并导入`Copy_****.json`并进行复制。复制完成后的其他步骤同上。  
-For copying, you can use [KiraOtoToolbox](https://github.com/shine5402/KiraOtoToolbox), Select `Copy/Replace by Alias` choose `oto_CV.ini` and click `Load` Then, click the blue icon on the right to import the `Copy_****.json` file and perform the copy. The subsequent steps after copying are the same as above.  
-![Toolbox](/assets/KO1.webp) ![Load](/assets/KO2.webp)   
+{: .highlight-title }
+> 对于复制 / For copying :
+>
+> 您可以使用[KiraOtoToolbox](https://github.com/shine5402/KiraOtoToolbox)，选择`根据别名复制/替换`，选择`oto_CV.ini`并点击`加载`，点击右侧蓝色图标并导入`Copy_****.json`并进行复制。复制完成后的其他步骤同上。  
+> You can use [KiraOtoToolbox](https://github.com/shine5402/KiraOtoToolbox), Select `Copy/Replace by Alias` choose `oto_CV.ini` and click `Load` Then, click the blue icon on the right to import the `Copy_****.json` file and perform the copy. The subsequent steps after copying are the same as above.  
+> ![Toolbox](/assets/KO1.webp) ![Load](/assets/KO2.webp)   
 
 ## 在UTAU和OpenUTAU中使用
 

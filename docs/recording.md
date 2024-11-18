@@ -24,15 +24,15 @@ CVVC voice library is characterized by a single splicing at the end of the vowel
 | :-----------------------------------: | :----------------------------------------: | :-----------------------------------: | :----------------------------------: |
 | ∅, i-, u- | a | ∅, -i, -n | a, ai, an, ia, ua, uai, uan |
 | ∅, i-, u- | A | -u, -ng | ao, ang, iao, iang, uang |
-| u- | o | ∅ | o, uo |
+| u- | o | ∅ | o/uo |
 | ∅ | 7 | ∅ | e |
 | ∅ | i | ∅, -n, -ng | i, in, ing |
 | ∅ | u | ∅ | u |
 | ∅ | y | ∅,-n | ü, ün |
 | ∅, i-, u-, ü- | e | ∅, -i | ê, ei, ui, ie, üe |
+| i-, ü- | E | -n | ian, üan |
 | ∅, i-, u- | @ | -u, -n, -ng | ou, en, eng, iu, un, ueng |
 | ∅ | @` | ∅ | er |
-| i-, ü- | E | -n | ian, üan |
 | ∅ | i\ | ∅ | i (z c s) |
 | ∅ | i` | ∅ | i (zh ch sh r) |
 | ∅, i- | U | -ng | ong, iong |
@@ -46,7 +46,7 @@ CVVC voice library is characterized by a single splicing at the end of the vowel
 > - @, i@, u@;
 > - ei, ui, ie, ue, ian, uan;
 > - ong, iong;
-> - e, i, u/o/uo, ü, er, i0, ir
+> - e, er, u/o/uo, ü, i, i0, ir
 
 共24个，与声母结合后可产生274个CV组合。Lite表将`ian` `uan`并入`ie` `ue`，总计259个CV组合。  
 In total of 24. Combined with Inintal, it can produce 274 CV combinations. Lite Reclist will combine `ian` `uan` into `ie` `ue`, in total of 259 CV combinations.  
@@ -55,13 +55,12 @@ In total of 24. Combined with Inintal, it can produce 274 CV combinations. Lite 
 **Nucleus-Ending Combanations are organized as follows:**
 
 {: .highlight }
-> - a, ***ai***, ***an***;
-> - ***ao***, ***ang***;
-> - i, ***in***, ***ing***;
-> - ou, en, eng;
-> - ü, ***ün***;
-> - e0, ei;
-> - o, e, u, er, i0, ir, ***en0***, ***ong***
+> - a, ***ai***/ei, ***ao***/ou;
+> - ***an***/en/***in***/***en0***/***ün***;
+> - ***ang***/eng/***ing***/***ong***;
+> - e, e0, er;
+> - i, i0, ir;
+> - o, u, ü
 
 共23个。Full表与中文CVVC韵尾一致，而Lite表则会将粗斜体的韵尾并入 `ei`, `ou`, `en`, `eng`中，整合后个数14个。  
 In total of 23. The Full Reclist is consistent with the Chinese CVVC ending, while the Lite Reclist will incorporate the bold-italicized ending into `ei`, `ou`, `en`,`eng`, In total of 14 after integration.   
