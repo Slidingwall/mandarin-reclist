@@ -18,11 +18,15 @@ async function generateOTO() {
             const generateLine = (wavsKey,line,typeSpecific) => line ? `${wavsKey}.wav=${line}#,${typeSpecific}` : [];
             return Object.entries(wavsObj).flatMap(([wavsKey, wavs]) => {
                 const cvLines = (wavs.cv || []).flatMap((line, i) => {
-                    return generateLine(wavsKey,line,`${formatFloat(blank - 50 + note * i)},${formatFloat(note * 0.3)},-${formatFloat(note * 0.8)}${/^[bpdtgkjqzc]/.test(line) ? ',50,0' : ',50,16'}`)
+                    const otoKey = /^[bpdtgkjqzc]/.test(line);
+                    return generateLine(wavsKey, line, `${formatFloat(blank - 50 + note * i)},${formatFloat(note * 0.3)},-${formatFloat(note * 0.8)},${otoKey ? '50,0' : '50,16'}`);
                 });
                 const vcLines = (wavs.vc || []).flatMap((line, i) => {
-                    const specific = line ? (["a", "A0", "e", "@", "er", "ei"].includes(line.split(" ")[1])? `${formatFloat(note * 0.8)},-${formatFloat(note * 1.2)},${formatFloat(note * 0.6)}`: `${formatFloat(note * 0.6)},-${formatFloat(note * 0.7)},${formatFloat(note * 0.5)}`) : []
-                    return generateLine(wavsKey,line,`${formatFloat(blank + note * (i + 0.4))},${specific},${formatFloat(note * 0.2)}`)
+                    if (!line) return [];
+                    const otoKey = ["a", "A0", "e", "@", "er", "ei"].includes(line.split(" ")[1]) ?  
+                        `${formatFloat(note * 0.8)},-${formatFloat(note * 1.2)},${formatFloat(note * 0.6)}` :  
+                        `${formatFloat(note * 0.6)},-${formatFloat(note * 0.7)},${formatFloat(note * 0.5)}`;  
+                    return generateLine(wavsKey,line,`${formatFloat(blank + note * (i + 0.4))},${otoKey},${formatFloat(note * 0.2)}`)
                 });
                 return [...cvLines, ...vcLines];
             });
