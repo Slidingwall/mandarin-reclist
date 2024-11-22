@@ -1,6 +1,9 @@
 function formatFloat(num) {
+    if (typeof num !== 'number' && (typeof num !== 'string' || isNaN(Number(num)))) {
+        return 'Invalid number'; 
+    }
     const numStr = num.toString();
-    return numStr.includes('.') && numStr.split('.')[1].length > 3
+    return /\.\d{4,}$/.test(numStr)
         ? num.toFixed(3).replace(/\.?0+$/, '')
         : numStr;
 }
