@@ -21,7 +21,8 @@ async function generateOTO() {
                     return generateLine(wavsKey,line,`${formatFloat(blank - 50 + note * i)},${formatFloat(note * 0.3)},-${formatFloat(note * 0.8)}${/^[bpdtgkjqzc]/.test(line) ? ',50,0' : ',50,16'}`)
                 });
                 const vcLines = (wavs.vc || []).flatMap((line, i) => {
-                    return generateLine(wavsKey,line,`${formatFloat(blank + note * (i + 0.4))},${["a", "A0", "e", "@", "er", "ei"].includes(line.split(" ")[1])? `${formatFloat(note * 0.8)},-${formatFloat(note * 1.2)},${formatFloat(note * 0.6)}`: `${formatFloat(note * 0.6)},-${formatFloat(note * 0.7)},${formatFloat(note * 0.5)}`},${formatFloat(note * 0.2)}`)
+                    const specific = line ? (["a", "A0", "e", "@", "er", "ei"].includes(line.split(" ")[1])? `${formatFloat(note * 0.8)},-${formatFloat(note * 1.2)},${formatFloat(note * 0.6)}`: `${formatFloat(note * 0.6)},-${formatFloat(note * 0.7)},${formatFloat(note * 0.5)}`) : []
+                    return generateLine(wavsKey,line,`${formatFloat(blank + note * (i + 0.4))},${specific},${formatFloat(note * 0.2)}`)
                 });
                 return [...cvLines, ...vcLines];
             });
