@@ -6,7 +6,7 @@ function formatFloat(num) {
 }
 async function generateOTO() {  
     const blank = parseInt(document.getElementById('blank').value, 10);    
-    const note = (60000 / parseFloat( document.getElementById('BPM').value));  
+    const note = 60000 / parseFloat( document.getElementById('BPM').value);  
     const type = document.getElementById('type').value;  
     const output = document.getElementById('output');  
     let result = [];  
@@ -14,7 +14,7 @@ async function generateOTO() {
         const response = await fetch("https://slidingwall.github.io/mandarin-reclist/assets/oto.json");  
         if (!response.ok) output.textContent = 'Network response was not ok';  
         const oto = await response.json();  
-        const processWavs = (wavsObj, blank, note) => {
+        const processWavs = (wavsObj) => {
             const generateLine = (wavsKey,line,typeSpecific) => line ? `${wavsKey}.wav=${line}#,${typeSpecific}` : [];
             return Object.entries(wavsObj).flatMap(([wavsKey, wavs]) => {
                 const cvLines = (wavs.cv || []).flatMap((line, i) => {
