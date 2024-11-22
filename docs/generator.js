@@ -1,44 +1,34 @@
 function formatFloat(num) {
-    if (typeof num !== 'number' && (typeof num !== 'string' || isNaN(Number(num)))) {
-        return 'Invalid number'; 
-    }
     const numStr = num.toString();
     return /\.\d{4,}$/.test(numStr)
         ? num.toFixed(3).replace(/\.?0+$/, '')
         : numStr;
 }
-
 async function generateOTO() {  
     const blank = parseInt(document.getElementById('blank').value, 10);    
     const note = (60000 / parseFloat( document.getElementById('BPM').value));  
     const type = document.getElementById('type').value;  
     const output = document.getElementById('output');  
     let result = [];  
-  
     try {  
         const response = await fetch("https://slidingwall.github.io/mandarin-reclist/assets/oto.json");  
         if (!response.ok) output.textContent = 'Network response was not ok';  
         const oto = await response.json();  
-        const processWavs = (wavsObj) => {  
-            const generateLine = (wavsKey, line, i, blank, type) => {  
-                if (!line) return [];  
-                const base = `${wavsKey}.wav=${line}#,`;  
-                if (type === 'cv') {  
-                    return [`${base}${formatFloat(blank - 50 + note * i)},${formatFloat(note * 0.3)},-${formatFloat(note * 0.8)}${/^[bpdtgkjqzc]/.test(line) ? ',50,0' : ',50,16'}`];  
-                } else if (type === 'vc') {  
-                    const otoKey = ["a", "A0", "e", "@", "er", "ei"].includes(line.split(" ")[1]) ?  
-                        `${formatFloat(note * 0.8)},-${formatFloat(note * 1.2)},${formatFloat(note * 0.6)}` :  
-                        `${formatFloat(note * 0.6)},-${formatFloat(note * 0.7)},${formatFloat(note * 0.5)}`;  
-                    return [`${base}${formatFloat(blank + note * (i + 0.4))},${otoKey},${formatFloat(note * 0.2)}`];  
-                }  
-                return [];  
-            };  
-            return Object.entries(wavsObj).flatMap(([wavsKey, wavs]) => {  
-                const cvLines = (wavs.cv || []).flatMap((line, i) => generateLine(wavsKey, line, i, blank, 'cv'));  
-                const vcLines = (wavs.vc || []).flatMap((line, i) => generateLine(wavsKey, line, i, blank, 'vc'));  
-                return [...cvLines, ...vcLines];  
-            });  
-        };   
+        const processWavs = (wavsObj, blank, note) => {
+            const generateLine = (wavsKey,line,typeSpecific) => line ? `${wavsKey}.wav=${line}#,${typeSpecific}` : [];
+            return Object.entries(wavsObj).flatMap(([wavsKey, wavs]) => {
+                const cvLines = (wavs.cv || []).flatMap((line, i) => {
+                    return generateLine(wavsKey,line,`${formatFloat(blank - 50 + note * i)},${formatFloat(note * 0.3)},-${formatFloat(note * 0.8)}${/^[bpdtgkjqzc]/.test(line) ? ',50,0' : ',50,16'}`)
+                });
+                const vcLines = (wavs.vc || []).flatMap((line, i) => {
+                    const specific = ["a", "A0", "e", "@", "er", "ei"].includes(line.split(" ")[1])
+                    ? `${formatFloat(note * 0.8)},-${formatFloat(note * 1.2)},${formatFloat(note * 0.6)}`
+                    : `${formatFloat(note * 0.6)},-${formatFloat(note * 0.7)},${formatFloat(note * 0.5)}`;
+                    return generateLine(wavsKey,line,`${formatFloat(blank + note * (i + 0.4))},${specific},${formatFloat(note * 0.2)}`)
+                });
+                return [...cvLines, ...vcLines];
+            });
+        };  
         switch (type) {  
             case "Lite":  
                 result = processWavs(oto.CVVC_Lite);  
