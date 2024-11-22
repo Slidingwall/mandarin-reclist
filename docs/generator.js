@@ -28,19 +28,14 @@ async function generateOTO() {
                     })
                 )
             );
-        let result = []; 
-        switch (type) {
-            case "Lite": result = processWavs(oto.CVVC_Lite); break;
-            case "Full": result = processWavs(oto.CVVC_Full); break;
-            case "VCV": 
-                oto.VCV.forEach(([wavsKey, wavs]) => 
-                    Array.isArray(wavs) && wavs.forEach((line, i) => line && 
-                        result.push(`${wavsKey}.wav=${line}#,${formatFloat(blank + note * (i + 0.4))},${formatFloat(note * 0.8)},-${formatFloat(note * 1.2)},${formatFloat(note * 0.6)},${formatFloat(note * 0.2)}`)
-                    )
-                );
-                break;
-            } 
-        output.textContent = result.join('\n');  
+        const result = type === "Lite" ? processWavs(oto.CVVC_Lite) :
+                   type === "Full" ? processWavs(oto.CVVC_Full) :
+                   type === "VCV"  ? oto.VCV.flatMap(([wavsKey, wavs]) =>
+                       (Array.isArray(wavs) ? wavs : []).filter(Boolean).map((line, i) =>
+                           `${wavsKey}.wav=${line}#,${formatFloat(blank + note * (i + 0.4))},${formatFloat(note * 0.8)},-${formatFloat(note * 1.2)},${formatFloat(note * 0.6)},${formatFloat(note * 0.2)}`
+                       )
+                   ) : [];
+        output.textContent = result.join('\n');
     } catch (error) {  
         output.textContent = `There was a problem with your fetch operation: ${error}`;  
     }
