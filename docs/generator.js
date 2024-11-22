@@ -27,11 +27,13 @@ async function generateOTO() {
             );
 
             const vcLines = (wavs.vc || []).flatMap((line, i) => {
-                const [_, sound] = line.split(" ");
-                const specific = ["a", "A0", "e", "@", "er", "ei"].includes(sound)
+                if(line){
+                    const [_, sound] = line.split(" ");
+                    const specific = ["a", "A0", "e", "@", "er", "ei"].includes(sound)
                     ? `${formatFloat(note * 0.8)},-${formatFloat(note * 1.2)},${formatFloat(note * 0.6)},${formatFloat(note * 0.2)}`
                     : `${formatFloat(note * 0.6)},-${formatFloat(note * 0.7)},${formatFloat(note * 0.5)},${formatFloat(note * 0.2)}`;
-                return type === 'vc' ? generateLine(line, i, `${formatFloat(blank + note * (i + 0.4))},${specific}`) : [];
+                    return type === 'vc' ? generateLine(line, i, `${formatFloat(blank + note * (i + 0.4))},${specific}`) : [];
+                }
             });
 
             return [...cvLines, ...vcLines];
