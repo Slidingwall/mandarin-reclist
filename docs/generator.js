@@ -24,8 +24,7 @@ async function generateOTO() {
                 if (!line) return [];  
                 const base = `${wavsKey}.wav=${line}#,`;  
                 if (type === 'cv') {  
-                    const pattern = /^[bpdtgkjqzc]/.test(line) ? ',50,0' : ',50,16';  
-                    return [`${base}${formatFloat(blank - 50 + note * i)},${formatFloat(note * 0.3)},-${formatFloat(note * 0.8)}${pattern}`];  
+                    return [`${base}${formatFloat(blank - 50 + note * i)},${formatFloat(note * 0.3)},-${formatFloat(note * 0.8)}${/^[bpdtgkjqzc]/.test(line) ? ',50,0' : ',50,16'}`];  
                 } else if (type === 'vc') {  
                     const otoKey = ["a", "A0", "e", "@", "er", "ei"].includes(line.split(" ")[1]) ?  
                         `${formatFloat(note * 0.8)},-${formatFloat(note * 1.2)},${formatFloat(note * 0.6)}` :  
