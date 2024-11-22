@@ -10,6 +10,9 @@ nav_order: 2
 在中文里，每个音节均由 `首音`和 `韵`组成。`首音`分为 `声母`和 `韵头(介音)`，`韵`分为 `韵腹(核音)`和 `韵尾(尾音)`。[*参考来源*](http://jpk.pku.edu.cn/course/llyyx/script/142.pdf)  
 In Mandarin, each syllable is composed of `Onset` and `Rhyme`. The `Onset` is divided into `Initial` and `Medial`, while `Rhyme` is divided into `Nucleus` and `Ending`. [*Reference source*](http://jpk.pku.edu.cn/course/llyyx/script/142.pdf)
 
+对于声母而言，不送气的声母VC部分合并至送气声母的VC部分中，将原始的23个声母整合为17个。  
+For the initials, the unaspirated initials' VC parts are merged into the VC parts of the aspirated initials, consolidating the original 23 initials into 17.   
+
 韵头有四种情况： `无韵头`, `i-`, `u-`, `ü-`；  
 韵尾有五种情况： `无韵尾`, `-i`, `-u`, `-n`, `-ng`；  
 韵腹共有14个。  
@@ -21,21 +24,24 @@ CVVC语音库的特点是，在元音延长部分的末尾，即韵腹韵尾的�
 CVVC voice library is characterized by a single splicing at the end of the vowel extension, where between Nucleus and Ending. Therefore, the finals can be combined separately according to Medial-Nucleus and Nucleus-Ending.  
 
 | 可能的韵头<br/>Possible Medials | 韵腹(X-SAMPA)<br/>Nuclei in X-SAMPA | 可能的韵尾<br/>Possible Endings | 可组合的韵母<br/> Possible Vowels |
-| :-----------------------------------: | :----------------------------------------: | :-----------------------------------: | :----------------------------------: |
+| :---: | :---: | :---: | :---: |
 | ∅, i-, u- | a | ∅, -i, -n | a, ai, an, ia, ua, uai, uan |
 | ∅, i-, u- | A | -u, -ng | ao, ang, iao, iang, uang |
 | u- | o | ∅ | o/uo |
+| ∅, i- | U | -ng | ong, iong |
 | ∅ | 7 | ∅ | e |
-| ∅ | i | ∅, -n, -ng | i, in, ing |
-| ∅ | u | ∅ | u |
-| ∅ | y | ∅,-n | ü, ün |
 | ∅, i-, u-, ü- | e | ∅, -i | ê, ei, ui, ie, üe |
 | i-, ü- | E | -n | ian, üan |
 | ∅, i-, u- | @ | -u, -n, -ng | ou, en, eng, iu, un, ueng |
 | ∅ | @` | ∅ | er |
+| ∅ | i | ∅, -n, -ng | i, in, ing |
 | ∅ | i\ | ∅ | i (z c s) |
 | ∅ | i` | ∅ | i (zh ch sh r) |
-| ∅, i- | U | -ng | ong, iong |
+| ∅ | u | ∅ | u |
+| ∅ | y | ∅,-n | ü, ün |
+
+VV部分的第二个韵母按照韵腹整合为`a` `A` `e` `ei` `@` `er` `v` 7个。  
+The second vowels in the VV parts are integrated into 7 categories according to their nucleus: `a` `A` `e` `ei` `@` `er` `v`.  
 
 {: .important-title }
 > 韵头韵腹组合 / Medial-Nucleus Combanations:
@@ -46,7 +52,7 @@ CVVC voice library is characterized by a single splicing at the end of the vowel
 > > - a, ia, ua, A, iA, uA;
 > > - @, i@, u@, ong, iong;
 > > - ei, ui, ie, ue, ian, uan;
-> > - e, er, u/o/uo, ü, i, i0, ir
+> > - e, er, i, i0, ir, u/o/uo, ü
 > </div>
 > 
 > 共24个，与声母结合后可产生274个CV组合。Lite及VCV表将`ian` `uan`并入`ie` `ue`，总计259个CV组合。  
@@ -61,11 +67,11 @@ CVVC voice library is characterized by a single splicing at the end of the vowel
 > > - ***ai***/***ei*** -> :i, ***ao***/***ou*** -> :u;
 > > - ***an***/***en***/***in***/***en0***/***ün*** -> n;
 > > - ***ang***/***eng***/***ing***/***ong*** -> ng;
-> > - a, o, u, ü, e, e0, er, i, i0, ir;
+> > - a, o, e, e0, er, i, i0, ir, u, ü
 > </div>
 > 
->共23个。Full表与中文CVVC韵尾一致，而Lite及VCV表则会将粗斜体的韵尾并入 `:i`, `:u`, `n`, `ng`中，整合后个数14个。  
->In total of 23. The Full Reclist is consistent with the Chinese CVVC ending, while the Lite and VCV Reclist will incorporate the bold-italicized ending into `:i`, `:u`, `n`,`ng`, In total of 14 after integration.   
+>共23个。Full表与中文CVVC韵尾一致，而Lite及VCV表则会将粗斜体的韵尾并入 `:i` `:u` `n` `ng`中，整合后个数14个。  
+>In total of 23. The Full Reclist is consistent with the Chinese CVVC ending, while the Lite and VCV Reclist will incorporate the bold-italicized ending into `:i` `:u` `n` `ng`, In total of 14 after integration.   
 
 ## 发音指导 Pronunciation instruction
 
