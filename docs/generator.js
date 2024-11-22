@@ -30,7 +30,7 @@ async function generateOTO() {
             );
         const result = type === "Lite" ? processWavs(oto.CVVC_Lite) :
                    type === "Full" ? processWavs(oto.CVVC_Full) :
-                   type === "VCV"  ? oto.VCV.flatMap(([wavsKey, wavs]) =>
+                   type === "VCV"  ? Object.entries(oto.VCV).flatMap(([wavsKey, wavs]) =>
                        (Array.isArray(wavs) ? wavs : []).filter(Boolean).map((line, i) =>
                            `${wavsKey}.wav=${line}#,${formatFloat(blank + note * (i + 0.4))},${formatFloat(note * 0.8)},-${formatFloat(note * 1.2)},${formatFloat(note * 0.6)},${formatFloat(note * 0.2)}`
                        )
