@@ -1,7 +1,8 @@
 function formatFloat(num) {
-    return (num.toString().includes('.') && num.toString().split('.')[1].length > 3)
+    const numStr = num.toString();
+    return numStr.includes('.') && numStr.split('.')[1].length > 3
         ? num.toFixed(3).replace(/\.?0+$/, '')
-        : num.toString();
+        : numStr;
 }
 
 async function generateOTO() {
