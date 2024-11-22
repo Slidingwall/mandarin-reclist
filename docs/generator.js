@@ -11,8 +11,9 @@ async function generateOTO() {
     const output = document.getElementById('output');
 
     try {
-        const oto = await fetch("https://slidingwall.github.io/mandarin-reclist/assets/oto.json").then(res => res.json());
-        if (!oto.ok) return output.textContent = 'Network response was not ok';
+        const response = await fetch("https://slidingwall.github.io/mandarin-reclist/assets/oto.json");
+        if (!response.ok) throw new Error('Network response was not ok');
+        const oto = await response.json();
 
         const processWavs = (wavsObj) => Object.entries(wavsObj).flatMap(([wavsKey, wavs]) => {
             const generateLine = (line, i, typeSpecific) => line ? `${wavsKey}.wav=${line}#,${typeSpecific}` : [];
