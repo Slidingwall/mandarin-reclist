@@ -11,21 +11,19 @@ It's exciting to assemble a recorded voicebank and let it sound properly in the 
 
 这两个软件需要`presamp.ini` `character.txt`和`prefix.map`。  
 Both of these software require `presamp.ini` `character.txt` and `prefix.map`.  
-
 `presamp.ini`用于向软件提供元音辅音信息以便拼接。   
 `presamp.ini` is used to provide the software with vowel consonant information for splicing.  
-
 `character.txt`用于向软件提供声库名称和图像等信息。 
 `character.txt` is used to provide the software with information such as library names and images.  
-
 而`prefix.map`向软件提供不同的音高采用何种采样。  
 And `prefix.map` provides the software with which samples are used for different pitches.  
-
 您可以参考已有的其他声库设置后两者。  
 You can refer to the other sound banks you already have to set up the latter two.  
 
-在项目的`UTAU`文件夹中，提供了与录音表相匹配的`presamp.ini`。因为OpenUTAU中的`ZH CVVC`音素器不支持`presamp.ini`文件中的`[REPLACE]`项，所以您需要通过复制来补充被合并的CV项，或者自行添加文件夹中的`ZH_CVVC_with_replace.cs`。 
-In the `UTAU` folder of the project, a `presamp.ini` file that matches the recording sheet is provided. Since the `ZH CVVC` phonemeizer in OpenUTAU does not support the `[REPLACE]` section in the `presamp.ini` file, you need to supplement the merged CV entries by copying them or manually add the `ZH_CVVC_with_replace.cs` file from the folder.  
+在项目的`UTAU`文件夹中，提供了与录音表相匹配的`presamp.ini`。  
+In the `UTAU` folder of the project, a `presamp.ini` file that matches the recording sheet is provided.  
+因为OpenUTAU中的`ZH CVVC`音素器不支持`presamp.ini`文件中的`[REPLACE]`项，所以您需要通过复制来补充被合并的CV项，或者自行添加文件夹中的`ZH_CVVC_with_replace.cs`。  
+Since the `ZH CVVC` phonemeizer in OpenUTAU does not support the `[REPLACE]` section in the `presamp.ini` file, you need to supplement the merged CV entries by copying them or manually add the `ZH_CVVC_with_replace.cs` file from the folder.  
 
 {: .highlight-title }
 > 对于复制 / For copying :
