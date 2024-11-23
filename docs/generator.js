@@ -1,12 +1,7 @@
-function formatFloat(num) {
-    const numStr = num.toString();
-    return /\.\d{4,}$/.test(numStr)
-        ? num.toFixed(3).replace(/\.?0+$/, '')
-        : numStr;
-}
+function formatFloat(num) {return num.toFixed(3).replace(/\.?0+$/, '')};
 async function generateOTO() {  
     const blank = parseInt(document.getElementById('blank').value, 10);    
-    const note = 60000 / parseFloat( document.getElementById('BPM').value);  
+    const note = 60000 / parseFloat(document.getElementById('BPM').value);  
     const type = document.getElementById('type').value;  
     const output = document.getElementById('output');   
     try {  
@@ -28,17 +23,13 @@ async function generateOTO() {
                     })
                 )
             );
-        const result = type === "Lite" ? processWavs(oto.CVVC_Lite) :
-                   type === "Full" ? processWavs(oto.CVVC_Full) :
-                   type === "VCV"  ? Object.entries(oto.VCV).flatMap(([wavsKey, wavs]) =>
+        const result = type === "Lite" ? processWavs(oto.CVVC_Lite) : type === "Full" ? processWavs(oto.CVVC_Full) : type === "VCV"  ? Object.entries(oto.VCV).flatMap(([wavsKey, wavs]) =>
                        (Array.isArray(wavs) ? wavs : []).filter(Boolean).map((line, i) =>
                            `${wavsKey}.wav=${line}#,${formatFloat(blank + note * (i + 0.4))},${formatFloat(note * 0.8)},-${formatFloat(note * 1.2)},${formatFloat(note * 0.6)},${formatFloat(note * 0.2)}`
                        )
                    ) : [];
         output.textContent = result.join('\n');
-    } catch (error) {  
-        output.textContent = `There was a problem with your fetch operation: ${error}`;  
-    }
+    } catch (error) {output.textContent = `There was a problem with your fetch operation: ${error}`};  
 }
 function downloadResult() {
     const blob = new Blob([document.getElementById('output').textContent], { type: 'text/plain' });
