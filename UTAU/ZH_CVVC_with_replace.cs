@@ -221,7 +221,7 @@ namespace OpenUtau.Plugin.Builtin {
                         }
                     }
                     var priority = blocks.Find(block => block.header == "PRIORITY");
-                    var replaceLines = blocks.Find(block => block.header == "REPLACE");
+                    var replaceLines = blocks.Find(block => block.header == "[REPLACE]");
                     foreach (var iniLine in replaceLines) {
                         var parts = iniLine.line.Split('=');
                         replace[parts[0]]=parts[1];
