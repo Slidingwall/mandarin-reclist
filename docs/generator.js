@@ -19,7 +19,7 @@ async function generateOTO() {
                         const key = ["a", "A0", "e", "@", "er", "ei"].includes(line.split(" ")[1]) ?
                             `${format(note * 0.8)},-${format(note * 1.2)},${format(note * 0.6)}` :
                             `${format(note * 0.6)},-${format(note * 0.7)},${format(note * 0.5)}`;
-                        return `${name}.wav=${line}#,${format(blank + note * (i + 0.4))},${key},${format(note * 0.2)}`;
+                        return `${name}.wav=${line}#,${format(blank + note * (i + 0.4))},${key},${format(note * 0.2)}`
                     })
                 )
             );
@@ -29,8 +29,8 @@ async function generateOTO() {
                     `${name}.wav=${line}#,${format(blank + note * (i + 0.4))},${format(note * 0.8)},-${format(note * 1.2)},${format(note * 0.6)},${format(note * 0.2)}`
                 )
             ) : [];
-        output = result.join('\n');
-    } catch (error) {output = `There was a problem with your fetch operation: ${error}`};  
+        output = result.join('\n')
+    } catch (error) {output = `There was a problem with your fetch operation: ${error}`}
 }
 function downloadResult() {
     const blob = new Blob([document.getElementById('output').textContent], { type: 'text/plain' });
@@ -38,5 +38,5 @@ function downloadResult() {
     downloadLink.href = URL.createObjectURL(blob);
     downloadLink.download = `oto_${document.getElementById('type').value}.ini`;
     downloadLink.click();
-    URL.revokeObjectURL(downloadLink.href);
+    URL.revokeObjectURL(downloadLink.href)
 }
