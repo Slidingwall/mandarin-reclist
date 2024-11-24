@@ -1,8 +1,7 @@
 async function generateOTO() {  
     const blank = parseInt(document.getElementById('blank').value, 10);    
     const dur = 60000 / parseFloat(document.getElementById('BPM').value);  
-    const type = document.getElementById('type').value;  
-    const output = document.getElementById('output').textContent;   
+    const type = document.getElementById('type').value;   
     const float = num => num.toFixed(3).replace(/\.?0+$/, '');
     try {  
         const oto = await fetch("https://slidingwall.github.io/mandarin-reclist/assets/oto.json").then(res => res.ok ? res.json() : { error: 'Network response was not ok' });
@@ -27,8 +26,8 @@ async function generateOTO() {
                     `${name}.wav=${line}#,${float(blank + dur * (i + 0.4))},${float(dur * 0.8)},-${float(dur * 1.2)},${float(dur * 0.6)},${float(dur * 0.2)}`
                 )
             ) : [];
-        output = result.join('\n')
-    } catch (e) {output = `There was a problem with your fetch operation: ${e}`}
+            document.getElementById('output').textContent = result.join('\n')
+    } catch (e) {document.getElementById('output').textContent = `There was a problem with your fetch operation: ${e}`}
 }
 function downloadResult() {
     const blob = new Blob([document.getElementById('output').textContent], { type: 'text/plain' });
