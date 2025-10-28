@@ -19,6 +19,7 @@ nav_order: 5
   <input type="text" name="blank" id="blank" placeholder="请输入空白值(msec)">  
   <label for="type">选择录音表:</label>  
   <select id="type" name="type">  
+    <option value="Nano">CVVC_Nano</option> 
     <option value="Lite">CVVC_Lite</option>  
     <option value="Full">CVVC_Full</option>  
     <option value="VCV">VCV</option>  

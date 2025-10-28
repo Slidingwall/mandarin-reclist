@@ -55,8 +55,8 @@ The second vowels in the VV parts are integrated into 7 categories according to 
 > > - e, er, i, i0, ir, u/o/uo, ü
 > </div>
 > 
-> 共24个，与声母结合后可产生274个CV组合。Lite及VCV表将`ian` `uan`并入`ie` `ue`，总计259个CV组合。  
-> In total of 24. Combined with Inintal, it can produce 274 CV combinations. Lite and VCV Reclist will combine `ian` `uan` into `ie` `ue`, in total of 259 CV combinations.  
+> 共24个，与声母结合后可产生274个CV组合。Nano、Lite及VCV表将`ian` `uan`并入`ie` `ue`，总计259个CV组合。  
+> In total of 24. Combined with Inintal, it can produce 274 CV combinations. Nano, Lite and VCV Reclist will combine `ian` `uan` into `ie` `ue`, in total of 259 CV combinations.  
 
 {: .important-title }
 > 韵腹韵尾组合 / Nucleus-Ending Combanations:
@@ -70,8 +70,8 @@ The second vowels in the VV parts are integrated into 7 categories according to 
 > > - a, o, e, e0, er, i, i0, ir, u, ü
 > </div>
 > 
->共23个。Full表与中文CVVC韵尾一致，而Lite及VCV表则会将粗斜体的韵尾并入 `:i` `:u` `n` `ng`中，整合后个数14个。  
->In total of 23. The Full Reclist is consistent with the Chinese CVVC ending, while the Lite and VCV Reclist will incorporate the bold-italicized ending into `:i` `:u` `n` `ng`, In total of 14 after integration.   
+>共23个。Full表与中文CVVC韵尾一致，而Lite及VCV表则会将粗斜体的韵尾并入 `:i` `:u` `n` `ng`中，整合后个数14个。Nano表在此基础上，将`:u`并入`u`，整合后个数13个。  
+>In total of 23. The Full Reclist is consistent with the Chinese CVVC ending, while the Lite and VCV Reclist will incorporate the bold-italicized ending into `:i` `:u` `n` `ng`, in total of 14 after integration. Based on this, Nano list will incorporate `:u` into `u`, in total of 14 after integration.  
 
 ## 发音指导 Pronunciation instruction
 

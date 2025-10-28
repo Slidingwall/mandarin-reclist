@@ -1,4 +1,1086 @@
 {
+    "CVVC_Nano": {
+            "_ba_pa_ma_fa_da_ta_na_la": {
+                "cv": [
+                "ba",
+                "pa",
+                "ma",
+                "fa",
+                "da",
+                "ta",
+                "na",
+                "la"
+                ],
+                "vc": [
+                "a p",
+                "a m",
+                "a f",
+                null,
+                "a t",
+                "a n",
+                "a l"
+                ]
+            },
+            "_ga_ka_ha_a_jia_qia_xia_wang": {
+                "cv": [
+                "ga",
+                "ka",
+                "ha",
+                "a",
+                "jia",
+                "qia",
+                "xia",
+                "wang"
+                ],
+                "vc": [
+                "a k",
+                "a h",
+                "a a",
+                null,
+                "a q",
+                "a x",
+                "a w"
+                ]
+            },
+            "_zha_cha_sha_ya_za_ca_sa_ran": {
+                "cv": [
+                "zha",
+                "cha",
+                "sha",
+                "ya",
+                "za",
+                "ca",
+                "sa",
+                "ran"
+                ],
+                "vc": [
+                "a ch",
+                "a sh",
+                "a y",
+                null,
+                "a c",
+                "a s",
+                "a r"
+                ]
+            },
+            "_duan_tuan_nuan_luan_zhuan_chuan_shuan_ruan": {
+                "cv": [
+                "duan",
+                "tuan",
+                "nuan",
+                "luan",
+                "zhuan",
+                "chuan",
+                "shuan",
+                "ruan"
+                ],
+                "vc": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+                ]
+            },
+            "_guan_kuan_shi_huan_zuan_cuan_chi_suan": {
+                "cv": [
+                "guan",
+                "kuan",
+                null,
+                "huan",
+                "zuan",
+                "cuan",
+                null,
+                "suan"
+                ],
+                "vc": [
+                null,
+                null,
+                "ir h",
+                null,
+                null,
+                null,
+                "ir s"
+                ]
+            },
+            "_bo_po_mo_fo_wo_zhei_shei_yu": {
+                "cv": [
+                "bo",
+                "po",
+                "mo",
+                "fo",
+                "wo",
+                "zhei",
+                "shei",
+                null
+                ],
+                "vc": [
+                "o p",
+                "o m",
+                "o f",
+                "o w",
+                null,
+                ":i sh",
+                ":i v"
+                ]
+            },
+            "_duo_tuo_nuo_luo_guo_kuo_huo_e": {
+                "cv": [
+                "duo",
+                "tuo",
+                "nuo",
+                "luo",
+                "guo",
+                "kuo",
+                "huo",
+                null
+                ],
+                "vc": [
+                "o t",
+                "o n",
+                "o l",
+                null,
+                "o k",
+                "o h",
+                "o e"
+                ]
+            },
+            "_zhuo_chuo_shuo_ruo_zuo_cuo_suo_a": {
+                "cv": [
+                "zhuo",
+                "chuo",
+                "shuo",
+                "ruo",
+                "zuo",
+                "cuo",
+                "suo",
+                null
+                ],
+                "vc": [
+                "o ch",
+                "o sh",
+                "o r",
+                null,
+                "o c",
+                "o s",
+                "o a"
+                ]
+            },
+            "_de_te_ne_le_ge_ke_he_e": {
+                "cv": [
+                "de",
+                "te",
+                "ne",
+                "le",
+                "ge",
+                "ke",
+                "he",
+                "e"
+                ],
+                "vc": [
+                "e t",
+                "e n",
+                "e l",
+                null,
+                "e k",
+                "e h",
+                "e e"
+                ]
+            },
+            "_zhe_che_she_re_ze_ce_se_ei": {
+                "cv": [
+                "zhe",
+                "che",
+                "she",
+                "re",
+                "ze",
+                "ce",
+                "se",
+                null
+                ],
+                "vc": [
+                "e ch",
+                "e sh",
+                "e r",
+                null,
+                "e c",
+                "e s",
+                "e ei"
+                ]
+            },
+            "_bu_pu_mu_fu_du_tu_nu_lu": {
+                "cv": [
+                "bu",
+                "pu",
+                "mu",
+                "fu",
+                "du",
+                "tu",
+                "nu",
+                "lu"
+                ],
+                "vc": [
+                "u p",
+                "u m",
+                "u f",
+                null,
+                "u t",
+                "u n",
+                "u l"
+                ]
+            },
+            "_zhu_chu_shu_ru_gu_ku_hu_ou": {
+                "cv": [
+                "zhu",
+                "chu",
+                "shu",
+                "ru",
+                "gu",
+                "ku",
+                "hu",
+                null
+                ],
+                "vc": [
+                "u ch",
+                "u sh",
+                "u r",
+                null,
+                "u k",
+                "u h",
+                "u @"
+                ]
+            },
+            "_bei_pei_mei_fei_dei_tei_nei_lei": {
+                "cv": [
+                "bei",
+                "pei",
+                "mei",
+                "fei",
+                "dei",
+                "tei",
+                "nei",
+                "lei"
+                ],
+                "vc": [
+                ":i p",
+                ":i m",
+                ":i f",
+                null,
+                ":i t",
+                ":i n",
+                ":i l"
+                ]
+            },
+            "_gei_kei_hei_zei_jie_qie_xie_en": {
+                "cv": [
+                "gei",
+                "kei",
+                "hei",
+                "zei",
+                "jie",
+                "qie",
+                "xie",
+                null
+                ],
+                "vc": [
+                ":i k",
+                ":i h",
+                null,
+                null,
+                "e0 q",
+                "e0 x",
+                "e0 @"
+                ]
+            },
+            "_gui_kui_hui_wei_dui_tui_yi_ou": {
+                "cv": [
+                "gui",
+                "kui",
+                "hui",
+                "wei",
+                "dui",
+                "tui",
+                null,
+                null
+                ],
+                "vc": [
+                null,
+                null,
+                ":i w",
+                null,
+                null,
+                ":i y",
+                "i @"
+                ]
+            },
+            "_zhui_chui_shui_rui_zui_cui_sui_ei": {
+                "cv": [
+                "zhui",
+                "chui",
+                "shui",
+                "rui",
+                "zui",
+                "cui",
+                "sui",
+                "ei"
+                ],
+                "vc": [
+                ":i ch",
+                null,
+                ":i r",
+                null,
+                ":i c",
+                ":i s",
+                ":i ei"
+                ]
+            },
+            "_bie_pie_mie_ye_die_tie_nie_lie": {
+                "cv": [
+                "bie",
+                "pie",
+                "mie",
+                "ye",
+                "die",
+                "tie",
+                "nie",
+                "lie"
+                ],
+                "vc": [
+                "e0 p",
+                "e0 m",
+                "e0 y",
+                null,
+                "e0 t",
+                "e0 n",
+                "e0 l"
+                ]
+            },
+            "_yue_jue_que_xue_a_nue_lue_e": {
+                "cv": [
+                "yue",
+                "jue",
+                "que",
+                "xue",
+                null,
+                "nue",
+                "lue",
+                null
+                ],
+                "vc": [
+                null,
+                null,
+                null,
+                "e0 a",
+                null,
+                null,
+                "e0 e"
+                ]
+            },
+            "_shi_miao_biao_piao_diao_tiao_niao_liao": {
+                "cv": [
+                null,
+                "miao",
+                "biao",
+                "piao",
+                "diao",
+                "tiao",
+                "niao",
+                "liao"
+                ],
+                "vc": [
+                "ir m",
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+                ]
+            },
+            "_gao_ci_kao_hao_jiao_qiao_si_xiao": {
+                "cv": [
+                "gao",
+                null,
+                "kao",
+                "hao",
+                "jiao",
+                "qiao",
+                null,
+                "xiao"
+                ],
+                "vc": [
+                null,
+                "i0 k",
+                null,
+                null,
+                null,
+                null,
+                "i0 x"
+                ]
+            },
+            "_zhao_chao_shao_rao_zao_cao_sao_yao": {
+                "cv": [
+                "zhao",
+                "chao",
+                "shao",
+                "rao",
+                "zao",
+                "cao",
+                "sao",
+                "yao"
+                ],
+                "vc": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+                ]
+            },
+            "_bang_pang_mang_fang_dang_tang_nang_lang": {
+                "cv": [
+                "bang",
+                "pang",
+                "mang",
+                "fang",
+                "dang",
+                "tang",
+                "nang",
+                "lang"
+                ],
+                "vc": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+                ]
+            },
+            "_guang_chi_kuang_huang_zhuang_si_chuang_shuang": {
+                "cv": [
+                "guang",
+                null,
+                "kuang",
+                "huang",
+                "zhuang",
+                null,
+                "chuang",
+                "shuang"
+                ],
+                "vc": [
+                null,
+                "ir k",
+                null,
+                null,
+                null,
+                "i0 ch",
+                null
+                ]
+            },
+            "_diu_niu_liu_you_jiu_qiu_xiu_miu": {
+                "cv": [
+                "diu",
+                "niu",
+                "liu",
+                "you",
+                "jiu",
+                "qiu",
+                "xiu",
+                "miu"
+                ],
+                "vc": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+                ]
+            },
+            "_dun_tun_nen_lun_pen_men_fen_a": {
+                "cv": [
+                "dun",
+                "tun",
+                null,
+                "lun",
+                null,
+                null,
+                null,
+                null
+                ],
+                "vc": [
+                "en t",
+                "en n",
+                "en l",
+                "en p",
+                "en m",
+                "en f",
+                "en a"
+                ]
+            },
+            "_zhun_chun_shun_run_zun_cun_sun_en": {
+                "cv": [
+                "zhun",
+                "chun",
+                "shun",
+                "run",
+                "zun",
+                "cun",
+                "sun",
+                null
+                ],
+                "vc": [
+                "en ch",
+                "en sh",
+                "en r",
+                null,
+                "en c",
+                "en s",
+                "en @"
+                ]
+            },
+            "_gun_kun_hun_wen_zu_cu_su_wu": {
+                "cv": [
+                "gun",
+                "kun",
+                "hun",
+                "wen",
+                "zu",
+                "cu",
+                "su",
+                "wu"
+                ],
+                "vc": [
+                "en k",
+                "en h",
+                "en w",
+                null,
+                "u c",
+                "u s",
+                "u w"
+                ]
+            },
+            "_beng_peng_meng_feng_deng_teng_neng_leng": {
+                "cv": [
+                "beng",
+                "peng",
+                "meng",
+                "feng",
+                "deng",
+                "teng",
+                "neng",
+                "leng"
+                ],
+                "vc": [
+                "eng p",
+                "eng m",
+                "eng f",
+                null,
+                "eng t",
+                "eng n",
+                "eng l"
+                ]
+            },
+            "_zeng_ceng_seng_reng_geng_keng_heng_ei": {
+                "cv": [
+                "zeng",
+                "ceng",
+                "seng",
+                "reng",
+                "geng",
+                "keng",
+                "heng",
+                null
+                ],
+                "vc": [
+                "eng c",
+                "eng s",
+                "eng r",
+                null,
+                "eng k",
+                "eng h",
+                "eng ei"
+                ]
+            },
+            "_dong_tong_nong_long_zhong_chong_yong_rong": {
+                "cv": [
+                "dong",
+                "tong",
+                "nong",
+                "long",
+                "zhong",
+                "chong",
+                "yong",
+                "rong"
+                ],
+                "vc": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+                ]
+            },
+            "_gong_kong_si_hong_zong_zi_cong_song": {
+                "cv": [
+                "gong",
+                "kong",
+                null,
+                "hong",
+                "zong",
+                "zi",
+                "cong",
+                "song"
+                ],
+                "vc": [
+                null,
+                null,
+                "i0 h",
+                null,
+                null,
+                "i0 c",
+                null
+                ]
+            },
+            "_jiong_qiong_xiong_zheng_cheng_sheng_eng_ao": {
+                "cv": [
+                "jiong",
+                "qiong",
+                "xiong",
+                "zheng",
+                "cheng",
+                "sheng",
+                "eng",
+                "ao"
+                ],
+                "vc": [
+                null,
+                null,
+                null,
+                "eng ch",
+                "eng sh",
+                "eng @",
+                "eng A0"
+                ]
+            },
+            "_di_ti_ni_li_bi_pi_mi_e": {
+                "cv": [
+                "di",
+                "ti",
+                "ni",
+                "li",
+                "bi",
+                "pi",
+                "mi",
+                null
+                ],
+                "vc": [
+                "i t",
+                "i n",
+                "i l",
+                null,
+                "i p",
+                "i m",
+                "i e"
+                ]
+            },
+            "_ji_qi_xi_yi_fo_ei_a_ao": {
+                "cv": [
+                "ji",
+                "qi",
+                "xi",
+                "yi",
+                null,
+                null,
+                null,
+                null
+                ],
+                "vc": [
+                "i q",
+                "i x",
+                "i y",
+                "i f",
+                "o ei",
+                ":i a",
+                "a A0"
+                ]
+            },
+            "_si_qi_sheng_yi_chen_yi_ci_yi": {
+                "cv": null,
+                "vc": [
+                "i0 q",
+                "i sh",
+                "eng y",
+                "i ch",
+                "en y",
+                "i c",
+                "i0 y"
+                ]
+            },
+            "_ju_qu_xu_yu_nv_lv_fo_ao": {
+                "cv": [
+                "ju",
+                "qu",
+                "xu",
+                "yu",
+                "nv",
+                "lv",
+                null,
+                null
+                ],
+                "vc": [
+                "v q",
+                "v x",
+                "v v",
+                "v n",
+                "v l",
+                "v f",
+                "o A0"
+                ]
+            },
+            "_chi_pie_chi_wu_yu_teng_qi_ao": {
+                "cv": null,
+                "vc": [
+                "ir p",
+                "e0 ch",
+                "ir w",
+                "u v",
+                "v t",
+                "eng q",
+                "i A0"
+                ]
+            },
+            "_yu_yi_yu_chuo_yu_sheng_yu_pi": {
+                "cv": null,
+                "vc": [
+                "v y",
+                "I v",
+                "v ch",
+                "o v",
+                "v sh",
+                "eng v",
+                "v p"
+                ]
+            },
+            "_ci_e_a_e_yu_a_ei_e": {
+                "cv": null,
+                "vc": [
+                "i0 e",
+                "e a",
+                "a e",
+                "e v",
+                "v a",
+                "a ei",
+                ":i e"
+                ]
+            },
+            "_che_me_pei_ou_er_ken_er_a": {
+                "cv": [
+                null,
+                "me",
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+                ],
+                "vc": [
+                "e m",
+                "e p",
+                ":i @",
+                null,
+                "er k",
+                "en er",
+                "er a"
+                ]
+            },
+            "_yi_ke_qi_he_xi_re_yi_wan": {
+                "cv": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                "wan"
+                ],
+                "vc": [
+                "i k",
+                "e q",
+                "i h",
+                "e x",
+                "i r",
+                "e y",
+                "i w"
+                ]
+            },
+            "_si_lie_kei_qie_hei_xie_ruo_ou": {
+                "cv": null,
+                "vc": [
+                "i0 l",
+                "e0 k",
+                ":i q",
+                "e0 h",
+                ":i x",
+                "e0 r",
+                "o @"
+                ]
+            },
+            "_er_mi_er_fo_er_ou_e_fo": {
+                "cv": null,
+                "vc": [
+                "er m",
+                "i er",
+                "er f",
+                "o er",
+                "er @",
+                null,
+                "e f"
+                ]
+            },
+            "_en_qu_ku_qu_hu_xu_ru_ao": {
+                "cv": null,
+                "vc": [
+                "en q",
+                "v k",
+                "u q",
+                "v h",
+                "u x",
+                "v r",
+                "u A0"
+                ]
+            },
+            "_ci_yu_ou_po_qie_fen_xie_ei": {
+                "cv": null,
+                "vc": [
+                "i0 v",
+                "v @",
+                null,
+                "o q",
+                "e0 f",
+                "en x",
+                "e0 ei"
+                ]
+            },
+            "_chi_en_e_eng_a_eng_e_ang": {
+                "cv": null,
+                "vc": [
+                "ir @",
+                "en e",
+                "e @",
+                "eng a",
+                "a @",
+                "eng e",
+                "e A0"
+                ]
+            },
+            "_er_shi_er_reng_xie_er_peng_wu": {
+                "cv": null,
+                "vc": [
+                "er sh",
+                "ir er",
+                "er r",
+                "eng x",
+                "e0 er",
+                "er p",
+                "eng w"
+                ]
+            },
+            "_er_wu_er_nv_er_lia_er_e": {
+                "cv": [
+                null,
+                null,
+                null,
+                null,
+                "er",
+                "lia",
+                null,
+                null
+                ],
+                "vc": [
+                "er w",
+                "u er",
+                "er n",
+                "v er",
+                "er l",
+                "a er",
+                "er e"
+                ]
+            },
+            "_er_er_sen_ei_er_chi_ei_ao": {
+                "cv": null,
+                "vc": [
+                "er er",
+                "er s",
+                "en ei",
+                ":i er",
+                "er ch",
+                "ir ei",
+                ":i A0"
+                ]
+            },
+            "_er_ci_er_heng_er_xu_men_yu": {
+                "cv": null,
+                "vc": [
+                "er c",
+                "i0 er",
+                "er h",
+                "eng er",
+                "er x",
+                "v m",
+                "en v"
+                ]
+            },
+            "_chi_yu_e_er_yu_wu_yi_a": {
+                "cv": null,
+                "vc": [
+                "ir v",
+                "v e",
+                "e er",
+                "er v",
+                "v w",
+                "u y",
+                "i a"
+                ]
+            },
+            "_zhi_chi_shi_ri_ci_si_shi_e": {
+                "cv": [
+                "zhi",
+                "chi",
+                "shi",
+                "ri",
+                "ci",
+                "si",
+                null,
+                null
+                ],
+                "vc": [
+                "ir ch",
+                "ir sh",
+                "ir r",
+                "ir c",
+                "i0 s",
+                "i0 sh",
+                "ir e"
+                ]
+            },
+            "_si_nie_si_ri_yi_si_en_ao": {
+                "cv": null,
+                "vc": [
+                "i0 n",
+                "e0 s",
+                "i0 r",
+                "ir y",
+                "i s",
+                "i0 @",
+                "en A0"
+                ]
+            },
+            "_ci_pie_ci_mu_e_wu_a_dia": {
+                "cv": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                "dia"
+                ],
+                "vc": [
+                "i0 p",
+                "e0 c",
+                "i0 m",
+                "u e",
+                "e w",
+                "u a",
+                null
+                ]
+            },
+            "_ci_tie_wu_ei_ci_a_yu_ao": {
+                "cv": null,
+                "vc": [
+                "i0 t",
+                "e0 w",
+                "u ei",
+                null,
+                "i0 a",
+                "a v",
+                "v A0"
+                ]
+            },
+            "_shi_fo_yi_ei_chi_tie_yu_ei": {
+                "cv": null,
+                "vc": [
+                "ir f",
+                "o y",
+                "i ei",
+                null,
+                "ir t",
+                "e0 v",
+                "v ei"
+                ]
+            },
+            "_shi_nie_shi_li_shi_xu_si_wu": {
+                "cv": null,
+                "vc": [
+                "ir n",
+                "e0 sh",
+                "ir l",
+                null,
+                "ir x",
+                "v s",
+                "i0 w"
+                ]
+            },
+            "_er_qu_ci_fo_xi_er_tie_ao": {
+                "cv": null,
+                "vc": [
+                "er q",
+                "v c",
+                "i0 f",
+                "o x",
+                null,
+                "er t",
+                "e0 A0"
+                ]
+            },
+            "_chi_qi_chi_ao_chi_a_er_yi": {
+                "cv": null,
+                "vc": [
+                "ir q",
+                null,
+                "ir A0",
+                null,
+                "ir a",
+                null,
+                "er y"
+                ]
+            },
+            "_er_ei_er_ao_ci_ei_ci_ao": {
+                "cv": null,
+                "vc": [
+                "er ei",
+                null,
+                "er A0",
+                null,
+                "i0 ei",
+                null,
+                "i0 A0"
+                ]
+            }
+        },
     "CVVC_Lite": {
             "_ba_pa_ma_fa_da_ta_na_la":                 {
                     "cv": [

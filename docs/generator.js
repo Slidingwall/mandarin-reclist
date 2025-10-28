@@ -20,7 +20,7 @@ async function generateOTO() {
                     })
                 )
             );
-        const result = type === "Lite" ? process(oto.CVVC_Lite) : type === "Full" ? process(oto.CVVC_Full) : 
+        const result = type === "Nano" ? process(oto.CVVC_Nano) : type === "Lite" ? process(oto.CVVC_Lite) : type === "Full" ? process(oto.CVVC_Full) : 
             type === "VCV"  ? Object.entries(oto.VCV).flatMap(([name, wavs]) =>
                 (Array.isArray(wavs) ? wavs : []).filter(Boolean).map((line, i) =>
                     `${name}.wav=${line}#,${float(blank + dur * (i + 0.4))},${float(dur * 0.8)},-${float(dur * 1.2)},${float(dur * 0.6)},${float(dur * 0.2)}`
