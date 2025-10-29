@@ -33,6 +33,7 @@ For the VCV voice library, a syllable can be divided into two parts — CV (cons
 > </div>
 > 其中，`a`, `ai`, `an`合并为`a`；`ao`, `ang`合并为`A`；`ou`, `en`, `eng`合并为`@`；`o`并入`uo`。
 > Among them, `a`, `ai`, and `an` are merged into `a`; `ao` and `ang` are merged into `A`; `ou`, `en`, and `eng` are merged into `@`; and `o` is merged into `uo`.
+
 - 简化并与辅音结合后，Full版的CV总数为274。  
   After simplification and combination with consonants, the total number of CVs in the Full list is 274.
 - Lite、Nano版将`ian`，`uan`并入`ie`，`ue`，CV总数为259个。  
@@ -46,7 +47,7 @@ For the VCV voice library, a syllable can be divided into two parts — CV (cons
 - 简化后，辅音总数为17个(`c` `ch` `f` `h` `k` `l` `m` `n` `p` `q` `r` `s` `sh` `t` `w` `x` `y`)，零声母元音总数为7个(`a` `A` `e` `ei` `@` `er` `v`)，共计24个。  
   After simplification, the total number of consonants is 17 (`c` `ch` `f` `h` `k` `l` `m` `n` `p` `q` `r` `s` `sh` `t` `w` `x` `y`), and the total number of zero-initial vowels is 7 (`a` `A` `e` `ei` `@` `er` `v`), totaling 24.
 
-## VC部分，前一个音的结尾 The VC Part, Ending of the Previous Sound,
+## VC部分，前一个音的结尾 The VC Part, Ending of the Previous Sound
 
 - Full版：与CVVChinse的23个韵尾一致，不进行简化。VC总计为23*24=552条。  
   Full list: Aligns with the 23 codas of CVVChinse and no simplification is applied. The total number of VCs is 23 * 24 = 552.
@@ -61,6 +62,7 @@ For the VCV voice library, a syllable can be divided into two parts — CV (cons
 > > - *ang*/*eng*/*ing*/*ong* -> **ng**;
 > > - a, o, e, e0, er, i, i0, ir, u, ü
 > </div>
+
 - Lite版：合并双元音及鼻音的韵尾为 `:i` ，`:u`， `n`，`ng`，韵尾总数减少至14个。VC减少至14*24=336条。  
   Lite list: Merge the Endings of diphthongs and nasals into `:i`, `:u`, `n`, and `ng`; the total number of Endings is reduced to 14. The number of VCs is reduced to 14 * 24 = 336.
 - Nano版：将`:u`与`u`合并，总数减少至13个。VC减少至13*24=312条。  
@@ -78,9 +80,9 @@ For the VCV voice library, a syllable can be divided into two parts — CV (cons
 | ∅, i-, u-, ü- | e | ∅, -i | ê, ei, ui, ie, üe |
 | i-, ü- | E | -n | ian, üan |
 | ∅, i-, u- | @ | -u, -n, -ng | ou, en, eng, iu, un, ueng |
-| ∅ | @` | ∅ | er |
+| ∅ | @\` | ∅ | er |
 | ∅ | i | ∅, -n, -ng | i, in, ing |
 | ∅ | i\ | ∅ | i (z c s) |
-| ∅ | i` | ∅ | i (zh ch sh r) |
+| ∅ | i\` | ∅ | i (zh ch sh r) |
 | ∅ | u | ∅ | u |
 | ∅ | y | ∅,-n | ü, ün |
