@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Oto模板生成器 Oto Generator
-nav_order: 5
+nav_order: 7
 --- 
 # Oto模板生成器 Oto Generator
 

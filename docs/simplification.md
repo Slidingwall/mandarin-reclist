@@ -10,18 +10,19 @@ In Mandarin, each syllable is composed of `Onset` and `Rhyme`. The `Onset` is di
 CVVC和VCV语音库的特性是，在元音延长部分的末尾，即韵腹韵尾的交界处进行一次拼接。  
 The characteristic of both CVVC and VCV voice libraries is that splicing occurs once at the end of the vowel extension part, i.e., at the junction of the syllable's Nucleus and Ending.  
 
-对于CVVC语音库而言，可以将音节分成CV(辅音-元音)、前一个音的结尾、后一个音的开头三部分，分别简化。  
-For the CVVC voice library, a syllable can be divided into three parts — CV (consonant-vowel), the ending of the previous sound, and the beginning of the next sound — each of which is simplified separately.  
+- 对于CVVC语音库而言，可以将音节分成**CV(辅音-元音)**、**前一个音的结尾**、**后一个音的开头**三部分，分别简化。  
+  For the CVVC voice library, a syllable can be divided into three parts — **CV (consonant-vowel)**, **the ending of the previous sound**, and **the beginning of the next sound** — each of which is simplified separately.  
 
-对于VCV语音库而言，可以将音节分成CV(辅音-元音)、前一个音的结尾两部分简化，简化原理与CVVC语音库相同。  
-For the VCV voice library, a syllable can be divided into two parts — CV (consonant-vowel) and the ending of the previous sound — for simplification, following the same simplification principle as the CVVC voice library.  
+- 对于VCV语音库而言，可以将音节分成**CV(辅音-元音)**、**前一个音的结尾**两部分简化，简化原理与CVVC语音库相同。  
+  For the VCV voice library, a syllable can be divided into two parts — **CV (consonant-vowel)** and **the ending of the previous sound** — for simplification, following the same simplification principle as the CVVC voice library.  
 
 ## CV部分 The CV Part
 
 - 由于CV部分实际不包含韵尾，去掉韵尾后发音相同的音节可合并，如`a`, `ai`, `an`合并为`a`，减少冗余。  
   Since the CV part does not actually contain Endings, syllables that have the same pronunciation after removing the Ending can be merged. For example, `a`, `ai`, and `an` are merged into `a`, which reduces redundancy.  
+
 {: .important-title }
-> 元音组合 / Vowel Combanations:
+> 元音组合 Vowel Combanations:
 > 
 > {: .opaque }
 > <div markdown="block">
@@ -51,6 +52,7 @@ For the VCV voice library, a syllable can be divided into two parts — CV (cons
 
 - Full版：与CVVChinse的23个韵尾一致，不进行简化。VC总计为23*24=552条。  
   Full list: Aligns with the 23 codas of CVVChinse and no simplification is applied. The total number of VCs is 23 * 24 = 552.
+
 {: .important-title }
 > 结尾组合 Ending Combanations:
 > 
@@ -70,6 +72,7 @@ For the VCV voice library, a syllable can be divided into two parts — CV (cons
 
 
 ## 元音表 Vowel Chart
+
 | 可能的韵头<br/>Possible Medials | 韵腹(X-SAMPA)<br/>Nuclei in X-SAMPA | 可能的韵尾<br/>Possible Endings | 可组合的韵母<br/> Possible Vowels |
 | :---: | :---: | :---: | :---: |
 | ∅, i-, u- | a | ∅, -i, -n | a, ai, an, ia, ua, uai, uan |

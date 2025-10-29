@@ -3,16 +3,18 @@
 适用于中文拼接语音库(UTAU, DeepVocal, VocalSharp)的极简录音表.  
 A minimal reclist for Mandarin stitching voickbank(UTAU, DeelVocal, Vocalsharp).
 
-## CVVC reclist
+## Reclist Comparison
 
 | 版本<br/>Version | 录音条数<br/>Recording Lines | 元音设定条数<br/>OTO lines | 每行音节<br/>Syllables in each line |
-| -------------------- | -------------------------------- | ------------------------------ | --------------------------------------- |
-| **Full** | 88 | 826 | 8 |
-| **Lite** | 63 | 595 | 8 |
-| **Extra^** | 23 | 110 | N/A |
+| :--------------------: | :--------------------------------: | :------------------------------: | :---------------------------------------: |
+| **CVVC_Full** | 88 | 826 | 8 |
+| **CVVC_Lite** | 62 | 595 | 8 |
+| **CVVC_Nano** | 60 | 571 | 8 |
+| **CVVC_Extra[^1]** | 23 | 110 | 4 |
+| **VCV** | 609 | 3899 | 8 |
 
-^：`Extra`主要录制开头或语尾音素。  
-^: `Extra` is mainly for beginning or ending notes.
+[^1]: `CVVC_Extra`主要录制开头或语尾音素。  
+      `CVVC_Extra` is mainly for beginning or ending notes. 
 
 ## oto.ini & presamp.ini
 

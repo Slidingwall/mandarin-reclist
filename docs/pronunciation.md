@@ -29,7 +29,7 @@ The first four pinyin sounds are exactly the same as their English counterparts.
 
 ## z/c,s
 
-前两个分别是英语中不送气和送气的`ts`,最后一个与英语中的`s`相同。
+前两个分别是英语中不送气和送气的`ts`,最后一个与英语中的`s`相同。  
 The first two are the `ts` for unaspirated and aspirated in English, respectively, and the last one is the same as the `s` in English.  
 
 ## j/q,x
