@@ -28,11 +28,11 @@ A minimal reclist for Mandarin stitching voickbank(UTAU, DeelVocal, Vocalsharp).
 
 ## 指南 Guide
 
-[**简化原理**](/mandarin-reclist/simplification)介绍了本录音表的设计思路，此外还有针对非母语者的普通话[**发音指南**](/mandarin-reclist/pronunciation)。如果您是汉语母语者，您可以直接使用汉字注释辅助您的录制。  
-[**Simplification Principle**](/mandarin-reclist/simplification) introduce the design ideas of this Reclist, there is also a Mandarin [**Pronunciation Guide**](/mandarin-reclist/pronunciation) for non-native speakers. If you are a native Chinese speaker, you can directly use HanziComments to assist your recording.   
+[**简化**](/mandarin-reclist/simplification)介绍了本录音表的设计思路，此外还有针对非母语者的普通话[**发音**](/mandarin-reclist/pronunciation)指南。如果您是汉语母语者，您可以直接使用汉字注释辅助您的录制。  
+[**Simplification**](/mandarin-reclist/simplification) introduce the design ideas of this Reclist, there is also a Mandarin [**Pronunciation**](/mandarin-reclist/pronunciation) guide for non-native speakers. If you are a native Chinese speaker, you can directly use HanziComments to assist your recording.   
 
-[**录制**](/mandarin-reclist/recording) 会讲述如何使用RecStar进行录制，在[**标注**](/mandarin-reclist/producing)中学习用vLabeler进行标注。  
-In [**Recording**](/mandarin-reclist/recording), you'll learn how to record with RecStar, and in [**Labeling**](/mandarin-reclist/producing) you'll learn how to label with vLabeler.
+推荐您使用RecStar[**录制**](/mandarin-reclist/recording)采样，并导入vLabeler[**标注**](/mandarin-reclist/producing)，链接内是相应的教程。  
+We recommend you use RecStar for In [**Recording**](/mandarin-reclist/recording) samples, then import them into vLabeler for [**Labeling**](/mandarin-reclist/producing). The corresponding tutorials are available in the links.  
 
 [**测试与使用**](/mandarin-reclist/using)将会介绍如何组装语音库，并让其在UTAU/OpenUTAU、Deepvocal或Vocalsharp发出声音。  
 [**Testing and Using**](/mandarin-reclist/using) will show you how to assemble a voice library and make it sound in UTAU/OpenUTAU, Deepvocal, or Vocalsharp.

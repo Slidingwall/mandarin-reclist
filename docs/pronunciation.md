@@ -2,7 +2,7 @@
 nav_order: 3
 ---
 
-# 发音指导 Pronunciation instruction
+# 发音 Pronunciation 
 
 对于非中文母语者而言，想掌握汉语拼音的一个难处在于每个字母可能对应多个不同的发音。  
 For non-native Chinese speakers, one of the difficulties in mastering Hanyu Pinyin is that each letter may correspond to multiple different sounds.  

@@ -2,7 +2,7 @@
 nav_order: 2
 ---
 
-# 简化原理 Simplification Principle
+# 简化 Simplification
 
 在中文里，每个音节均由 `首音`和 `韵`组成。`首音`分为 `声母`和 `韵头(介音)`，`韵`分为 `韵腹(核音)`和 `韵尾(尾音)`。[*参考来源*](http://jpk.pku.edu.cn/course/llyyx/script/142.pdf)  
 In Mandarin, each syllable is composed of `Onset` and `Rhyme`. The `Onset` is divided into `Initial` and `Medial`, while `Rhyme` is divided into `Nucleus` and `Ending`. [*Reference source*](http://jpk.pku.edu.cn/course/llyyx/script/142.pdf)  
@@ -32,7 +32,7 @@ The characteristic of both CVVC and VCV voice libraries is that splicing occurs 
 > > - ei, ui, ie, ue, ian, uan;
 > > - e, er, i, i0, ir, u, o/uo, ü
 > </div>
-> 其中，`a`, `ai`, `an`合并为`a`；`ao`, `ang`合并为`A`；`ou`, `en`, `eng`合并为`@`；`o`并入`uo`。
+> 其中，`a`, `ai`, `an`合并为`a`；`ao`, `ang`合并为`A`；`ou`, `en`, `eng`合并为`@`；`o`并入`uo`。  
 > Among them, `a`, `ai`, and `an` are merged into `a`; `ao` and `ang` are merged into `A`; `ou`, `en`, and `eng` are merged into `@`; and `o` is merged into `uo`.
 
 - 简化并与辅音结合后，Full版的CV总数为274。  
