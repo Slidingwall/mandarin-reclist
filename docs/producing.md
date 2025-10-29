@@ -6,7 +6,7 @@ nav_order: 5
 
 {: .highlight }
 >  此处以最新的制作软件[`vLabeler`](https://github.com/sdercolin/vlabeler)的Windows版本做示范。  
-  This is an example of the Windows version of the latest production software [`vLabeler`](https://github.com/sdercolin/vlabeler)  
+  This is an example of the Windows version of the latest production software [`vLabeler`](https://github.com/sdercolin/vlabeler).  
 > 
 > 您也可以使用您熟悉的传统标注软件，例如`setParam`。  
   You can also use traditional labeling software that you are familiar with, such as `setParam`.  
@@ -57,8 +57,10 @@ nav_order: 5
 > 当您完成一个音阶的标注后，可以将其作为下一个音阶标注的模板。  
   When you have finished labeling a pitch, you can use it as a template for labeling the next pitch.  
 >
->模板中CV/VC/Extra部分分开设定，设定完成后请合并回同一文件中。建议您保留合并前的文件，以备后续可能的修改。  
-  CV/VC/Extra parts are seperated in OTO templates, merge them while OTO labeling are done. It is recommended that you keep the pre-merge files for possible future modifications.  
+> 模板中CV/VC/Extra部分分开设定，设定完成后请合并回同一文件中。  
+  CV/VC/Extra parts are seperated in OTO templates, merge them while OTO labeling are done.  
+> 建议您保留合并前的文件，以备后续可能的修改。  
+  It is recommended that you keep the pre-merge files for possible future modifications.  
 
 首先，新建项目，在目录设置中，选择在RecStar中录制完成的文件夹。  
 First, create a new project, and in the directory settings, select the folder where you want to record in RecStar.  
