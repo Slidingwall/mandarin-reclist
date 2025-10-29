@@ -11,12 +11,12 @@ It's exciting to assemble a recorded voicebank and let it sound properly in the 
 
 这两个软件需要`presamp.ini` `character.txt`和`prefix.map`。  
 Both of these software require `presamp.ini` `character.txt` and `prefix.map`.  
-`presamp.ini`用于向软件提供元音辅音信息以便拼接。   
-`presamp.ini` is used to provide the software with vowel consonant information for splicing.  
-`character.txt`用于向软件提供声库名称和图像等信息。 
-`character.txt` is used to provide the software with information such as library names and images.  
-而`prefix.map`向软件提供不同的音高采用何种采样。  
-And `prefix.map` provides the software with which samples are used for different pitches.  
+- `presamp.ini`用于向软件提供元音辅音信息以便拼接。   
+  `presamp.ini` is used to provide the software with vowel consonant information for splicing.  
+- `character.txt`用于向软件提供声库名称和图像等信息。  
+  `character.txt` is used to provide the software with information such as library names and images.  
+- 而`prefix.map`向软件提供不同的音高采用何种采样。  
+  And `prefix.map` provides the software with which samples are used for different pitches.  
 您可以参考已有的其他声库设置后两者。  
 You can refer to the other sound banks you already have to set up the latter two.  
 
