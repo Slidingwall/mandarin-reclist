@@ -18,7 +18,7 @@ A minimal reclist for Mandarin stitching voickbank(UTAU, DeelVocal, Vocalsharp).
 | :--------------------: | :--------------------------------: | :------------------------------: | :---------------------------------------: |
 | **CVVC_Full** | 88 | 826 | 8 |
 | **CVVC_Lite** | 62 | 595 | 8 |
-| **CVVC_Nano** | 60 | 572 | 8 |
+| **CVVC_Nano** | 60 | 571 | 8 |
 | **CVVC_Extra[^1]** | 23 | 110 | 4 |
 | **VCV** | 609 | 3899 | 8 |
 
@@ -28,11 +28,11 @@ A minimal reclist for Mandarin stitching voickbank(UTAU, DeelVocal, Vocalsharp).
 
 ## 指南 Guide
 
-[**音标与发音**](/mandarin-reclist/recording)介绍了本录音表的设计思路，以及普通话的发音指南。如果您是汉语母语者，您可以直接使用汉字注释辅助您的录制。  
-[**Phonetics and Pronunciation**](/mandarin-reclist/recording) introduce the design ideas of this Reclist, as well as the pronunciation guide of Mandarin. If you are a native Chinese speaker, you can directly use HanziComments to assist your recording.   
+[**简化原理**](/mandarin-reclist/simplification)介绍了本录音表的设计思路，此外还有针对非母语者的普通话[**发音指南**](/mandarin-reclist/pronunciation)。如果您是汉语母语者，您可以直接使用汉字注释辅助您的录制。  
+[**Phonetics and Pronunciation**](/mandarin-reclist/simplification) introduce the design ideas of this Reclist, there is also a Mandarin [**Pronunciation Guide**](/mandarin-reclist/pronunciation) for non-native speakers. If you are a native Chinese speaker, you can directly use HanziComments to assist your recording.   
 
-[**录制与标注**](/mandarin-reclist/producing) 会讲述如何使用RecStar进行录制，用vLabeler进行标注，以及将其转换为Deepvocal/Vocalsharp所支持的语音库。  
-In [**Recording and Labeling**](/mandarin-reclist/producing), you'll learn how to record with RecStar, annotate with vLabeler, and convert it to a voice library supported by Deepvocal/Vocalsharp.
+[**录制**](/mandarin-reclist/recording) 会讲述如何使用RecStar进行录制，在[**标注**](/mandarin-reclist/producing)中学习用vLabeler进行标注。
+In [**Recording**](/mandarin-reclist/recording), you'll learn how to record with RecStar, and in [**Labeling**](/mandarin-reclist/producing)you'll learn how to label with vLabeler.
 
 [**测试与使用**](/mandarin-reclist/using)将会介绍如何组装语音库，并让其在UTAU/OpenUTAU、Deepvocal或Vocalsharp发出声音。  
 [**Testing and Using**](/mandarin-reclist/using) will show you how to assemble a voice library and make it sound in UTAU/OpenUTAU, Deepvocal, or Vocalsharp.
