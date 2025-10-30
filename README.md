@@ -11,10 +11,12 @@ A minimal reclist for Mandarin stitching voickbank(UTAU, DeelVocal, Vocalsharp).
 | **CVVC_Lite** | 62 | 595 | 8 |
 | **CVVC_Nano** | 60 | 571 | 8 |
 | **CVVC_Extra[^1]** | 23 | 110 | 4 |
-| **VCV** | 609 | 3899 | 8 |
+| **VCV[^2]** | 609 | 3899 | 8 |
 
 [^1]: `CVVC_Extra`主要录制开头或语尾音素。  
-      `CVVC_Extra` is mainly for beginning or ending notes. 
+      `CVVC_Extra` is mainly for beginning or ending notes.  
+[^2]: `VCV`与`CVVC_Lite`的简化规则相同。
+      The simplification rules for `VCV` and `CVVC_Lite` are same.
 
 ## oto.ini & presamp.ini
 
