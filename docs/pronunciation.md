@@ -55,29 +55,53 @@ When the vowels `i` `u` or the vowels with the medial `i-` `u-` are used as a si
 这六个是汉语中的单韵母。  
 These six are the single vowels in Chinese.  
 
-`a` `o` `i`与日语中的`a` `o` `i`相同。不过，日常发音中的`o`更偏向于`uo`，即使是与声母组合时（如`bo` `po` `mo` `fo`）也如此。此外，`i`在`zi` `ci` `si`中的发音更靠后（`ɨ`），在`zhi` `chi` `shi` `ri`中的发音具有卷舌（`ɨ˞`）。这两者的声音听起来可能会比较像日语的`u`。  
-`a` `o` `i` is the same as `a` `o` `i` in Japanese. However, the `o` in everyday pronunciation is more likely to be `uo`, even when combined with initials (e.g. `bo`, `po`, `mo`, `fo`). In addition, the `i` is pronounced more back in `zi`, `ci`, `si`(`ɨ`), and the pronunciation in `zhi` `chi` `shi` `ri` has a curly tongue (`ɨ˞`). The sound of both may sound more like the Japanese `u`.   
-
-`e`在单独出现时的发音为`ɤ`，这个发音有点像`cup`中的`u`。`u`的发音与英语`who`中的原因相同。`ü`的发音同法语的`u`或者德语的`ü`，这个拼音在同`j` `q` `x`组合时会写作`u`，单独作为一个音节时会写作`yu`，只有在同`n` `l`组合时才会写为`ü`。这种情况在日常打字及本录音表中会记作`v`。  
-The `e` is pronounced `ɤ` when it appears alone, which is a bit like the `u` in `cup`. The pronunciation of `u` is the same as in the English `who`. The pronunciation of `ü` is the same as the French `u` or the German `ü`, and this pinyin is written as `u` when combined with `j`, `q` and `x`, and `yu` when it is used as a syllable alone, which is only written as `ü` when combined with `n` and `l`. This is noted as `v` in everyday typing and in this recording sheet.  
+- `a` `o` `i`与日语中的`a` `o` `i`相同。  
+  `a` `o` `i` is the same as `a` `o` `i` in Japanese.  
+  - 不过，日常发音中的`o`更偏向于`uo`，即使是与声母组合时（如`bo` `po` `mo` `fo`）也如此。  
+    However, the `o` in everyday pronunciation is more likely to be `uo`, even when combined with initials (e.g. `bo`, `po`, `mo`, `fo`).  
+  - 此外，`i`在`zi` `ci` `si`中的发音更靠后（`ɨ`），在`zhi` `chi` `shi` `ri`中的发音具有卷舌（`ɨ˞`）。这两者的声音听起来可能会比较像日语的`u`。  
+    In addition, the `i` is pronounced more back in `zi`, `ci`, `si`(`ɨ`), and the pronunciation in `zhi` `chi` `shi` `ri` has a curly tongue (`ɨ˞`). The sound of both may sound more like the Japanese `u`.   
+- `e`在单独出现时的发音为`ɤ`，这个发音有点像`cup`中的`u`。  
+  The `e` is pronounced `ɤ` when it appears alone, which is a bit like the `u` in `cup`.  
+- `u`的发音与英语`who`中的元音相同。  
+  The pronunciation of `u` is the same as in the English `who`.  
+- `ü`的发音同法语的`u`或者德语的`ü`，这个拼音在同`j` `q` `x`组合时会写作`u`，单独作为一个音节时会写作`yu`，只有在同`n` `l`组合时才会写为`ü`。这种情况在日常打字及本录音表中会记作`v`。  
+  The pronunciation of `ü` is the same as the French `u` or the German `ü`, and this pinyin is written as `u` when combined with `j`, `q` and `x`, and `yu` when it is used as a syllable alone, which is only written as `ü` when combined with `n` and `l`. This is noted as `v` in everyday typing and in this recording sheet.  
 
 ## ai,ei,ui,ao,ou,iu
 
-这些双元音在英语中都可以找得到。`ai`的发音就像字母`I`，`ei`的发音就像字母`A`，`ao`的发音就像`now`中的`ow`，不过`a`的发音更靠后（`ɑ`），`ou`的发音就像字母`O`。`ui`和`iu`实质上是`uei`和`iou`的缩写。`uei`的发音类似`way`，而`iou`的发音则更像`yogurt`的第一个音节（`jəu-gət`）。请注意，它与字母`U`或者英语`you`的发音（`ju:`）不同。  
-These diphthongs can be found in English. `ai` is pronounced like the letter `I`, `ei` is pronounced like the letter `A`, `ao` is pronounced like `ow` in `now`, but the `a` is pronounced more back (`ɑ`), and `ou` is pronounced like the letter `O`. `ui` and `iu` are essentially abbreviations of `uei` and `iou`. `uei` is pronounced like `way`, while `iou` is pronounced more like the first syllable of `yogurt` (`jəu-gət`). Note that it is not the same as the letter `U` or the English pronunciation of `you` (`ju:`).
+这些双元音在英语中都可以找得到。  
+These diphthongs can be found in English.  
+
+- `ai`的发音就像字母`I`，`ei`的发音就像字母`A`，`ao`的发音就像`now`中的`ow`，不过`a`的发音更靠后（`ɑ`），`ou`的发音就像字母`O`。  
+  `ai` is pronounced like the letter `I`, `ei` is pronounced like the letter `A`, `ao` is pronounced like `ow` in `now`, but the `a` is pronounced more back (`ɑ`), and `ou` is pronounced like the letter `O`.  
+- `ui`和`iu`实质上是`uei`和`iou`的缩写。`uei`的发音类似`way`，而`iou`的发音则更像`yogurt`的第一个音节（`jəu-gət`）。请注意，它与字母`U`或者英语`you`的发音（`ju:`）不同。  
+  `ui` and `iu` are essentially abbreviations of `uei` and `iou`. `uei` is pronounced like `way`, while `iou` is pronounced more like the first syllable of `yogurt` (`jəu-gət`). Note that it is not the same as the letter `U` or the English pronunciation of `you` (`ju:`).
 
 ## ie,üe,er
 
-`e`在前两个拼音中的发音类似`bed`中的`e`。`ie`的发音与`yes`中的`ye`相同，而`üe`的发音就是由`ü`滑向`e`。`er`是儿化音，发音类似`better`里的`er`。此外，由于这里不会发生`u` `ü`混淆，因此录音表中将`üe`写作`ue`，即使在`lue` `nue`中也是如此。  
-The pronunciation of `e` in the first two pinyin is similar to the `e` in `bed`. The `ie` is pronounced the same as the `ye` in `yes`, and the `üe` is pronounced from `ü` to `e`. `er` is a rhotic sound, which is pronounced like the `er` in `better`. Also, since the `u` `ü` confusion does not occur here, the `üe` is written as `ue` in the recording sheet, even in `lue` `nue`.
+- `e`在前两个拼音中的发音类似`bed`中的`e`。`ie`的发音与`yes`中的`ye`相同，而`üe`的发音就是由`ü`滑向`e`。  
+  The pronunciation of `e` in the first two pinyin is similar to the `e` in `bed`. The `ie` is pronounced the same as the `ye` in `yes`, and the `üe` is pronounced from `ü` to `e`. 
+    - 此外，由于这里不会发生`u` `ü`混淆，因此录音表中将`üe`写作`ue`，即使在`lue` `nue`中也是如此。  
+    Also, since the `u` `ü` confusion does not occur here, the `üe` is written as `ue` in the recording sheet, even in `lue` `nue`.
+- `er`是儿化音，发音类似`better`里的`er`。  
+  `er` is a rhotic sound, which is pronounced like the `er` in `better`.  
+
 
 ## an,en,in,un,ün
 
-这几个是前鼻音，它们分别是对应的韵母同`n`结合而成的。需要注意的是，`en`中的`e`在这里发`ə`的音，类似`London`的第二个音节。而`un`是`uen`的缩写，它的发音更像是轻读时的`when`。此外，由于`l` `n`不会在常用音节中与`ün`结合，录音表中的`ün`均被写为`un`。  
-These are prenasal sounds, and they are formed by combining the corresponding finals with `n`, respectively. It should be noted that the `e` in `en` is pronounced `ə` here, similar to the second syllable of `London`. And `un` is an abbreviation of `uen`, and its pronunciation is more like `when` when pronounced lightly. In addition, since `l` `n` is not combined with `ün` in common syllables, `ün` in the Reclist is written as `un`.   
-
-需要注意的是，当`an`与`i-` `ü-`组合时，`a`的发音将变为`ɛ`，更像`dress`中的`e`。不过，同`u-`组合的时候不会发生这种音变。此外，由于`l` `n`不会在常用音节中与`üan`结合，录音表中的`üan`均被写为`uan`。  
-It should be noted that when `an` is combined with `i-` and `ü-`, the pronunciation of `a` will change to `ɛ`, more like the `e` in `dress`. However, this change does not occur when combined with `u-`. In addition, since `l` `n` is not combined with `üan` in common syllables, `üan` in the Reclist is written as `uan`.  
+这几个是前鼻音，它们分别是对应的韵母同`n`结合而成的。  
+These are prenasal sounds, and they are formed by combining the corresponding finals with `n`, respectively.  
+- `en`中的`e`在这里发`ə`的音，类似`London`的第二个音节。  
+  The `e` in `en` is pronounced `ə` here, similar to the second syllable of `London`.  
+- 而`un`是`uen`的缩写，它的发音更像是轻读时的`when`。  
+  And `un` is an abbreviation of `uen`, and its pronunciation is more like `when` when pronounced lightly.  
+- 此外，由于`l` `n`不会在常用音节中与`ün`结合，录音表中的`ün`均被写为`un`。  
+  In addition, since `l` `n` is not combined with `ün` in common syllables, `ün` in the Reclist is written as `un`.   
+- 需要注意的是，当`an`与`i-` `ü-`组合时，`a`的发音将变为`ɛ`，更像`dress`中的`e`。  
+  It should be noted that when `an` is combined with `i-` and `ü-`, the pronunciation of `a` will change to `ɛ`, more like the `e` in `dress`. 
+- 不过，同`u-`组合的时候不会发生这种音变。此外，由于`l` `n`不会在常用音节中与`üan`结合，录音表中的`üan`均被写为`uan`。  
+  However, this change does not occur when combined with `u-`. In addition, since `l` `n` is not combined with `üan` in common syllables, `üan` in the Reclist is written as `uan`.  
 
 ## ang,eng,ing,ong
 
