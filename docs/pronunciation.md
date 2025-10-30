@@ -8,7 +8,7 @@ nav_order: 3
 For non-native Chinese speakers, one of the difficulties in mastering Hanyu Pinyin is that each letter may correspond to multiple different sounds.  
 不过好消息是，录制用于歌唱的语音库不需要考虑音调的问题。  
 The good news, though, is that recording a voice library for singing doesn't need to take into account the pitch.  
-你可以通过现有的语音库来指导发声，或者搜索相关的教学视频。  
+您可以通过现有的语音库来指导发声，或者搜索相关的教学视频。  
 You can use your existing voice library to guide vocalization, or search for relevant instructional videos.   
 
 您可以参考[发音记号表](/vocaloid-dictionaries/symbol-charts)以便从其它语言中获得与普通话相近的发音。  
