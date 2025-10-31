@@ -3,7 +3,7 @@ _ga_ka_ha_a_jia_qia_xia_wang
 _zha_cha_sha_ya_za_ca_sa_ran
 _duan_tuan_nuan_luan_zhuan_chuan_shuan_ruan
 _guan_kuan_shi_huan_zuan_cuan_chi_suan
-_bo_po_mo_fo_wo_zhei_shei_yu
+_bo_po_mo_fo_wan_zhei_shei_yu
 _duo_tuo_nuo_luo_guo_kuo_huo_e
 _zhuo_chuo_shuo_ruo_zuo_cuo_suo_a
 _de_te_ne_le_ge_ke_he_e
@@ -38,7 +38,7 @@ _chi_pie_chi_wu_yu_teng_qi_ao
 _yu_yi_yu_chuo_yu_sheng_yu_pi
 _ci_e_a_e_yu_a_ei_e
 _che_me_pei_ou_er_ken_er_a
-_yi_ke_qi_he_xi_re_yi_wan
+_yi_ke_qi_he_xi_re_yi_wo
 _si_lie_kei_qie_hei_xie_ruo_ou
 _er_mi_er_fo_er_ou_e_fo
 _en_qu_ku_qu_hu_xu_ru_ao
