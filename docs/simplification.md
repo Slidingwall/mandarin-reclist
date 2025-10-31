@@ -23,7 +23,7 @@ The characteristic of both CVVC and VCV voice libraries is that splicing occurs 
 {: .important-title }
 > 元音组合 Vowel Combanations:
 >
-> <table style="text-align: center"><col><tr><td>元音<br>Vowels</td><td>简化后<br>Simplified</td><td>元音<br>Vowels</td><td>简化后<br>Simplified</td></tr><tr><td>a</td><td rowspan=3>a</td><td>ua</td><td rowspan=3>ua</td></tr><tr><td>ai</td><td>uai</td></tr><tr><td>an</td><td>uan</td></tr><tr><td>ao</td><td rowspan=2>A</td><td>iao</td><td rowspan=2>iA</td></tr><tr><td>ang</td><td>iang</td></tr><tr><td>ou</td><td rowspan=3>@</td><td>i</td><td rowspan=3>i</td></tr><tr><td>en</td><td>in</td></tr><tr><td>eng</td><td>ing</td></tr><tr><td>un(uen)</td><td rowspan=2>u@</td><td>uo</td><td rowspan=2>uo</td></tr><tr><td>ueng</td><td>o</td></tr><tr><td>ie</td><td rowspan=2>ie*</td><td>ue(üe)</td><td rowspan=2>ue*</td></tr><tr><td>ian</td><td>uan(üan)</td></tr><tr><td>ü</td><td rowspan=2>ü</td><td colspan=2 rowspan=2>e,i0,ir,u,ei,ui,iu,er,<br>ia,uang,ong,iong</td></tr><tr><td>ün</td></tr><tr><td colspan=4 height=19></td></tr></table>
+> <table style="text-align: center"><col><tr><td>元音<br>Vowels</td><td>简化后<br>Simplified</td><td>元音<br>Vowels</td><td>简化后<br>Simplified</td></tr><tr><td>a</td><td rowspan=3>a</td><td>ua</td><td rowspan=3>ua</td></tr><tr><td>ai</td><td>uai</td></tr><tr><td>an</td><td>uan</td></tr><tr><td>ao</td><td rowspan=2>A</td><td>iao</td><td rowspan=2>iA</td></tr><tr><td>ang</td><td>iang</td></tr><tr><td>ou</td><td rowspan=3>@</td><td>i</td><td rowspan=3>i</td></tr><tr><td>en</td><td>in</td></tr><tr><td>eng</td><td>ing</td></tr><tr><td>un(uen)</td><td rowspan=2>u@</td><td>uo</td><td rowspan=2>uo</td></tr><tr><td>ueng</td><td>o</td></tr><tr><td>ie</td><td rowspan=2>ie*</td><td>ue(üe)</td><td rowspan=2>ue*</td></tr><tr><td>ian</td><td>uan(üan)</td></tr><tr><td>ü</td><td rowspan=2>ü</td><td colspan=2 rowspan=2>e,i0,ir,u,ei,ui,iu,er,<br>ia,uang,ong,iong</td></tr><tr><td>ün</td></tr></table>
 
 - 简化并与辅音结合后，Full版的CV总数为274。  
   After simplification and combination with consonants, the total number of CVs in the Full list is 274.
@@ -37,9 +37,9 @@ The characteristic of both CVVC and VCV voice libraries is that splicing occurs 
 > 
 > <table style="text-align: center"><col><col><tr><td>结尾<br>Endings</td><td>简化后<br>Simplified</td><td>结尾<br>Endings</td><td>简化后<br>Simplified</td></tr><tr><td>ai,uai</td><td rowspan=2>:i</td><td>ao,iao</td><td rowspan=2>:u</td></tr><tr><td>ei,ui(uei)</td><td>ou,iu(iou)</td></tr><tr><td>an,uan</td><td rowspan=5>n</td><td>ang,iang,uang</td><td rowspan=4>ng</td></tr><tr><td>ian,uan(üan)</td><td>eng,ueng</td></tr><tr><td>en,un(uen)</td><td>ing</td></tr><tr><td>in</td><td>ong</td></tr><tr><td>ün</td><td>ie,ue(üe)</td><td>e0</td></tr><tr><td>a,ia,ua</td><td>a</td><td>o,uo</td><td>o</td></tr><tr><td colspan=4>e,i,i0,ir,u,ü,er</td></tr></table>
 
-- Full版：与CVVChinse的23个韵尾一致，不进行简化。
+- Full版：与CVVChinse的23个韵尾一致，不进行简化。  
   Full list: Aligns with the 23 codas of CVVChinse and no simplification is applied. 
-- Lite版：合并双元音及鼻音的韵尾为 `:i` ，`:u`， `n`，`ng`，韵尾总数减少至14个。
+- Lite版：合并双元音及鼻音的韵尾为 `:i` ，`:u`， `n`，`ng`，韵尾总数减少至14个。  
   Lite list: Merge the Endings of diphthongs and nasals into `:i`, `:u`, `n`, and `ng`; the total number of Endings is reduced to 14.  
 - Nano版：将`:u`与`u`合并，总数减少至13个。  
   Nano list: Merge `:u` with `u`; the total number of codas is reduced to 13.  
