@@ -50,6 +50,9 @@ The second pair is more like the `ʃ` and `ʒ` in English, the `sh` is more like
 当韵母`i` `u`或者韵头为`i-` `u-`的韵母单独作为一个音节时，它们会被写作`y`和`w`。它们和英语里`y` `w`的发音几乎一样。  
 When the vowels `i` `u` or the vowels with the medial `i-` `u-` are used as a single syllable, they are written as `y` and `w`. They are almost identical to the `y` and `w` pronunciations in English.  
 
+特别地，韵母`ü`或者以`ü-`作为韵头韵母单独作为一个音节时，它们会被写作`yu`。但为了在原音设定时做好区分，它们在OTO文件中会被写作`v`。请把它看成是和`y` `w`一样的半元音。  
+In particular, when the vowel `ü` or the vowels with the medial `ü-` are used as a single syllable, they are written as `yu`. However, to ensure clear distinction during labeling, they are marked as `v` in OTO file. Please regard it as a semivowel, just like `y` and `w`.
+
 ## a,o,e,i,u,ü
 
 这六个是汉语中的单韵母。  
