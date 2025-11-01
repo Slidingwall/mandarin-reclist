@@ -23,7 +23,7 @@ The characteristic of both CVVC and VCV voice libraries is that splicing occurs 
 {: .important-title }
 > 元音组合 Vowel Combanations:
 >
-> <table style="text-align: center"><col><tr><td><b>元音<br>Vowels</b></td><td><b>简化后<br>Simplified</b></td><td><b>元音<br>Vowels</b></td><td><b>简化后<br>Simplified</b></td></tr><tr><td>a,ai,an</td><td>a</td><td>ua,uai,uan</td><td>ua</td></tr><tr><tr><td>ao,ang</td><td>A</td><td>iao,iang</td><td>iA</td></tr><tr><td>ou,en,eng</td><td>@</td><td>i,in,ing</td><td>i</td><tr><td>uo,o</td><td>uo</td><td>ü,ün</td><td>ü</td></tr><tr><td>ie,ian</td><td>ie*</td><td>ue(üe),uan(üan)</td><td>ue*</td></tr><tr><td colspan=4>e,i0,ir,u,ei,ui,iu,er,ia,un,uang,ong,iong</td></tr></table>
+> <table style="text-align: center"><col><tr><td><b>元音<br>Vowels</b></td><td><b>简化后<br>Simplified</b></td><td><b>元音<br>Vowels</b></td><td><b>简化后<br>Simplified</b></td></tr><tr><td>a,ai,an</td><td>a</td><td>ua,uai,uan</td><td>ua</td></tr><tr><td>ao,ang</td><td>A</td><td>iao,iang</td><td>iA</td></tr><tr><td>ou,en,eng</td><td>@</td><td>i,in,ing</td><td>i</td><tr><td>uo,o</td><td>uo</td><td>ü,ün</td><td>ü</td></tr><tr><td>ie,ian</td><td>ie*</td><td>ue(üe),uan(üan)</td><td>ue*</td></tr><tr><td colspan=4>e,i0,ir,u,ei,ui,iu,er,ia,un,uang,ong,iong</td></tr></table>
 
 - 简化并与辅音结合后，Full版的CV总数为274。  
   After simplification and combination with consonants, the total number of CVs in the Full list is 274.
