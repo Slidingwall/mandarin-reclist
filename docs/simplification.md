@@ -35,7 +35,7 @@ The characteristic of both CVVC and VCV voice libraries is that splicing occurs 
 {: .important-title }
 > 结尾组合 Ending Combanations:
 > 
-> <table style="text-align: center"><col><col><tr><td>结尾<br>Endings</td><td>简化后<br>Simplified</td><td>结尾<br>Endings</td><td>简化后<br>Simplified</td></tr><tr><td>ai,uai</td><td rowspan=2>:i</td><td>ao,iao</td><td rowspan=2>:u</td></tr><tr><td>ei,ui(uei)</td><td>ou,iu(iou)</td></tr><tr><td>an,uan</td><td rowspan=5>n</td><td>ang,iang,uang</td><td rowspan=4>ng</td></tr><tr><td>ian,uan(üan)</td><td>eng,ueng</td></tr><tr><td>en,un(uen)</td><td>ing</td></tr><tr><td>in</td><td>ong</td></tr><tr><td>ün</td><td>ie,ue(üe)</td><td>e0</td></tr><tr><td>a,ia,ua</td><td>a</td><td>o,uo</td><td>o</td></tr><tr><td colspan=4>e,i,i0,ir,u,ü,er</td></tr></table>
+> <table style="text-align: center"><col><tr><td><b>结尾<br>Endings</b></td><td><b>简化后<br>Simplified</b></td><td><b>结尾<br>Endings</b></td><td><b>简化后<br>Simplified</b></td></tr><tr><td>ai,uai</td><td rowspan=2>:i</td><td>ao,iao</td><td rowspan=2>:u</td></tr><tr><td>ei,ui(uei)</td><td>ou,iu(iou)</td></tr><tr><td>an,uan</td><td rowspan=5>n</td><td>ang,iang,uang</td><td rowspan=4>ng</td></tr><tr><td>ian,uan(üan)</td><td>eng,ueng</td></tr><tr><td>en,un(uen)</td><td>ing</td></tr><tr><td>in</td><td>ong</td></tr><tr><td>ün</td><td>ie,ue(üe)</td><td>e0</td></tr><tr><td>a,ia,ua</td><td>a</td><td>o,uo</td><td>o</td></tr><tr><td colspan=4>e,i,i0,ir,u,ü,er</td></tr></table>
 
 - Full版：与CVVChinse的23个韵尾一致，不进行简化。  
   Full list: Aligns with the 23 codas of CVVChinse and no simplification is applied. 
