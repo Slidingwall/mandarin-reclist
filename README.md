@@ -20,8 +20,8 @@ A minimal reclist for Mandarin stitching voickbank(UTAU, DeelVocal, Vocalsharp).
 [^2]: `VCV`与`CVVC_Lite`的简化规则相同。  
       The simplification rules for `VCV` and `CVVC_Lite` are same.  
 
-[^3]: `VCV_Nano`与`CVVC_Nano`的简化规则相同。此外，对出现频率较低的69个CV组合，以CVVC形式收录。  
-      The simplification rules for `VCV_Nano` and `CVVC_Nano` are same. In addition, the 69 CV combinations with relatively low occurrence frequencies are included in the CVVC format.  
+[^3]: `VCV_Nano`与`CVVC_Nano`的简化规则相同。此外，对于69个低频CV组合，以CVVC形式收录。  
+      The simplification rules for `VCV_Nano` and `CVVC_Nano` are same. Additionally, the 69 low-frequency CV combinations are included in the CVVC format.  
 
 ## oto.ini & presamp.ini
 

@@ -23,12 +23,14 @@ The characteristic of both CVVC and VCV voice libraries is that splicing occurs 
 {: .important-title }
 > 元音组合 Vowel Combanations:
 >
-> <table style="text-align: center"><tr><td><b>元音<br>Vowels</b></td><td><b>简化后<br>Simplified</b></td><td><b>元音<br>Vowels</b></td><td><b>简化后<br>Simplified</b></td></tr><tr><td>a,ai,an</td><td>a</td><td>ua,uai,uan</td><td>ua</td></tr><tr><td>ao,ang</td><td>A</td><td>iao,iang</td><td>iA</td></tr><tr><td>ou,en,eng</td><td>@</td><td>i,in,ing</td><td>i</td><tr><td>uo,o</td><td>uo</td><td>ü,ün</td><td>ü</td></tr><tr><td>ie,ian</td><td>ie*</td><td>ue(üe),uan(üan)</td><td>ue*</td></tr><tr><td colspan=4>e,i0,ir,u,ei,ui,iu,er,ia,un,uang,ong,iong</td></tr></table>
+> <table style="text-align: center"><tr><td><b>元音<br/>Vowels</b></td><td><b>简化后<br/>Simplified</b></td><td><b>元音<br/>Vowels</b></td><td><b>简化后<br/>Simplified</b></td></tr><tr><td>a,ai,an</td><td>a</td><td>ua,uai,uan</td><td>ua</td></tr><tr><td>ao,ang</td><td>A</td><td>iao,iang</td><td>iA</td></tr><tr><td>ou,en,eng</td><td>@</td><td>i,in,ing</td><td>i</td></tr><tr><td>uo,o</td><td>uo</td><td>ü,ün</td><td>ü</td></tr><tr><td>ie,ian</td><td>ie*</td><td>ue(üe),uan(üan)</td><td>ue*</td></tr><tr><td colspan="4">e,i0,ir,u,ei,ui,iu,er,ia,un,uang,ong,iong</td></tr></table>
 
-- 简化并与辅音结合后，Full版的CV总数为274。  
+- 简化并与辅音结合后，Full表的CV总数为274。  
   After simplification and combination with consonants, the total number of CVs in the Full list is 274.
-- *: Lite、Nano版将`ian`，`uan`并入`ie`，`ue`，CV总数为259个。  
-  *: For the Lite and Nano lists, `ian` and `uan` are merged into `ie` and `ue` respectively, resulting in a total of 259 CVs.
+- *: Lite、Nano表将`ian`，`uan`并入`ie`，`ue`，CV总数为259个。  
+  *: For the Lite and Nano lists, `ian` and `uan` are merged into `ie` and `ue` respectively, resulting in a total of 259 CVs.  
+- VCV表与Lite、Nano所采用的CV总数一致，VCV_Nano表在此基础上，将69个低频CV以CVVC形式收录，其余190个CV以VCV形式收录。  
+  The VCV list shares the same total number of CVs as the Lite and Nano versions. Building on this, the VCV_Nano list includes 69 low-frequency CVs in the CVVC format, while the remaining 190 CVs are included in the VCV format.  
 
 ## VC部分，前一个音的结尾(V) The VC Part, Ending of the Previous Sound(V)
 
@@ -37,12 +39,12 @@ The characteristic of both CVVC and VCV voice libraries is that splicing occurs 
 > 
 > <table style="text-align: center"><tr><td><b>结尾<br>Endings</b></td><td><b>简化后<br>Simplified</b></td><td><b>结尾<br>Endings</b></td><td><b>简化后<br>Simplified</b></td></tr><tr><td>ai,uai</td><td rowspan=2>:i</td><td>ao,iao</td><td rowspan=2>:u</td></tr><tr><td>ei,ui(uei)</td><td>ou,iu(iou)</td></tr><tr><td>an,uan</td><td rowspan=5>n</td><td>ang,iang,uang</td><td rowspan=4>ng</td></tr><tr><td>ian,uan(üan)</td><td>eng,ueng</td></tr><tr><td>en,un(uen)</td><td>ing</td></tr><tr><td>in</td><td>ong</td></tr><tr><td>ün</td><td>ie,ue(üe)</td><td>e0</td></tr><tr><td>a,ia,ua</td><td>a</td><td>o,uo</td><td>o</td></tr><tr><td colspan=4>e,i,i0,ir,u,ü,er</td></tr></table>
 
-- Full版：与CVVChinse的23个韵尾一致，不进行简化。  
+- Full表：与CVVChinse的23个韵尾一致，不进行简化。  
   Full list: Aligns with the 23 codas of CVVChinse and no simplification is applied. 
-- Lite版：合并双元音及鼻音的韵尾为 `:i` ，`:u`， `n`，`ng`，韵尾总数减少至14个。  
-  Lite list: Merge the Endings of diphthongs and nasals into `:i`, `:u`, `n`, and `ng`; the total number of Endings is reduced to 14.  
-- Nano版：将`:u`与`u`合并，总数减少至13个。  
-  Nano list: Merge `:u` with `u`; the total number of codas is reduced to 13.  
+- Lite表：合并双元音及鼻音的韵尾为 `:i` ，`:u`， `n`，`ng`，韵尾总数减少至14个。VCV表与Lite表的韵尾一致。  
+  Lite list: Merge the Endings of diphthongs and nasals into `:i`, `:u`, `n`, and `ng`; the total number of Endings is reduced to 14. VCV list has the same Endings as Lite list.  
+- Nano表：将`:u`与`u`合并，总数减少至13个。VCV_Nano表与Nano表的韵尾一致。  
+  Nano list: Merge `:u` with `u`; the total number of codas is reduced to 13. VCV_Nano list has the same Endings as Nano list.  
 
 ## VC部分，后一个音的开头(C) The VC Part, Beginning of the Next Sound (C)
 
