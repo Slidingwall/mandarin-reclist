@@ -22,6 +22,7 @@ nav_order: 7
     <option value="Nano">CVVC_Nano</option> 
     <option value="Lite">CVVC_Lite</option>  
     <option value="Full">CVVC_Full</option>  
+    <option value="Full">VCV_Nano</option>  
     <option value="VCV">VCV</option>  
   </select>  
   <input type="submit" class="btn" onclick="event.preventDefault(); generateOTO();" value="提交">  

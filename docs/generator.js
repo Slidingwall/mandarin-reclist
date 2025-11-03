@@ -20,12 +20,14 @@ async function generateOTO() {
                     })
                 )
             );
-        const result = type === "Nano" ? process(oto.CVVC_Nano) : type === "Lite" ? process(oto.CVVC_Lite) : type === "Full" ? process(oto.CVVC_Full) : 
-            type === "VCV"  ? Object.entries(oto.VCV).flatMap(([name, wavs]) =>
+        const processVCV = data => 
+            Object.entries(data).flatMap(([name, wavs]) =>
                 (Array.isArray(wavs) ? wavs : []).filter(Boolean).map((line, i) =>
-                    `${name}.wav=${line}#,${float(blank + dur * (i + 0.4))},${float(dur * 0.8)},-${float(dur * 1.2)},${float(dur * 0.6)},${float(dur * 0.2)}`
+                `${name}.wav=${line}#,${float(blank + dur * (i + 0.4))},${float(dur * 0.8)},-${float(dur * 1.2)},${float(dur * 0.6)},${float(dur * 0.2)}`
                 )
-            ) : [];
+            );
+        const result = type === "Nano" ? process(oto.CVVC_Nano) : type === "Lite" ? process(oto.CVVC_Lite) : type === "Full" ? process(oto.CVVC_Full) : 
+            type === "VCV" ? processVCV(oto.VCV) : type === "VCV_Nano" ? processVCV(oto.VCV_Nano).concat(process(oto.VCV_Nano_CVVC)) : [];
             document.getElementById('output').textContent = result.join('\n')
     } catch (e) {document.getElementById('output').textContent = `There was a problem with your fetch operation: ${e}`}
 }
