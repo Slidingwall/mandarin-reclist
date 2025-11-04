@@ -26,8 +26,8 @@ In the `UTAU` folder of the project, a `presamp.ini` file that matches the recor
 因为OpenUTAU中的`ZH CVVC`音素器不支持`presamp.ini`文件中的`[REPLACE]`项，所以您需要通过复制来补充被合并的CV项。  
 Since the `ZH CVVC` phonemeizer in OpenUTAU does not support the `[REPLACE]` section in the `presamp.ini` file, you need to supplement the merged CV entries by copying them.  
 
-我们已经提交了使`ZH CVVC`音素器支持`[REPLACE]`项的[合并请求](https://github.com/stakira/OpenUtau/pull/1796)。在该请求被批准前，您可以手动替换`OpenUtau.Plugin.Builtin.dll`。其更改的源代码位于文件夹中的`ZH_CVVC_with_replace.cs`。  
-We have submitted a [pull request](https://github.com/stakira/OpenUtau/pull/1796) to enable the `ZH CVVC` phonemizer to support the `[REPLACE]` item. Before this request is approved, you can manually replace `OpenUtau.Plugin.Builtin.dll`. The modified source code is located in `ZH_CVVC_with_replace.cs` in the folder.  
+我们已经提交了使`ZH CVVC`音素器支持`[REPLACE]`项的[合并请求](https://github.com/stakira/OpenUtau/pull/1796)。在该请求被批准前，您可以手动替换[`OpenUtau.Plugin.Builtin.dll`](https://github.com/Slidingwall/mandarin-reclist/blob/main/UTAU/OpenUtau.Plugin.Builtin.dll)。其更改的源代码位于文件夹中的[`ZH_CVVC_with_replace.cs`](https://github.com/Slidingwall/mandarin-reclist/blob/main/UTAU/ZH_CVVC_with_replace.cs)。  
+We have submitted a [pull request](https://github.com/stakira/OpenUtau/pull/1796) to enable the `ZH CVVC` phonemizer to support the `[REPLACE]` item. Before this request is approved, you can manually replace [`OpenUtau.Plugin.Builtin.dll`](https://github.com/Slidingwall/mandarin-reclist/blob/main/UTAU/OpenUtau.Plugin.Builtin.dll). The modified source code is located in [`ZH_CVVC_with_replace.cs`](https://github.com/Slidingwall/mandarin-reclist/blob/main/UTAU/ZH_CVVC_with_replace.cs) in the folder.  
 
 {: .highlight-title }
 > 对于复制 / For copying :
