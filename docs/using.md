@@ -39,3 +39,10 @@ We have submitted a [pull request](https://github.com/stakira/OpenUtau/pull/1796
 ## 在UTAU和OpenUTAU中使用
 
 ## 将声库移植到Deepvocal和Vocalsharp
+
+{: .note}
+> 对于DeepVocal，由于其别名规则，音头的`A` `@`被重命名为`ao` `ou`，作为半元音的`v`(ü)被重命名为`V`，韵尾`:i` `:u` `n`被重命名为`-i` `-u` `-n`。  
+> For DeepVocal, due to its alias rules, the initials `A` and `@` are renamed to `ao` and `ou`; the semi-vowel `v` (ü) is renamed to `V`; and the Endings `:i`, `:u`, and `n` are renamed to `-i`, `-u`, and `-n` respectively.
+>
+> 对于VocalSharp，由于其别名规则，音头的`A` `@`被重命名为`ao` `ou`，韵尾`e0` `en0` `:i` `:u` `n` `ng`被重命名为`ie` `ian` `ei` `ou` `en` `eng`。  
+> For VocalSharp, due to its alias rules, the initials `A` and `@` are renamed to `ao` and `ou`; and the Endings `e0`, `en0`, `:i`, `:u`, `n`, and `ng` are renamed to `ie`, `ian`, `ei`, `ou`, `en`, and `eng` respectively.

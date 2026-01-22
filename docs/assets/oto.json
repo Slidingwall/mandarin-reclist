@@ -516,13 +516,13 @@
         null
       ],
       "vc": [
-        "en t",
-        "en n",
-        "en l",
-        "en p",
-        "en m",
-        "en f",
-        "en a"
+        "n t",
+        "n n",
+        "n l",
+        "n p",
+        "n m",
+        "n f",
+        "n a"
       ]
     },
     "_zhun_chun_shun_run_zun_cun_sun_en": {
@@ -537,13 +537,13 @@
         null
       ],
       "vc": [
-        "en ch",
-        "en sh",
-        "en r",
+        "n ch",
+        "n sh",
+        "n r",
         null,
-        "en c",
-        "en s",
-        "en @"
+        "n c",
+        "n s",
+        "n @"
       ]
     },
     "_gun_kun_hun_wen_zu_cu_su_wu": {
@@ -558,9 +558,9 @@
         "wu"
       ],
       "vc": [
-        "en k",
-        "en h",
-        "en w",
+        "n k",
+        "n h",
+        "n w",
         null,
         "u c",
         "u s",
@@ -579,13 +579,13 @@
         "leng"
       ],
       "vc": [
-        "eng p",
-        "eng m",
-        "eng f",
+        "ng p",
+        "ng m",
+        "ng f",
         null,
-        "eng t",
-        "eng n",
-        "eng l"
+        "ng t",
+        "ng n",
+        "ng l"
       ]
     },
     "_zeng_ceng_seng_reng_geng_keng_heng_ei": {
@@ -600,13 +600,13 @@
         null
       ],
       "vc": [
-        "eng c",
-        "eng s",
-        "eng r",
+        "ng c",
+        "ng s",
+        "ng r",
         null,
-        "eng k",
-        "eng h",
-        "eng ei"
+        "ng k",
+        "ng h",
+        "ng ei"
       ]
     },
     "_dong_tong_nong_long_zhong_chong_yong_rong": {
@@ -666,10 +666,10 @@
         null,
         null,
         null,
-        "eng ch",
-        "eng sh",
-        "eng @",
-        "eng A0"
+        "ng ch",
+        "ng sh",
+        "ng @",
+        "ng A0"
       ]
     },
     "_di_ti_ni_li_bi_pi_mi_e": {
@@ -719,9 +719,9 @@
       "vc": [
         "i0 q",
         "i sh",
-        "eng y",
+        "ng y",
         "i ch",
-        "en y",
+        "n y",
         "i c",
         "i0 y"
       ]
@@ -755,7 +755,7 @@
         "ir w",
         "u v",
         "v t",
-        "eng q",
+        "ng q",
         "i A0"
       ]
     },
@@ -767,7 +767,7 @@
         "v ch",
         "o v",
         "v sh",
-        "eng v",
+        "ng v",
         "v p"
       ]
     },
@@ -800,7 +800,7 @@
         ":i @",
         null,
         "er k",
-        "en er",
+        "n er",
         "er a"
       ]
     },
@@ -852,7 +852,7 @@
     "_en_qu_ku_qu_hu_xu_ru_ao": {
       "cv": null,
       "vc": [
-        "en q",
+        "n q",
         "v k",
         "u q",
         "v h",
@@ -869,7 +869,7 @@
         null,
         "o q",
         "e0 f",
-        "en x",
+        "n x",
         "e0 ei"
       ]
     },
@@ -877,11 +877,11 @@
       "cv": null,
       "vc": [
         "ir @",
-        "en e",
+        "n e",
         "e @",
-        "eng a",
+        "ng a",
         "a @",
-        "eng e",
+        "ng e",
         "e A0"
       ]
     },
@@ -891,10 +891,10 @@
         "er sh",
         "ir er",
         "er r",
-        "eng x",
+        "ng x",
         "e0 er",
         "er p",
-        "eng w"
+        "ng w"
       ]
     },
     "_er_wu_er_nv_er_lia_er_e": {
@@ -923,7 +923,7 @@
       "vc": [
         "er er",
         "er s",
-        "en ei",
+        "n ei",
         ":i er",
         "er ch",
         "ir ei",
@@ -936,10 +936,10 @@
         "er c",
         "i0 er",
         "er h",
-        "eng er",
+        "ng er",
         "er x",
         "v m",
-        "en v"
+        "n v"
       ]
     },
     "_chi_yu_e_er_yu_wu_yi_a": {
@@ -984,7 +984,7 @@
         "ir y",
         "i s",
         "i0 @",
-        "en A0"
+        "n A0"
       ]
     },
     "_ci_pie_ci_mu_e_wu_a_dia": {

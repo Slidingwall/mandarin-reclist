@@ -1,7 +1,7 @@
 # mandarin-reclist
 
 适用于中文拼接语音库(UTAU, DeepVocal, VocalSharp)的极简录音表.  
-A minimal reclist for Mandarin stitching voickbank(UTAU, DeelVocal, Vocalsharp).
+A minimal reclist for Mandarin stitching voicebank(UTAU, DeelVocal, Vocalsharp).
 
 ## Reclist Comparison
 
@@ -30,5 +30,5 @@ CV/VC/Extra parts are seperated in templates. Merge them while OTO are done.
 
 ## DeepVocal & Vocalsharp
 
-仍在开发中.  
-Still in development.
+仍在开发中. 请注意, 目前的模板未经验证, 可能有未发现的错误.  
+Still in development. Please note, the current template has not been verified and may contain undetected errors.  
