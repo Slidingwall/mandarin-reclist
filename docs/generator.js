@@ -67,6 +67,7 @@ async function generateVSDFMX() {
             output.textContent = result.join('\n')
     } catch (e) {output.textContent = `There was a problem with your fetch operation: ${e}`}
 }
+async function generateDVCFG() {output.textContent = "Work in progress." }
 function downloadResult() {
     const blob = new Blob([output.textContent], { type: 'text/plain' });
     const link = document.createElement('a');

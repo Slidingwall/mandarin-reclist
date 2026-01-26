@@ -15,7 +15,7 @@ nav_order: 7
 > The suffix will be displayed directly after the alias without adding a space.  
 
 <form id="myForm">  
-  <label for="program">选择程序:</label>
+  <label for="program">选择软件:</label>
   <select id="program" onchange="
     const isUTAU = this.value==='utau';
     document.querySelectorAll('.utau-only').forEach(o=>o.hidden=!isUTAU)
