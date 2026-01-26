@@ -23,22 +23,17 @@ You can refer to the other sound banks you already have to set up the latter two
 
 在项目的`UTAU`文件夹中，提供了与录音表相匹配的`presamp.ini`。  
 In the `UTAU` folder of the project, a `presamp.ini` file that matches the recording sheet is provided.  
-因为OpenUTAU中的`ZH CVVC`音素器不支持`presamp.ini`文件中的`[REPLACE]`项，所以您需要通过复制来补充被合并的CV项。  
-Since the `ZH CVVC` phonemeizer in OpenUTAU does not support the `[REPLACE]` section in the `presamp.ini` file, you need to supplement the merged CV entries by copying them.  
 
-我们已经提交了使`ZH CVVC`音素器支持`[REPLACE]`项的[合并请求](https://github.com/stakira/OpenUtau/pull/1796)。在该请求被批准前，您可以手动替换[`OpenUtau.Plugin.Builtin.dll`](https://github.com/Slidingwall/mandarin-reclist/blob/main/UTAU/OpenUtau.Plugin.Builtin.dll)。其更改的源代码位于文件夹中的[`ZH_CVVC_with_replace.cs`](https://github.com/Slidingwall/mandarin-reclist/blob/main/UTAU/ZH_CVVC_with_replace.cs)。  
-We have submitted a [pull request](https://github.com/stakira/OpenUtau/pull/1796) to enable the `ZH CVVC` phonemizer to support the `[REPLACE]` item. Before this request is approved, you can manually replace [`OpenUtau.Plugin.Builtin.dll`](https://github.com/Slidingwall/mandarin-reclist/blob/main/UTAU/OpenUtau.Plugin.Builtin.dll). The modified source code is located in [`ZH_CVVC_with_replace.cs`](https://github.com/Slidingwall/mandarin-reclist/blob/main/UTAU/ZH_CVVC_with_replace.cs) in the folder.  
-
-{: .highlight-title }
-> 对于复制 / For copying :
->
-> 您可以使用[KiraOtoToolbox](https://github.com/shine5402/KiraOtoToolbox)，选择`根据别名复制/替换`，选择`oto_CV.ini`并点击`加载`，点击右侧蓝色图标并导入`Copy_****.json`并进行复制。复制完成后的其他步骤同上。  
-> You can use [KiraOtoToolbox](https://github.com/shine5402/KiraOtoToolbox), Select `Copy/Replace by Alias` choose `oto_CV.ini` and click `Load` Then, click the blue icon on the right to import the `Copy_****.json` file and perform the copy. The subsequent steps after copying are the same as above.  
-> ![Toolbox](/assets/KO1.webp) ![Load](/assets/KO2.webp)   
+请使用高于OpenUTAU 0.1.566Beta的版本，以使`ZH CVVC`音素器支持`presamp.ini`文件中的`[REPLACE]`项。若您想使用之前的版本，您可以手动替换[`OpenUtau.Plugin.Builtin.dll`](https://github.com/Slidingwall/mandarin-reclist/blob/main/UTAU/OpenUtau.Plugin.Builtin.dll)。其更改的源代码位于文件夹中的[`ZH_CVVC_with_replace.cs`](https://github.com/Slidingwall/mandarin-reclist/blob/main/UTAU/ZH_CVVC_with_replace.cs)。  
+Please use OpenUTAU higher than version 0.1.566Beta, to enable the `ZH CVVC` phonemizer support the `[REPLACE]` in the `presamp.ini` file. If you prefer to use former version, you can manually replace [`OpenUtau.Plugin.Builtin.dll`](https://github.com/Slidingwall/mandarin-reclist/blob/main/UTAU/OpenUtau.Plugin.Builtin.dll). The modified source code is located in [`ZH_CVVC_with_replace.cs`](https://github.com/Slidingwall/mandarin-reclist/blob/main/UTAU/ZH_CVVC_with_replace.cs) in the folder.  
 
 ## 在UTAU和OpenUTAU中使用
 
+WIP
+
 ## 将声库移植到Deepvocal和Vocalsharp
+
+WIP
 
 {: .note}
 > 对于DeepVocal，由于其别名规则，音头的`A` `@`被重命名为`ao` `ou`，作为半元音的`v`(ü)被重命名为`V`，韵尾`:i` `:u` `n`被重命名为`-i` `-u` `-n`。  
