@@ -67,7 +67,61 @@ async function generateVSDFMX() {
             output.textContent = result.join('\n')
     } catch (e) {output.textContent = `There was a problem with your fetch operation: ${e}`}
 }
-async function generateDVCFG() {output.textContent = "Work in progress." }
+async function generateDVCFG() {
+    const blank = parseInt(document.getElementById('blank').value, 10) / 1000;
+    const dur = 60 / parseFloat(document.getElementById('BPM').value);
+    const type = document.getElementById('type').value;
+    const f17 = num => num.toFixed(17).replace(/\.?0+$/, '');
+    const suffix = document.getElementById('suffix').value;
+    const updateTime = new Date().toJSON().slice(0,19).replace('T',' ').replace(/-/g,'-');
+    try {
+        const oto = await fetch("https:://slidingwall.github.io/mandarin-reclist/assets/dvcfg.json").then(res => res.ok ? res.json() : { error: 'Network response was not ok' });
+        const process = obj => { 
+            const res = {};
+            Object.entries(obj).flatMap(([name, wavs]) => {
+                (wavs.cv || []).forEach((line, i) => {
+                    if (!line) return;
+                    res[`${suffix}->${line}`] = {
+                        connectPoint: 0.05999999865889549,
+                        endTime: f17(blank + dur * (i + 0.8) + 0.00999999865889549),
+                        pitch: suffix,
+                        preutterance: 0.10999999865889549,
+                        srcType: "CV",
+                        startTime: f17(blank - 0.10999999865889549 + dur * i),
+                        symbol: line,
+                        tailPoint: f17(dur * 0.8 + 0.11499999865889549),
+                        updateTime: updateTime,
+                        vowelEnd: f17(dur * 0.8 + 0.05999999865889549),
+                        vowelStart: f17(dur * 0.3 + 0.05999999865889549),
+                        wavName: `${name}.wav`
+                    };
+                }); 
+                (wavs.vc || []).forEach((line, i) => {
+                    if (!line) return;
+                    const key = ["a", "ao", "e", "ou", "er", "ei"].includes(line.split(" ")[1]) ? 0.8:0.6;
+                    res[`${suffix}->${line}`] = {
+                        connectPoint: 0.05999999865889549,
+                        endTime: f17(blank + dur * (i + 0.4 + key) + 0.05999999865889549),
+                        pitch: suffix,
+                        srcType: "VX",
+                        startTime: f17(blank + dur * (i + 0.6) - 0.05999999865889549),
+                        symbol: line,
+                        tailPoint: f17(dur * (key - 0.2) + 0.05999999865889549),
+                        updateTime: updateTime,
+                        wavName: `${name}.wav`
+                    };
+                }); 
+            }); 
+            return res; 
+        }; 
+        const result = {
+            Nano: process(oto.CVVC_Nano),
+            Lite: process(oto.CVVC_Lite),
+            Full: process(oto.CVVC_Full)
+        }[type] || [];
+        output.textContent = result; 
+    } catch (e) {output.textContent = `There was a problem with your fetch operation: ${e}`;} 
+} 
 function downloadResult() {
     const blob = new Blob([output.textContent], { type: 'text/plain' });
     const link = document.createElement('a');
