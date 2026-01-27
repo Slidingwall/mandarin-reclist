@@ -73,12 +73,12 @@ async function generateDVCFG() {
     const type = document.getElementById('type').value;
     const f17 = num => num.toFixed(17).replace(/\.?0+$/, '');
     const suffix = document.getElementById('suffix').value;
-    const updateTime = new Date().toJSON().slice(0,19).replace('T',' ').replace(/-/g,'-');
+    const updateTime = new Date().toJSON().slice(0,19).replace(/T|-/g, m => m === 'T' ? ' ' : '-');
     try {
-        const oto = await fetch("https:://slidingwall.github.io/mandarin-reclist/assets/dvcfg.json").then(res => res.ok ? res.json() : { error: 'Network response was not ok' });
+        const oto = await fetch("https://slidingwall.github.io/mandarin-reclist/assets/dvcfg.json").then(res => res.ok ? res.json() : { error: 'Network response was not ok' });
         const process = obj => { 
             const res = {};
-            Object.entries(obj).flatMap(([name, wavs]) => {
+            Object.entries(obj).forEach(([name, wavs]) => {
                 (wavs.cv || []).forEach((line, i) => {
                     if (!line) return;
                     res[`${suffix}->${line}`] = {
@@ -118,8 +118,8 @@ async function generateDVCFG() {
             Nano: process(oto.CVVC_Nano),
             Lite: process(oto.CVVC_Lite),
             Full: process(oto.CVVC_Full)
-        }[type] || [];
-        output.textContent = result; 
+        }[type] || {};
+        output.textContent = JSON.stringify(result, null, 2); 
     } catch (e) {output.textContent = `There was a problem with your fetch operation: ${e}`;} 
 } 
 function downloadResult() {
