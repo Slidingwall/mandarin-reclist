@@ -430,7 +430,7 @@ v t,_chi_pie_chi_wu_yu_teng_qi_ao.wav,3700,3950,4000,4050,3800
 eng q,_chi_pie_chi_wu_yu_teng_qi_ao.wav,4200,4450,4500,4550,4300
 i ao,_chi_pie_chi_wu_yu_teng_qi_ao.wav,4700,5000,5100,5300,4800
 v y,_yu_yi_yu_chuo_yu_sheng_yu_pi.wav,1700,1950,2000,2050,1800
-I V,_yu_yi_yu_chuo_yu_sheng_yu_pi.wav,2200,2500,2600,2800,2300
+i V,_yu_yi_yu_chuo_yu_sheng_yu_pi.wav,2200,2500,2600,2800,2300
 v ch,_yu_yi_yu_chuo_yu_sheng_yu_pi.wav,2700,2950,3000,3050,2800
 o V,_yu_yi_yu_chuo_yu_sheng_yu_pi.wav,3200,3500,3600,3800,3300
 v sh,_yu_yi_yu_chuo_yu_sheng_yu_pi.wav,3700,3950,4000,4050,3800
