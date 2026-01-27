@@ -32,18 +32,11 @@ Please use OpenUTAU higher than version 0.1.566Beta, to enable the `ZH CVVC` pho
 对于DeepVocal，您需要`*.dvtb`和`voice.dvcfg`。对于VocalSharp，您需要`*.lsd`和`*.vsdxmf`。它们的作用类似于UTAU中的`presamp.ini`和`oto.ini`。  
 For DeepVocal, you need `*.dvtb` and `voice.dvcfg`. For VocalSharp, you need `*.lsd` and `*.vsdxmf`. They function similarly to `presamp.ini` and `oto.ini` in UTAU.  
 
-[生成器](/mandarin-reclist/generator)能够支持直接生成`voice.dvcfg`和`*.vsdxmf`的模板。但由于DeepVocal和VocalSharp的别名规则，别名无法直接对应，暂时无法直接转换。oto.ini的转换工具正在计划开发中。  
-[Generator](/mandarin-reclist/generator) can directly generate `voice.dvcfg` and `*.vsdxmf` templates. However, due to the alias rules of DeepVocal and VocalSharp, the aliases cannot be directly mapped and thus cannot be converted directly for the time being. A conversion tool for `oto.ini` is planned for development.  
+[生成器](/mandarin-reclist/generator)能够支持直接生成`voice.dvcfg`和`*.vsdxmf`的模板。oto.ini的转换工具正在计划开发中。  
+[Generator](/mandarin-reclist/generator) can directly generate `voice.dvcfg` and `*.vsdxmf` templates. A conversion tool for `oto.ini` is planned for development.  
 
 对于DeepVocal的模板，CV部分需要进行手动复制。一键复制工具正在计划开发中。  
 For DeepVocal templates, the CV section needs to be copied manually. A one-click copy tool is planned for development.  
 
 对于VocalSharp的模板，其末尾有软链接自动复制可复用的标记。生成器目前暂时没有加入软链接的功能，您可以手动复制这些内容。  
 For VocalSharp templates, there are symbolic links at the end that automatically copy reusable markers. The generator has not incorporated the symbolic link function for the time being, so you can copy these contents manually.  
-
-{: .note}
-> 对于DeepVocal，由于其别名规则，音头的`A` `@`被重命名为`ao` `ou`，作为半元音的`v`(ü)被重命名为`V`，韵尾`:i` `:u` `n`被重命名为`-i` `-u` `-n`。  
-> For DeepVocal, due to its alias rules, the initials `A` and `@` are renamed to `ao` and `ou`; the semi-vowel `v` (ü) is renamed to `V`; and the Endings `:i`, `:u`, and `n` are renamed to `-i`, `-u`, and `-n` respectively.
->
-> 对于VocalSharp，由于其别名规则，音头的`A` `@`被重命名为`ao` `ou`，作为半元音的`v`(ü)被重命名为`V`，韵尾`:i` `:u` `n` `ng`被重命名为`ei` `ou` `en` `eng`。  
-> For VocalSharp, due to its alias rules, the initials `A` and `@` are renamed to `ao` and `ou`; the semi-vowel `v` (ü) is renamed to `V`; and the Endings `:i`, `:u`, `n`, and `ng` are renamed to `ei`, `ou`, `en`, and `eng` respectively.  

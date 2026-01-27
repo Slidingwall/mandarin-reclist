@@ -893,24 +893,24 @@
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_bo_po_mo_fo_wan_zhei_shei_yu.wav"
   },
-  "#->-i sh": {
+  "#->ei sh": {
     "connectPoint": 0.05999999865889549,
     "endTime": "4.55999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "4.24000000134110433",
-    "symbol": "-i sh",
+    "symbol": "ei sh",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_bo_po_mo_fo_wan_zhei_shei_yu.wav"
   },
-  "#->-i V": {
+  "#->ei V": {
     "connectPoint": 0.05999999865889549,
     "endTime": "5.05999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "4.74000000134110433",
-    "symbol": "-i V",
+    "symbol": "ei V",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_bo_po_mo_fo_wan_zhei_shei_yu.wav"
@@ -2039,68 +2039,68 @@
     "vowelStart": "0.20999999865889549",
     "wavName": "_bei_pei_mei_fei_dei_tei_nei_lei.wav"
   },
-  "#->-i p": {
+  "#->ei p": {
     "connectPoint": 0.05999999865889549,
     "endTime": "2.05999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "1.74000000134110455",
-    "symbol": "-i p",
+    "symbol": "ei p",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_bei_pei_mei_fei_dei_tei_nei_lei.wav"
   },
-  "#->-i m": {
+  "#->ei m": {
     "connectPoint": 0.05999999865889549,
     "endTime": "2.55999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "2.24000000134110433",
-    "symbol": "-i m",
+    "symbol": "ei m",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_bei_pei_mei_fei_dei_tei_nei_lei.wav"
   },
-  "#->-i f": {
+  "#->ei f": {
     "connectPoint": 0.05999999865889549,
     "endTime": "3.05999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "2.74000000134110433",
-    "symbol": "-i f",
+    "symbol": "ei f",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_bei_pei_mei_fei_dei_tei_nei_lei.wav"
   },
-  "#->-i t": {
+  "#->ei t": {
     "connectPoint": 0.05999999865889549,
     "endTime": "4.05999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "3.74000000134110433",
-    "symbol": "-i t",
+    "symbol": "ei t",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_bei_pei_mei_fei_dei_tei_nei_lei.wav"
   },
-  "#->-i n": {
+  "#->ei n": {
     "connectPoint": 0.05999999865889549,
     "endTime": "4.55999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "4.24000000134110433",
-    "symbol": "-i n",
+    "symbol": "ei n",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_bei_pei_mei_fei_dei_tei_nei_lei.wav"
   },
-  "#->-i l": {
+  "#->ei l": {
     "connectPoint": 0.05999999865889549,
     "endTime": "5.05999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "4.74000000134110433",
-    "symbol": "-i l",
+    "symbol": "ei l",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_bei_pei_mei_fei_dei_tei_nei_lei.wav"
@@ -2203,24 +2203,24 @@
     "vowelStart": "0.20999999865889549",
     "wavName": "_gei_kei_hei_zei_jie_qie_xie_en.wav"
   },
-  "#->-i k": {
+  "#->ei k": {
     "connectPoint": 0.05999999865889549,
     "endTime": "2.05999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "1.74000000134110455",
-    "symbol": "-i k",
+    "symbol": "ei k",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_gei_kei_hei_zei_jie_qie_xie_en.wav"
   },
-  "#->-i h": {
+  "#->ei h": {
     "connectPoint": 0.05999999865889549,
     "endTime": "2.55999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "2.24000000134110433",
-    "symbol": "-i h",
+    "symbol": "ei h",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_gei_kei_hei_zei_jie_qie_xie_en.wav"
@@ -2342,24 +2342,24 @@
     "vowelStart": "0.20999999865889549",
     "wavName": "_gui_kui_hui_wei_dui_tui_yi_ou.wav"
   },
-  "#->-i w": {
+  "#->ei w": {
     "connectPoint": 0.05999999865889549,
     "endTime": "3.05999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "2.74000000134110433",
-    "symbol": "-i w",
+    "symbol": "ei w",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_gui_kui_hui_wei_dui_tui_yi_ou.wav"
   },
-  "#->-i y": {
+  "#->ei y": {
     "connectPoint": 0.05999999865889549,
     "endTime": "4.55999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "4.24000000134110433",
-    "symbol": "-i y",
+    "symbol": "ei y",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_gui_kui_hui_wei_dui_tui_yi_ou.wav"
@@ -2487,57 +2487,57 @@
     "vowelStart": "0.20999999865889549",
     "wavName": "_zhui_chui_shui_rui_zui_cui_sui_ei.wav"
   },
-  "#->-i ch": {
+  "#->ei ch": {
     "connectPoint": 0.05999999865889549,
     "endTime": "2.05999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "1.74000000134110455",
-    "symbol": "-i ch",
+    "symbol": "ei ch",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_zhui_chui_shui_rui_zui_cui_sui_ei.wav"
   },
-  "#->-i r": {
+  "#->ei r": {
     "connectPoint": 0.05999999865889549,
     "endTime": "3.05999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "2.74000000134110433",
-    "symbol": "-i r",
+    "symbol": "ei r",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_zhui_chui_shui_rui_zui_cui_sui_ei.wav"
   },
-  "#->-i c": {
+  "#->ei c": {
     "connectPoint": 0.05999999865889549,
     "endTime": "4.05999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "3.74000000134110433",
-    "symbol": "-i c",
+    "symbol": "ei c",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_zhui_chui_shui_rui_zui_cui_sui_ei.wav"
   },
-  "#->-i s": {
+  "#->ei s": {
     "connectPoint": 0.05999999865889549,
     "endTime": "4.55999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "4.24000000134110433",
-    "symbol": "-i s",
+    "symbol": "ei s",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_zhui_chui_shui_rui_zui_cui_sui_ei.wav"
   },
-  "#->-i ei": {
+  "#->ei ei": {
     "connectPoint": 0.05999999865889549,
     "endTime": "5.15999999865889514",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "4.74000000134110433",
-    "symbol": "-i ei",
+    "symbol": "ei ei",
     "tailPoint": "0.35999999865889554",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_zhui_chui_shui_rui_zui_cui_sui_ei.wav"
@@ -3525,79 +3525,79 @@
     "vowelStart": "0.20999999865889549",
     "wavName": "_dun_tun_nen_lun_pen_men_fen_a.wav"
   },
-  "#->-n t": {
+  "#->en t": {
     "connectPoint": 0.05999999865889549,
     "endTime": "2.05999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "1.74000000134110455",
-    "symbol": "-n t",
+    "symbol": "en t",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_dun_tun_nen_lun_pen_men_fen_a.wav"
   },
-  "#->-n n": {
+  "#->en n": {
     "connectPoint": 0.05999999865889549,
     "endTime": "2.55999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "2.24000000134110433",
-    "symbol": "-n n",
+    "symbol": "en n",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_dun_tun_nen_lun_pen_men_fen_a.wav"
   },
-  "#->-n l": {
+  "#->en l": {
     "connectPoint": 0.05999999865889549,
     "endTime": "3.05999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "2.74000000134110433",
-    "symbol": "-n l",
+    "symbol": "en l",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_dun_tun_nen_lun_pen_men_fen_a.wav"
   },
-  "#->-n p": {
+  "#->en p": {
     "connectPoint": 0.05999999865889549,
     "endTime": "3.55999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "3.24000000134110433",
-    "symbol": "-n p",
+    "symbol": "en p",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_dun_tun_nen_lun_pen_men_fen_a.wav"
   },
-  "#->-n m": {
+  "#->en m": {
     "connectPoint": 0.05999999865889549,
     "endTime": "4.05999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "3.74000000134110433",
-    "symbol": "-n m",
+    "symbol": "en m",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_dun_tun_nen_lun_pen_men_fen_a.wav"
   },
-  "#->-n f": {
+  "#->en f": {
     "connectPoint": 0.05999999865889549,
     "endTime": "4.55999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "4.24000000134110433",
-    "symbol": "-n f",
+    "symbol": "en f",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_dun_tun_nen_lun_pen_men_fen_a.wav"
   },
-  "#->-n a": {
+  "#->en a": {
     "connectPoint": 0.05999999865889549,
     "endTime": "5.15999999865889514",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "4.74000000134110433",
-    "symbol": "-n a",
+    "symbol": "en a",
     "tailPoint": "0.35999999865889554",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_dun_tun_nen_lun_pen_men_fen_a.wav"
@@ -3700,68 +3700,68 @@
     "vowelStart": "0.20999999865889549",
     "wavName": "_zhun_chun_shun_run_zun_cun_sun_en.wav"
   },
-  "#->-n ch": {
+  "#->en ch": {
     "connectPoint": 0.05999999865889549,
     "endTime": "2.05999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "1.74000000134110455",
-    "symbol": "-n ch",
+    "symbol": "en ch",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_zhun_chun_shun_run_zun_cun_sun_en.wav"
   },
-  "#->-n sh": {
+  "#->en sh": {
     "connectPoint": 0.05999999865889549,
     "endTime": "2.55999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "2.24000000134110433",
-    "symbol": "-n sh",
+    "symbol": "en sh",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_zhun_chun_shun_run_zun_cun_sun_en.wav"
   },
-  "#->-n r": {
+  "#->en r": {
     "connectPoint": 0.05999999865889549,
     "endTime": "3.05999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "2.74000000134110433",
-    "symbol": "-n r",
+    "symbol": "en r",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_zhun_chun_shun_run_zun_cun_sun_en.wav"
   },
-  "#->-n c": {
+  "#->en c": {
     "connectPoint": 0.05999999865889549,
     "endTime": "4.05999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "3.74000000134110433",
-    "symbol": "-n c",
+    "symbol": "en c",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_zhun_chun_shun_run_zun_cun_sun_en.wav"
   },
-  "#->-n s": {
+  "#->en s": {
     "connectPoint": 0.05999999865889549,
     "endTime": "4.55999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "4.24000000134110433",
-    "symbol": "-n s",
+    "symbol": "en s",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_zhun_chun_shun_run_zun_cun_sun_en.wav"
   },
-  "#->-n ou": {
+  "#->en ou": {
     "connectPoint": 0.05999999865889549,
     "endTime": "5.15999999865889514",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "4.74000000134110433",
-    "symbol": "-n ou",
+    "symbol": "en ou",
     "tailPoint": "0.35999999865889554",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_zhun_chun_shun_run_zun_cun_sun_en.wav"
@@ -3878,35 +3878,35 @@
     "vowelStart": "0.20999999865889549",
     "wavName": "_gun_kun_hun_wen_zu_cu_su_wu.wav"
   },
-  "#->-n k": {
+  "#->en k": {
     "connectPoint": 0.05999999865889549,
     "endTime": "2.05999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "1.74000000134110455",
-    "symbol": "-n k",
+    "symbol": "en k",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_gun_kun_hun_wen_zu_cu_su_wu.wav"
   },
-  "#->-n h": {
+  "#->en h": {
     "connectPoint": 0.05999999865889549,
     "endTime": "2.55999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "2.24000000134110433",
-    "symbol": "-n h",
+    "symbol": "en h",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_gun_kun_hun_wen_zu_cu_su_wu.wav"
   },
-  "#->-n w": {
+  "#->en w": {
     "connectPoint": 0.05999999865889549,
     "endTime": "3.05999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "2.74000000134110433",
-    "symbol": "-n w",
+    "symbol": "en w",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_gun_kun_hun_wen_zu_cu_su_wu.wav"
@@ -4056,68 +4056,68 @@
     "vowelStart": "0.20999999865889549",
     "wavName": "_beng_peng_meng_feng_deng_teng_neng_leng.wav"
   },
-  "#->ng p": {
+  "#->eng p": {
     "connectPoint": 0.05999999865889549,
     "endTime": "2.05999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "1.74000000134110455",
-    "symbol": "ng p",
+    "symbol": "eng p",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_beng_peng_meng_feng_deng_teng_neng_leng.wav"
   },
-  "#->ng m": {
+  "#->eng m": {
     "connectPoint": 0.05999999865889549,
     "endTime": "2.55999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "2.24000000134110433",
-    "symbol": "ng m",
+    "symbol": "eng m",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_beng_peng_meng_feng_deng_teng_neng_leng.wav"
   },
-  "#->ng f": {
+  "#->eng f": {
     "connectPoint": 0.05999999865889549,
     "endTime": "3.05999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "2.74000000134110433",
-    "symbol": "ng f",
+    "symbol": "eng f",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_beng_peng_meng_feng_deng_teng_neng_leng.wav"
   },
-  "#->ng t": {
+  "#->eng t": {
     "connectPoint": 0.05999999865889549,
     "endTime": "4.05999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "3.74000000134110433",
-    "symbol": "ng t",
+    "symbol": "eng t",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_beng_peng_meng_feng_deng_teng_neng_leng.wav"
   },
-  "#->ng n": {
+  "#->eng n": {
     "connectPoint": 0.05999999865889549,
     "endTime": "4.55999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "4.24000000134110433",
-    "symbol": "ng n",
+    "symbol": "eng n",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_beng_peng_meng_feng_deng_teng_neng_leng.wav"
   },
-  "#->ng l": {
+  "#->eng l": {
     "connectPoint": 0.05999999865889549,
     "endTime": "5.05999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "4.74000000134110433",
-    "symbol": "ng l",
+    "symbol": "eng l",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_beng_peng_meng_feng_deng_teng_neng_leng.wav"
@@ -4220,68 +4220,68 @@
     "vowelStart": "0.20999999865889549",
     "wavName": "_zeng_ceng_seng_reng_geng_keng_heng_ei.wav"
   },
-  "#->ng c": {
+  "#->eng c": {
     "connectPoint": 0.05999999865889549,
     "endTime": "2.05999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "1.74000000134110455",
-    "symbol": "ng c",
+    "symbol": "eng c",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_zeng_ceng_seng_reng_geng_keng_heng_ei.wav"
   },
-  "#->ng s": {
+  "#->eng s": {
     "connectPoint": 0.05999999865889549,
     "endTime": "2.55999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "2.24000000134110433",
-    "symbol": "ng s",
+    "symbol": "eng s",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_zeng_ceng_seng_reng_geng_keng_heng_ei.wav"
   },
-  "#->ng r": {
+  "#->eng r": {
     "connectPoint": 0.05999999865889549,
     "endTime": "3.05999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "2.74000000134110433",
-    "symbol": "ng r",
+    "symbol": "eng r",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_zeng_ceng_seng_reng_geng_keng_heng_ei.wav"
   },
-  "#->ng k": {
+  "#->eng k": {
     "connectPoint": 0.05999999865889549,
     "endTime": "4.05999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "3.74000000134110433",
-    "symbol": "ng k",
+    "symbol": "eng k",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_zeng_ceng_seng_reng_geng_keng_heng_ei.wav"
   },
-  "#->ng h": {
+  "#->eng h": {
     "connectPoint": 0.05999999865889549,
     "endTime": "4.55999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "4.24000000134110433",
-    "symbol": "ng h",
+    "symbol": "eng h",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_zeng_ceng_seng_reng_geng_keng_heng_ei.wav"
   },
-  "#->ng ei": {
+  "#->eng ei": {
     "connectPoint": 0.05999999865889549,
     "endTime": "5.15999999865889514",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "4.74000000134110433",
-    "symbol": "ng ei",
+    "symbol": "eng ei",
     "tailPoint": "0.35999999865889554",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_zeng_ceng_seng_reng_geng_keng_heng_ei.wav"
@@ -4630,46 +4630,46 @@
     "vowelStart": "0.20999999865889549",
     "wavName": "_jiong_qiong_xiong_zheng_cheng_sheng_eng_ao.wav"
   },
-  "#->ng ch": {
+  "#->eng ch": {
     "connectPoint": 0.05999999865889549,
     "endTime": "3.55999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "3.24000000134110433",
-    "symbol": "ng ch",
+    "symbol": "eng ch",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_jiong_qiong_xiong_zheng_cheng_sheng_eng_ao.wav"
   },
-  "#->ng sh": {
+  "#->eng sh": {
     "connectPoint": 0.05999999865889549,
     "endTime": "4.05999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "3.74000000134110433",
-    "symbol": "ng sh",
+    "symbol": "eng sh",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_jiong_qiong_xiong_zheng_cheng_sheng_eng_ao.wav"
   },
-  "#->ng ou": {
+  "#->eng ou": {
     "connectPoint": 0.05999999865889549,
     "endTime": "4.65999999865889514",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "4.24000000134110433",
-    "symbol": "ng ou",
+    "symbol": "eng ou",
     "tailPoint": "0.35999999865889554",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_jiong_qiong_xiong_zheng_cheng_sheng_eng_ao.wav"
   },
-  "#->ng ao": {
+  "#->eng ao": {
     "connectPoint": 0.05999999865889549,
     "endTime": "5.15999999865889514",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "4.74000000134110433",
-    "symbol": "ng ao",
+    "symbol": "eng ao",
     "tailPoint": "0.35999999865889554",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_jiong_qiong_xiong_zheng_cheng_sheng_eng_ao.wav"
@@ -4949,13 +4949,13 @@
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_ji_qi_xi_yi_fo_ei_a_ao.wav"
   },
-  "#->-i a": {
+  "#->ei a": {
     "connectPoint": 0.05999999865889549,
     "endTime": "4.65999999865889514",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "4.24000000134110433",
-    "symbol": "-i a",
+    "symbol": "ei a",
     "tailPoint": "0.35999999865889554",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_ji_qi_xi_yi_fo_ei_a_ao.wav"
@@ -4993,13 +4993,13 @@
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_si_qi_sheng_yi_chen_yi_ci_yi.wav"
   },
-  "#->ng y": {
+  "#->eng y": {
     "connectPoint": 0.05999999865889549,
     "endTime": "3.05999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "2.74000000134110433",
-    "symbol": "ng y",
+    "symbol": "eng y",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_si_qi_sheng_yi_chen_yi_ci_yi.wav"
@@ -5015,13 +5015,13 @@
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_si_qi_sheng_yi_chen_yi_ci_yi.wav"
   },
-  "#->-n y": {
+  "#->en y": {
     "connectPoint": 0.05999999865889549,
     "endTime": "4.05999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "3.74000000134110433",
-    "symbol": "-n y",
+    "symbol": "en y",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_si_qi_sheng_yi_chen_yi_ci_yi.wav"
@@ -5264,13 +5264,13 @@
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_chi_pie_chi_wu_yu_teng_qi_ao.wav"
   },
-  "#->ng q": {
+  "#->eng q": {
     "connectPoint": 0.05999999865889549,
     "endTime": "4.55999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "4.24000000134110433",
-    "symbol": "ng q",
+    "symbol": "eng q",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_chi_pie_chi_wu_yu_teng_qi_ao.wav"
@@ -5341,13 +5341,13 @@
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_yu_yi_yu_chuo_yu_sheng_yu_pi.wav"
   },
-  "#->ng V": {
+  "#->eng V": {
     "connectPoint": 0.05999999865889549,
     "endTime": "4.55999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "4.24000000134110433",
-    "symbol": "ng V",
+    "symbol": "eng V",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_yu_yi_yu_chuo_yu_sheng_yu_pi.wav"
@@ -5429,13 +5429,13 @@
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_ci_e_a_e_yu_a_ei_e.wav"
   },
-  "#->-i e": {
+  "#->ei e": {
     "connectPoint": 0.05999999865889549,
     "endTime": "5.15999999865889514",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "4.74000000134110433",
-    "symbol": "-i e",
+    "symbol": "ei e",
     "tailPoint": "0.35999999865889554",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_ci_e_a_e_yu_a_ei_e.wav"
@@ -5476,13 +5476,13 @@
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_che_me_pei_ou_er_ken_er_a.wav"
   },
-  "#->-i ou": {
+  "#->ei ou": {
     "connectPoint": 0.05999999865889549,
     "endTime": "3.15999999865889558",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "2.74000000134110433",
-    "symbol": "-i ou",
+    "symbol": "ei ou",
     "tailPoint": "0.35999999865889554",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_che_me_pei_ou_er_ken_er_a.wav"
@@ -5498,13 +5498,13 @@
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_che_me_pei_ou_er_ken_er_a.wav"
   },
-  "#->-n er": {
+  "#->en er": {
     "connectPoint": 0.05999999865889549,
     "endTime": "4.65999999865889514",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "4.24000000134110433",
-    "symbol": "-n er",
+    "symbol": "en er",
     "tailPoint": "0.35999999865889554",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_che_me_pei_ou_er_ken_er_a.wav"
@@ -5633,13 +5633,13 @@
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_si_lie_kei_qie_hei_xie_ruo_ou.wav"
   },
-  "#->-i q": {
+  "#->ei q": {
     "connectPoint": 0.05999999865889549,
     "endTime": "3.05999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "2.74000000134110433",
-    "symbol": "-i q",
+    "symbol": "ei q",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_si_lie_kei_qie_hei_xie_ruo_ou.wav"
@@ -5655,13 +5655,13 @@
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_si_lie_kei_qie_hei_xie_ruo_ou.wav"
   },
-  "#->-i x": {
+  "#->ei x": {
     "connectPoint": 0.05999999865889549,
     "endTime": "4.05999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "3.74000000134110433",
-    "symbol": "-i x",
+    "symbol": "ei x",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_si_lie_kei_qie_hei_xie_ruo_ou.wav"
@@ -5754,13 +5754,13 @@
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_er_mi_er_fo_er_ou_e_fo.wav"
   },
-  "#->-n q": {
+  "#->en q": {
     "connectPoint": 0.05999999865889549,
     "endTime": "2.05999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "1.74000000134110455",
-    "symbol": "-n q",
+    "symbol": "en q",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_en_qu_ku_qu_hu_xu_ru_ao.wav"
@@ -5875,13 +5875,13 @@
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_ci_yu_ou_po_qie_fen_xie_ei.wav"
   },
-  "#->-n x": {
+  "#->en x": {
     "connectPoint": 0.05999999865889549,
     "endTime": "4.55999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "4.24000000134110433",
-    "symbol": "-n x",
+    "symbol": "en x",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_ci_yu_ou_po_qie_fen_xie_ei.wav"
@@ -5908,13 +5908,13 @@
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_chi_en_e_eng_a_eng_e_ang.wav"
   },
-  "#->-n e": {
+  "#->en e": {
     "connectPoint": 0.05999999865889549,
     "endTime": "2.65999999865889558",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "2.24000000134110433",
-    "symbol": "-n e",
+    "symbol": "en e",
     "tailPoint": "0.35999999865889554",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_chi_en_e_eng_a_eng_e_ang.wav"
@@ -5930,13 +5930,13 @@
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_chi_en_e_eng_a_eng_e_ang.wav"
   },
-  "#->ng a": {
+  "#->eng a": {
     "connectPoint": 0.05999999865889549,
     "endTime": "3.65999999865889558",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "3.24000000134110433",
-    "symbol": "ng a",
+    "symbol": "eng a",
     "tailPoint": "0.35999999865889554",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_chi_en_e_eng_a_eng_e_ang.wav"
@@ -5952,13 +5952,13 @@
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_chi_en_e_eng_a_eng_e_ang.wav"
   },
-  "#->ng e": {
+  "#->eng e": {
     "connectPoint": 0.05999999865889549,
     "endTime": "4.65999999865889514",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "4.24000000134110433",
-    "symbol": "ng e",
+    "symbol": "eng e",
     "tailPoint": "0.35999999865889554",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_chi_en_e_eng_a_eng_e_ang.wav"
@@ -6007,13 +6007,13 @@
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_er_shi_er_reng_xie_er_peng_wu.wav"
   },
-  "#->ng x": {
+  "#->eng x": {
     "connectPoint": 0.05999999865889549,
     "endTime": "3.55999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "3.24000000134110433",
-    "symbol": "ng x",
+    "symbol": "eng x",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_er_shi_er_reng_xie_er_peng_wu.wav"
@@ -6040,13 +6040,13 @@
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_er_shi_er_reng_xie_er_peng_wu.wav"
   },
-  "#->ng w": {
+  "#->eng w": {
     "connectPoint": 0.05999999865889549,
     "endTime": "5.05999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "4.74000000134110433",
-    "symbol": "ng w",
+    "symbol": "eng w",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_er_shi_er_reng_xie_er_peng_wu.wav"
@@ -6178,24 +6178,24 @@
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_er_er_sen_ei_er_chi_ei_ao.wav"
   },
-  "#->-n ei": {
+  "#->en ei": {
     "connectPoint": 0.05999999865889549,
     "endTime": "3.15999999865889558",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "2.74000000134110433",
-    "symbol": "-n ei",
+    "symbol": "en ei",
     "tailPoint": "0.35999999865889554",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_er_er_sen_ei_er_chi_ei_ao.wav"
   },
-  "#->-i er": {
+  "#->ei er": {
     "connectPoint": 0.05999999865889549,
     "endTime": "3.65999999865889558",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "3.24000000134110433",
-    "symbol": "-i er",
+    "symbol": "ei er",
     "tailPoint": "0.35999999865889554",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_er_er_sen_ei_er_chi_ei_ao.wav"
@@ -6222,13 +6222,13 @@
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_er_er_sen_ei_er_chi_ei_ao.wav"
   },
-  "#->-i ao": {
+  "#->ei ao": {
     "connectPoint": 0.05999999865889549,
     "endTime": "5.15999999865889514",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "4.74000000134110433",
-    "symbol": "-i ao",
+    "symbol": "ei ao",
     "tailPoint": "0.35999999865889554",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_er_er_sen_ei_er_chi_ei_ao.wav"
@@ -6266,13 +6266,13 @@
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_er_ci_er_heng_er_xu_men_yu.wav"
   },
-  "#->ng er": {
+  "#->eng er": {
     "connectPoint": 0.05999999865889549,
     "endTime": "3.65999999865889558",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "3.24000000134110433",
-    "symbol": "ng er",
+    "symbol": "eng er",
     "tailPoint": "0.35999999865889554",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_er_ci_er_heng_er_xu_men_yu.wav"
@@ -6299,13 +6299,13 @@
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_er_ci_er_heng_er_xu_men_yu.wav"
   },
-  "#->-n V": {
+  "#->en V": {
     "connectPoint": 0.05999999865889549,
     "endTime": "5.05999999865889549",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "4.74000000134110433",
-    "symbol": "-n V",
+    "symbol": "en V",
     "tailPoint": "0.25999999865889545",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_er_ci_er_heng_er_xu_men_yu.wav"
@@ -6614,13 +6614,13 @@
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_si_nie_si_ri_yi_si_en_ao.wav"
   },
-  "#->-n ao": {
+  "#->en ao": {
     "connectPoint": 0.05999999865889549,
     "endTime": "5.15999999865889514",
     "pitch": "#",
     "srcType": "VX",
     "startTime": "4.74000000134110433",
-    "symbol": "-n ao",
+    "symbol": "en ao",
     "tailPoint": "0.35999999865889554",
     "updateTime": "2026-01-27 19:44:28",
     "wavName": "_si_nie_si_ri_yi_si_en_ao.wav"

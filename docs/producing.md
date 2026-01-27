@@ -44,11 +44,11 @@ nav_order: 5
 > _si_qi_sheng_yi_chen_yi_ci_yi.wav=i0 y#,4700,300,-350,250,100
 >
 > #For VV
-> _chi_en_e_eng_a_eng_e_ang.wav=ir @#,1700,400,-600,300,100
+> _chi_en_e_eng_a_eng_e_ang.wav=ir ou#,1700,400,-600,300,100
 > _chi_en_e_eng_a_eng_e_ang.wav=en e#,2200,400,-600,300,100
-> _chi_en_e_eng_a_eng_e_ang.wav=e @#,2700,400,-600,300,100
+> _chi_en_e_eng_a_eng_e_ang.wav=e ou#,2700,400,-600,300,100
 > _chi_en_e_eng_a_eng_e_ang.wav=eng a#,3200,400,-600,300,100
-> _chi_en_e_eng_a_eng_e_ang.wav=a @#,3700,400,-600,300,100
+> _chi_en_e_eng_a_eng_e_ang.wav=a ou#,3700,400,-600,300,100
 > _chi_en_e_eng_a_eng_e_ang.wav=eng e#,4200,400,-600,300,100
 > _chi_en_e_eng_a_eng_e_ang.wav=e A0#,4700,400,-600,300,100
 > ```

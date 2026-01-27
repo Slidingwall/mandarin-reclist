@@ -23,7 +23,7 @@ The characteristic of both CVVC and VCV voice libraries is that splicing occurs 
 {: .important-title }
 > 元音组合 Vowel Combanations:
 >
-> <table style="text-align: center"><tr><td><b>元音<br/>Vowels</b></td><td><b>简化后<br/>Simplified</b></td><td><b>元音<br/>Vowels</b></td><td><b>简化后<br/>Simplified</b></td></tr><tr><td>a,ai,an</td><td>a</td><td>ua,uai,uan</td><td>ua</td></tr><tr><td>ao,ang</td><td>A</td><td>iao,iang</td><td>iA</td></tr><tr><td>ou,en,eng</td><td>@</td><td>i,in,ing</td><td>i</td></tr><tr><td>uo,o</td><td>uo</td><td>ü,ün</td><td>ü</td></tr><tr><td>ie,ian</td><td>ie*</td><td>ue(üe),uan(üan)</td><td>ue*</td></tr><tr><td colspan="4">e,i0,ir,u,ei,ui,iu,er,ia,un,uang,ong,iong</td></tr></table>
+> <table style="text-align: center"><tr><td><b>元音<br/>Vowels</b></td><td><b>简化后<br/>Simplified</b></td><td><b>元音<br/>Vowels</b></td><td><b>简化后<br/>Simplified</b></td></tr><tr><td>a,ai,an</td><td>a</td><td>ua,uai,uan</td><td>ua</td></tr><tr><td>ao,ang</td><td>ao</td><td>iao,iang</td><td>iA</td></tr><tr><td>ou,en,eng</td><td>ou</td><td>i,in,ing</td><td>i</td></tr><tr><td>uo,o</td><td>uo</td><td>ü,ün</td><td>ü</td></tr><tr><td>ie,ian</td><td>ie*</td><td>ue(üe),uan(üan)</td><td>ue*</td></tr><tr><td colspan="4">e,i0,ir,u,ei,ui,iu,er,ia,un,uang,ong,iong</td></tr></table>
 
 - 简化并与辅音结合后，Full表的CV总数为274。  
   After simplification and combination with consonants, the total number of CVs in the Full list is 274.
@@ -37,20 +37,22 @@ The characteristic of both CVVC and VCV voice libraries is that splicing occurs 
 {: .important-title }
 > 结尾组合 Ending Combanations:
 > 
-> <table style="text-align: center"><tr><td><b>结尾<br>Endings</b></td><td><b>简化后<br>Simplified</b></td><td><b>结尾<br>Endings</b></td><td><b>简化后<br>Simplified</b></td></tr><tr><td>ai,uai</td><td rowspan=2>:i</td><td>ao,iao</td><td rowspan=2>:u</td></tr><tr><td>ei,ui(uei)</td><td>ou,iu(iou)</td></tr><tr><td>an,uan</td><td rowspan=5>n</td><td>ang,iang,uang</td><td rowspan=4>ng</td></tr><tr><td>ian,uan(üan)</td><td>eng,ueng</td></tr><tr><td>en,un(uen)</td><td>ing</td></tr><tr><td>in</td><td>ong</td></tr><tr><td>ün</td><td>ie,ue(üe)</td><td>e0</td></tr><tr><td>a,ia,ua</td><td>a</td><td>o,uo</td><td>o</td></tr><tr><td colspan=4>e,i,i0,ir,u,ü,er</td></tr></table>
+> <table style="text-align: center"><tr><td><b>结尾<br>Endings</b></td><td><b>简化后<br>Simplified</b></td><td><b>结尾<br>Endings</b></td><td><b>简化后<br>Simplified</b></td></tr><tr><td>ai,uai</td><td rowspan=2>ei</td><td>ao,iao</td><td rowspan=2>ou</td></tr><tr><td>ei,ui(uei)</td><td>ou,iu(iou)</td></tr><tr><td>an,uan</td><td rowspan=5>en</td><td>ang,iang,uang</td><td rowspan=4>eng</td></tr><tr><td>ian,uan(üan)</td><td>eng,ueng</td></tr><tr><td>en,un(uen)</td><td>ing</td></tr><tr><td>in</td><td>ong</td></tr><tr><td>ün</td><td>ie,ue(üe)</td><td>e0</td></tr><tr><td>a,ia,ua</td><td>a</td><td>o,uo</td><td>o</td></tr><tr><td colspan=4>e,i,i0,ir,u,ü,er</td></tr></table>
 
 - Full表：与CVVChinse的23个韵尾一致，不进行简化。  
   Full list: Aligns with the 23 codas of CVVChinse and no simplification is applied. 
-- Lite表：合并双元音及鼻音的韵尾为 `:i` ，`:u`， `n`，`ng`，韵尾总数减少至14个。VCV表与Lite表的韵尾一致。  
-  Lite list: Merge the Endings of diphthongs and nasals into `:i`, `:u`, `n`, and `ng`; the total number of Endings is reduced to 14. VCV list has the same Endings as Lite list.  
-- Nano表：将`:u`与`u`合并，总数减少至13个。VCV_Nano表与Nano表的韵尾一致。  
-  Nano list: Merge `:u` with `u`; the total number of codas is reduced to 13. VCV_Nano list has the same Endings as Nano list.  
+- Lite表：合并双元音及鼻音的韵尾为 `ei` ，`ou`， `en`，`eng`，韵尾总数减少至14个。VCV表与Lite表的韵尾一致。  
+  Lite list: Merge the Endings of diphthongs and nasals into `ei`, `ou`, `en`, and `eng`; the total number of Endings is reduced to 14. VCV list has the same Endings as Lite list.  
+- Nano表：将`ou`与`u`合并，总数减少至13个。VCV_Nano表与Nano表的韵尾一致。  
+  Nano list: Merge `ou` with `u`; the total number of codas is reduced to 13. VCV_Nano list has the same Endings as Nano list.  
 
 ## VC部分，后一个音的开头(C) The VC Part, Beginning of the Next Sound (C)
 
 - 由于爆破音的VC中实际不包含辅音，因此以送气爆破音替代不送气爆破音，且不区分介母，合并开头相同的零声母元音。  
   Since the VCs of plosive sounds does not actually contain consonants, aspirated plosives are used as a substitute for unaspirated plosives. Additionally, Medials are not distinguished, and zero-initial vowels with the same initial segment are merged.
 
-- 简化后，辅音总数为18个(`c` `ch` `f` `h` `k` `l` `m` `n` `p` `q` `r` `s` `sh` `t` `v` `w` `x` `y`)，零声母元音总数为6个(`a` `A` `e` `ei` `@` `er`)，共计24个。  
-  After simplification, the total number of consonants is 18 (`c` `ch` `f` `h` `k` `l` `m` `n` `p` `q` `r` `s` `sh` `t` `v` `w` `x` `y`), and the total number of zero-initial vowels is 6 (`a` `A` `e` `ei` `@` `er`), totaling 24.
+- 简化后，辅音总数为18个(`c` `ch` `f` `h` `k` `l` `m` `n` `p` `q` `r` `s` `sh` `t` `V` `w` `x` `y`)，零声母元音总数为6个(`a` `ao` `e` `ei` `ou` `er`)，共计24个。  
+  After simplification, the total number of consonants is 18 (`c` `ch` `f` `h` `k` `l` `m` `n` `p` `q` `r` `s` `sh` `t` `V` `w` `x` `y`), and the total number of zero-initial vowels is 6 (`a` `ao` `e` `ei` `ou` `er`), totaling 24.
 
+  - 其中：`y`为`i` `ia` `ie` `iao` `iu`(iou) `ian` `in` `iang` `ing`单独作为音节时的辅音，`w`为`u` `ua` `uo/o` `uai` `ui`(uei) `uan`(uen) `un` `uang` `ueng` `ong`单独作为音节时的辅音，`V`为`v`(ü) `ue`(üe) `van`(üan) `vn`(ün) `iong`单独作为音节时的辅音。  
+    Where: `y` is the consonant when `i`, `ia`, `ie`, `iao`, `iu`(iou), `ian`, `in`, `iang`, `ing` stand alone as syllables; `w` is the consonant when `u`, `ua`, `uo/o`, `uai`, `ui`(uei), `uan`(uen), `un`, `uang`, `ueng`, `ong` stand alone as syllables; `V` is the consonant when `v`(ü), `ue`(üe), `van`(üan), `vn`(ün), `iong` stand alone as syllables.
