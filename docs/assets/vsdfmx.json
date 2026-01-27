@@ -123,7 +123,7 @@
         "o w",
         null,
         "ei sh",
-        "ei v"
+        "ei V"
       ]
     },
     "_duo_tuo_nuo_luo_guo_kuo_huo_e": {
@@ -359,7 +359,7 @@
     },
     "_yue_jue_que_xue_a_nue_lue_e": {
       "cv": [
-        "v ue",
+        "V ue",
         "j ue",
         "q ue",
         "x ue",
@@ -731,7 +731,7 @@
         "j v",
         "q v",
         "x v",
-        "v v",
+        "V v",
         "n v",
         "l v",
         null,
@@ -740,7 +740,7 @@
       "vc": [
         "v q",
         "v x",
-        null,
+        "v V",
         "v n",
         "v l",
         "v f",
@@ -753,7 +753,7 @@
         "ir p",
         "i ch",
         "ir w",
-        "u v",
+        "u V",
         "v t",
         "eng q",
         "i ao"
@@ -763,11 +763,11 @@
       "cv": null,
       "vc": [
         "v y",
-        "I v",
+        "I V",
         "v ch",
-        "o v",
+        "o V",
         "v sh",
-        "eng v",
+        "eng V",
         "v p"
       ]
     },
@@ -777,7 +777,7 @@
         "i0 e",
         "e a",
         "a e",
-        "e v",
+        "e V",
         "v a",
         "a  ei",
         "ei e"
@@ -864,7 +864,7 @@
     "_ci_yu_ou_po_qi_fen_xi_ei": {
       "cv": null,
       "vc": [
-        "i0 v",
+        "i0 V",
         "v ou",
         null,
         "o q",
@@ -939,16 +939,16 @@
         "eng er",
         "er x",
         "v m",
-        "en v"
+        "en V"
       ]
     },
     "_chi_yu_e_er_yu_wu_yi_a": {
       "cv": null,
       "vc": [
-        "ir v",
+        "ir V",
         "v e",
         "e er",
-        "er v",
+        "er V",
         "v w",
         "u y",
         "i a"
@@ -1016,7 +1016,7 @@
         "u  ei",
         null,
         "i0 a",
-        "a v",
+        "a V",
         "v ao"
       ]
     },
@@ -1028,7 +1028,7 @@
         "i  ei",
         null,
         "ir t",
-        "i v",
+        "i V",
         "v  ei"
       ]
     },
@@ -1197,7 +1197,7 @@
         "o w",
         null,
         "ei sh",
-        "ei v"
+        "ei V"
       ]
     },
     "_duo_tuo_nuo_luo_guo_kuo_huo_e": {
@@ -1433,7 +1433,7 @@
     },
     "_yue_jue_que_xue_a_nue_lue_e": {
       "cv": [
-        "v ue",
+        "V ue",
         "j ue",
         "q ue",
         "x ue",
@@ -1814,7 +1814,7 @@
         "j v",
         "q v",
         "x v",
-        "v v",
+        "V v",
         "n v",
         "l v",
         null,
@@ -1823,7 +1823,7 @@
       "vc": [
         "v q",
         "v x",
-        null,
+        "v V",
         "v n",
         "v l",
         "v f",
@@ -1836,7 +1836,7 @@
         "ir p",
         "i ch",
         "ir w",
-        "u v",
+        "u V",
         "v t",
         "eng q",
         "i ao"
@@ -1846,11 +1846,11 @@
       "cv": null,
       "vc": [
         "v y",
-        "I v",
+        "I V",
         "v ch",
-        "o v",
+        "o V",
         "v sh",
-        "eng v",
+        "eng V",
         "v p"
       ]
     },
@@ -1860,7 +1860,7 @@
         "i0 e",
         "e a",
         "a e",
-        "e v",
+        "e V",
         "v a",
         "a  ei",
         "ei e"
@@ -1880,7 +1880,7 @@
       "vc": [
         "e m",
         "e p",
-        "ou v",
+        "ou V",
         "v er",
         "er l",
         "a er",
@@ -1938,7 +1938,7 @@
     "_ci_yu_ou_po_qi_fen_xi_ei": {
       "cv": null,
       "vc": [
-        "i0 v",
+        "i0 V",
         "v ou",
         "ou p",
         "o q",
@@ -2004,16 +2004,16 @@
         "eng er",
         "er x",
         "v m",
-        "en v"
+        "en V"
       ]
     },
     "_chi_yu_e_er_yu_wu_yi_a": {
       "cv": null,
       "vc": [
-        "ir v",
+        "ir V",
         "v e",
         "e er",
-        "er v",
+        "er V",
         "v w",
         "u y",
         "i a"
@@ -2081,7 +2081,7 @@
         "u  ei",
         null,
         "i0 a",
-        "a v",
+        "a V",
         "v ao"
       ]
     },
@@ -2093,7 +2093,7 @@
         "i  ei",
         null,
         "ir t",
-        "i v",
+        "i V",
         "v  ei"
       ]
     },
@@ -2492,7 +2492,7 @@
         "ei k",
         "ei h",
         null,
-        "ei v",
+        "ei V",
         "vn a",
         null,
         "ei sh"
@@ -2584,7 +2584,7 @@
     },
     "_yue_ao_jue_a_que_en_xue_e": {
       "cv": [
-        "v ue",
+        "V ue",
         null,
         "j ue",
         null,
@@ -2615,7 +2615,7 @@
         null
       ],
       "vc": [
-        "i v",
+        "i V",
         "v  ei",
         "ei ou",
         null,
@@ -2647,13 +2647,13 @@
     },
     "_yuan_e_juan_ou_quan_ai_xuan_ao": {
       "cv": [
-        "v van",
+        "V Van",
         null,
-        "j van",
+        "j Van",
         null,
-        "q van",
+        "q Van",
         null,
-        "x van",
+        "x Van",
         null
       ],
       "vc": [
@@ -3118,7 +3118,7 @@
         "j v",
         "q v",
         "x v",
-        "v v",
+        "V v",
         "n v",
         "l v",
         null,
@@ -3127,10 +3127,10 @@
       "vc": [
         "v q",
         "v x",
-        "vn v",
+        "vn V",
         "v n",
         "v l",
-        null,
+        "v V",
         "vn e"
       ]
     },
@@ -3138,11 +3138,11 @@
       "cv": null,
       "vc": [
         "v p",
-        "an v",
+        "an V",
         "v m",
-        "ian v",
+        "ian V",
         "v t",
-        "ing v",
+        "ing V",
         "v f"
       ]
     },
@@ -3150,11 +3150,11 @@
       "cv": null,
       "vc": [
         "v y",
-        "I v",
+        "I V",
         "v ch",
-        "o v",
+        "o V",
         "v sh",
-        "eng v",
+        "eng V",
         "ian f"
       ]
     },
@@ -3164,9 +3164,9 @@
         "vn q",
         "vn x",
         "vn y",
-        "in v",
+        "in V",
         "vn p",
-        "ang v",
+        "ang V",
         "vn ou"
       ]
     },
@@ -3174,11 +3174,11 @@
       "cv": null,
       "vc": [
         "vn m",
-        "ai v",
+        "ai V",
         "vn f",
-        "en v",
+        "en V",
         "vn t",
-        "ao v",
+        "ao V",
         "vn k"
       ]
     },
@@ -3186,11 +3186,11 @@
       "cv": null,
       "vc": [
         "vn n",
-        "e v",
+        "e V",
         "vn l",
-        "u v",
+        "u V",
         "vn ch",
-        "ir v",
+        "ir V",
         "vn sh"
       ]
     },
@@ -3198,11 +3198,11 @@
       "cv": null,
       "vc": [
         "vn h",
-        "ong v",
+        "ong V",
         "vn r",
-        "ou v",
+        "ou V",
         "vn c",
-        "i0 v",
+        "i0 V",
         "vn s"
       ]
     },
@@ -3287,7 +3287,7 @@
         null
       ],
       "vc": [
-        "a v",
+        "a V",
         "v k",
         "u q",
         "v h",
@@ -3422,7 +3422,7 @@
     "_er_yun_er_heng_er_ei_er_chi": {
       "cv": null,
       "vc": [
-        "er v",
+        "er V",
         "vn er",
         "er h",
         "eng er",
