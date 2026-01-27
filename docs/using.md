@@ -39,5 +39,5 @@ WIP
 > 对于DeepVocal，由于其别名规则，音头的`A` `@`被重命名为`ao` `ou`，作为半元音的`v`(ü)被重命名为`V`，韵尾`:i` `:u` `n`被重命名为`-i` `-u` `-n`。  
 > For DeepVocal, due to its alias rules, the initials `A` and `@` are renamed to `ao` and `ou`; the semi-vowel `v` (ü) is renamed to `V`; and the Endings `:i`, `:u`, and `n` are renamed to `-i`, `-u`, and `-n` respectively.
 >
-> 对于VocalSharp，由于其别名规则，音头的`A` `@`被重命名为`ao` `ou`，作为半元音的`v`(ü)被重命名为`V`，韵尾`:i` `:u` `n` `ng`被重命名为`ei` `ou` `en` `eng`。作为介母的`i` `u` `v`(ü)从与元音结合改为与辅音结合，因此辅音数量有所增加。  
-> For VocalSharp, due to its alias rules, the initials `A` and `@` are renamed to `ao` and `ou`; the semi-vowel `v` (ü) is renamed to `V`; and the Endings `:i`, `:u`, `n`, and `ng` are renamed to `ei`, `ou`, `en`, and `eng` respectively. The medials `i`, `u` and `v` (ü) are shifted from combining with vowels to consonants, resulting in an increase in the number of consonants.
+> 对于VocalSharp，由于其别名规则，音头的`A` `@`被重命名为`ao` `ou`，作为半元音的`v`(ü)被重命名为`V`，韵尾`:i` `:u` `n` `ng`被重命名为`ei` `ou` `en` `eng`。  
+> For VocalSharp, due to its alias rules, the initials `A` and `@` are renamed to `ao` and `ou`; the semi-vowel `v` (ü) is renamed to `V`; and the Endings `:i`, `:u`, `n`, and `ng` are renamed to `ei`, `ou`, `en`, and `eng` respectively.  
