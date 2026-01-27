@@ -124,7 +124,7 @@ d ie,_bie_pie_mie_ye_die_tie_nie_lie.wav,3250,3300,3400,3650,3250
 t ie,_bie_pie_mie_ye_die_tie_nie_lie.wav,3750,3800,3900,4150,3750
 n ie,_bie_pie_mie_ye_die_tie_nie_lie.wav,4250,4300,4400,4650,4266
 l ie,_bie_pie_mie_ye_die_tie_nie_lie.wav,4750,4800,4900,5150,4766
-v ue,_yue_jue_que_xue_a_nue_lue_e.wav,1450,1450,1600,1850,1450
+V ue,_yue_jue_que_xue_a_nue_lue_e.wav,1450,1450,1600,1850,1450
 j ue,_yue_jue_que_xue_a_nue_lue_e.wav,1950,2000,2100,2350,1950
 q ue,_yue_jue_que_xue_a_nue_lue_e.wav,2450,2500,2600,2850,2450
 x ue,_yue_jue_que_xue_a_nue_lue_e.wav,2950,3000,3100,3350,2966
@@ -212,7 +212,7 @@ n ong,_dong_tong_nong_long_zhong_chong_yong_rong.wav,2450,2500,2600,2850,2466
 l ong,_dong_tong_nong_long_zhong_chong_yong_rong.wav,2950,3000,3100,3350,2966
 zh ong,_dong_tong_nong_long_zhong_chong_yong_rong.wav,3250,3300,3400,3650,3250
 ch ong,_dong_tong_nong_long_zhong_chong_yong_rong.wav,3750,3800,3900,4150,3750
-y iong,_dong_tong_nong_long_zhong_chong_yong_rong.wav,4250,4300,4400,4650,4250
+V iong,_dong_tong_nong_long_zhong_chong_yong_rong.wav,4250,4300,4400,4650,4250
 r ong,_dong_tong_nong_long_zhong_chong_yong_rong.wav,4750,4800,4900,5150,4766
 g ong,_gong_kong_si_hong_zong_zi_cong_song.wav,1450,1500,1600,1850,1450
 k ong,_gong_kong_si_hong_zong_zi_cong_song.wav,1950,2000,2100,2350,1950
@@ -243,7 +243,7 @@ y i,_ji_qi_xi_yi_fo_ei_a_ao.wav,2950,3000,3100,3350,2950
 j v,_ju_qu_xu_yu_nv_lv_fo_ao.wav,1450,1500,1600,1850,1450
 q v,_ju_qu_xu_yu_nv_lv_fo_ao.wav,1950,2000,2100,2350,1950
 x v,_ju_qu_xu_yu_nv_lv_fo_ao.wav,2450,2500,2600,2850,2466
-v v,_ju_qu_xu_yu_nv_lv_fo_ao.wav,2950,2950,3100,3350,2950
+V v,_ju_qu_xu_yu_nv_lv_fo_ao.wav,2950,2950,3100,3350,2950
 n v,_ju_qu_xu_yu_nv_lv_fo_ao.wav,3250,3300,3400,3650,3266
 l v,_ju_qu_xu_yu_nv_lv_fo_ao.wav,3750,3800,3900,4150,3766
 m e,_che_me_pei_ou_er_ken_er_a.wav,1950,2000,2100,2350,1966
@@ -296,7 +296,7 @@ o m,_bo_po_mo_fo_wan_zhei_shei_yu.wav,2200,2450,2500,2550,2300
 o f,_bo_po_mo_fo_wan_zhei_shei_yu.wav,2700,2950,3000,3050,2800
 o w,_bo_po_mo_fo_wan_zhei_shei_yu.wav,3200,3450,3500,3550,3300
 ei sh,_bo_po_mo_fo_wan_zhei_shei_yu.wav,4200,4450,4500,4550,4300
-ei v,_bo_po_mo_fo_wan_zhei_shei_yu.wav,4700,5000,5100,5300,4800
+ei V,_bo_po_mo_fo_wan_zhei_shei_yu.wav,4700,5000,5100,5300,4800
 o t,_duo_tuo_nuo_luo_guo_kuo_huo_e.wav,1700,1950,2000,2050,1800
 o n,_duo_tuo_nuo_luo_guo_kuo_huo_e.wav,2200,2450,2500,2550,2300
 o l,_duo_tuo_nuo_luo_guo_kuo_huo_e.wav,2700,2950,3000,3050,2800
@@ -417,6 +417,7 @@ ei a,_ji_qi_xi_yi_fo_ei_a_ao.wav,4200,4500,4600,4800,4300
 a ao,_ji_qi_xi_yi_fo_ei_a_ao.wav,4700,5000,5100,5300,4800
 v q,_ju_qu_xu_yu_nv_lv_fo_ao.wav,1700,1950,2000,2050,1800
 v x,_ju_qu_xu_yu_nv_lv_fo_ao.wav,2200,2450,2500,2550,2300
+v V,_ju_qu_xu_yu_nv_lv_fo_ao.wav,2700,3000,3100,3300,2800
 v n,_ju_qu_xu_yu_nv_lv_fo_ao.wav,3200,3450,3500,3550,3300
 v l,_ju_qu_xu_yu_nv_lv_fo_ao.wav,3700,3950,4000,4050,3800
 v f,_ju_qu_xu_yu_nv_lv_fo_ao.wav,4200,4450,4500,4550,4300
@@ -424,21 +425,21 @@ o ao,_ju_qu_xu_yu_nv_lv_fo_ao.wav,4700,5000,5100,5300,4800
 ir p,_chi_pie_chi_wu_yu_teng_qi_ao.wav,1700,1950,2000,2050,1800
 ie ch,_chi_pie_chi_wu_yu_teng_qi_ao.wav,2200,2450,2500,2550,2300
 ir w,_chi_pie_chi_wu_yu_teng_qi_ao.wav,2700,2950,3000,3050,2800
-u v,_chi_pie_chi_wu_yu_teng_qi_ao.wav,3200,3500,3600,3800,3300
+u V,_chi_pie_chi_wu_yu_teng_qi_ao.wav,3200,3500,3600,3800,3300
 v t,_chi_pie_chi_wu_yu_teng_qi_ao.wav,3700,3950,4000,4050,3800
 eng q,_chi_pie_chi_wu_yu_teng_qi_ao.wav,4200,4450,4500,4550,4300
 i ao,_chi_pie_chi_wu_yu_teng_qi_ao.wav,4700,5000,5100,5300,4800
 v y,_yu_yi_yu_chuo_yu_sheng_yu_pi.wav,1700,1950,2000,2050,1800
-I v,_yu_yi_yu_chuo_yu_sheng_yu_pi.wav,2200,2500,2600,2800,2300
+I V,_yu_yi_yu_chuo_yu_sheng_yu_pi.wav,2200,2500,2600,2800,2300
 v ch,_yu_yi_yu_chuo_yu_sheng_yu_pi.wav,2700,2950,3000,3050,2800
-o v,_yu_yi_yu_chuo_yu_sheng_yu_pi.wav,3200,3500,3600,3800,3300
+o V,_yu_yi_yu_chuo_yu_sheng_yu_pi.wav,3200,3500,3600,3800,3300
 v sh,_yu_yi_yu_chuo_yu_sheng_yu_pi.wav,3700,3950,4000,4050,3800
-eng v,_yu_yi_yu_chuo_yu_sheng_yu_pi.wav,4200,4500,4600,4800,4300
+eng V,_yu_yi_yu_chuo_yu_sheng_yu_pi.wav,4200,4500,4600,4800,4300
 v p,_yu_yi_yu_chuo_yu_sheng_yu_pi.wav,4700,4950,5000,5050,4800
 i0 e,_ci_e_a_e_yu_a_ei_e.wav,1700,2000,2100,2300,1800
 e a,_ci_e_a_e_yu_a_ei_e.wav,2200,2500,2600,2800,2300
 a e,_ci_e_a_e_yu_a_ei_e.wav,2700,3000,3100,3300,2800
-e v,_ci_e_a_e_yu_a_ei_e.wav,3200,3500,3600,3800,3300
+e V,_ci_e_a_e_yu_a_ei_e.wav,3200,3500,3600,3800,3300
 v a,_ci_e_a_e_yu_a_ei_e.wav,3700,4000,4100,4300,3800
 a ei,_ci_e_a_e_yu_a_ei_e.wav,4200,4500,4600,4800,4300
 ei e,_ci_e_a_e_yu_a_ei_e.wav,4700,5000,5100,5300,4800
@@ -475,7 +476,7 @@ v h,_en_qu_ku_qu_hu_xu_ru_ao.wav,3200,3450,3500,3550,3300
 u x,_en_qu_ku_qu_hu_xu_ru_ao.wav,3700,4000,4100,4300,3800
 v r,_en_qu_ku_qu_hu_xu_ru_ao.wav,4200,4450,4500,4550,4300
 u ao,_en_qu_ku_qu_hu_xu_ru_ao.wav,4700,5000,5100,5300,4800
-i0 v,_ci_yu_ou_po_qie_fen_xie_ei.wav,1700,2000,2100,2300,1800
+i0 V,_ci_yu_ou_po_qie_fen_xie_ei.wav,1700,2000,2100,2300,1800
 v ou,_ci_yu_ou_po_qie_fen_xie_ei.wav,2200,2500,2600,2800,2300
 o q,_ci_yu_ou_po_qie_fen_xie_ei.wav,3200,3450,3500,3550,3300
 ie f,_ci_yu_ou_po_qie_fen_xie_ei.wav,3700,3950,4000,4050,3800
@@ -508,11 +509,11 @@ er h,_er_ci_er_heng_er_xu_men_yu.wav,2700,2950,3000,3050,2800
 eng er,_er_ci_er_heng_er_xu_men_yu.wav,3200,3500,3600,3800,3300
 er x,_er_ci_er_heng_er_xu_men_yu.wav,3700,3950,4000,4050,3800
 v m,_er_ci_er_heng_er_xu_men_yu.wav,4200,4450,4500,4550,4300
-en v,_er_ci_er_heng_er_xu_men_yu.wav,4700,5000,5100,5300,4800
-ir v,_chi_yu_e_er_yu_wu_yi_a.wav,1700,2000,2100,2300,1800
+en V,_er_ci_er_heng_er_xu_men_yu.wav,4700,5000,5100,5300,4800
+ir V,_chi_yu_e_er_yu_wu_yi_a.wav,1700,2000,2100,2300,1800
 v e,_chi_yu_e_er_yu_wu_yi_a.wav,2200,2500,2600,2800,2300
 e er,_chi_yu_e_er_yu_wu_yi_a.wav,2700,3000,3100,3300,2800
-er v,_chi_yu_e_er_yu_wu_yi_a.wav,3200,3500,3600,3800,3300
+er V,_chi_yu_e_er_yu_wu_yi_a.wav,3200,3500,3600,3800,3300
 v w,_chi_yu_e_er_yu_wu_yi_a.wav,3700,3950,4000,4050,3800
 u y,_chi_yu_e_er_yu_wu_yi_a.wav,4200,4450,4500,4550,4300
 i a,_chi_yu_e_er_yu_wu_yi_a.wav,4700,5000,5100,5300,4800
@@ -540,13 +541,13 @@ i0 t,_ci_tie_wu_ei_ci_a_yu_ao.wav,1700,1950,2000,2050,1800
 ie w,_ci_tie_wu_ei_ci_a_yu_ao.wav,2200,2450,2500,2550,2300
 u ei,_ci_tie_wu_ei_ci_a_yu_ao.wav,2700,3000,3100,3300,2800
 i0 a,_ci_tie_wu_ei_ci_a_yu_ao.wav,3700,4000,4100,4300,3800
-a v,_ci_tie_wu_ei_ci_a_yu_ao.wav,4200,4500,4600,4800,4300
+a V,_ci_tie_wu_ei_ci_a_yu_ao.wav,4200,4500,4600,4800,4300
 v ao,_ci_tie_wu_ei_ci_a_yu_ao.wav,4200,4500,4600,4800,4300
 ir f,_shi_fo_yi_ei_chi_tie_yu_ei.wav,1700,1950,2000,2050,1800
 o y,_shi_fo_yi_ei_chi_tie_yu_ei.wav,2200,2450,2500,2550,2300
 i ei,_shi_fo_yi_ei_chi_tie_yu_ei.wav,2700,3000,3100,3300,2800
 ir t,_shi_fo_yi_ei_chi_tie_yu_ei.wav,3700,3950,4000,4050,3800
-ie v,_shi_fo_yi_ei_chi_tie_yu_ei.wav,4200,4500,4600,4800,4300
+ie V,_shi_fo_yi_ei_chi_tie_yu_ei.wav,4200,4500,4600,4800,4300
 v ei,_shi_fo_yi_ei_chi_tie_yu_ei.wav,4700,5000,5100,5300,4800
 ir n,_shi_nie_shi_li_shi_xu_si_wu.wav,1700,1950,2000,2050,1800
 ie sh,_shi_nie_shi_li_shi_xu_si_wu.wav,2200,2450,2500,2550,2300
@@ -786,15 +787,15 @@ r uai,#r ua,0,0,0,0,0
 z uai,#z ua,0,0,0,0,0
 c uai,#c ua,0,0,0,0,0
 s uai,#s ua,0,0,0,0,0
-b ui,#b o,0,0,0,0,0
-p ui,#p o,0,0,0,0,0
-m ui,#m o,0,0,0,0,0
-f ui,#f o,0,0,0,0,0
-n ui,#n o,0,0,0,0,0
-l ui,#l o,0,0,0,0,0
-j ui,#j iu,0,0,0,0,0
-q ui,#q iu,0,0,0,0,0
-x ui,#x iu,0,0,0,0,0
+b iu,#b o,0,0,0,0,0
+p iu,#p o,0,0,0,0,0
+m iu,#m o,0,0,0,0,0
+f iu,#f o,0,0,0,0,0
+n iu,#n o,0,0,0,0,0
+l iu,#l o,0,0,0,0,0
+j iu,#j iu,0,0,0,0,0
+q iu,#q iu,0,0,0,0,0
+x iu,#x iu,0,0,0,0,0
 b uan,#b o,0,0,0,0,0
 p uan,#p o,0,0,0,0,0
 m uan,#m o,0,0,0,0,0
@@ -862,10 +863,12 @@ r iong,#r ou,0,0,0,0,0
 z iong,#z ou,0,0,0,0,0
 c iong,#c ou,0,0,0,0,0
 s iong,#s ou,0,0,0,0,0
+ o,#w o,0,0,0,0,0
  ai,# a,0,0,0,0,0
  an,# a,0,0,0,0,0
  en,# ou,0,0,0,0,0
  ang,# ao,0,0,0,0,0
+ ong,#w o,0,0,0,0,0
  eng,# ou,0,0,0,0,0
 y iai,#y ia,0,0,0,0,0
 y ian,#y ie,0,0,0,0,0
@@ -876,8 +879,8 @@ w uai,#w ua,0,0,0,0,0
 w uan,#w ua,0,0,0,0,0
 w ueng,#w un,0,0,0,0,0
 w ong,#w un,0,0,0,0,0
-v van,#v ue,0,0,0,0,0
-v vn,#v v,0,0,0,0,0
+V van,#V ue,0,0,0,0,0
+V vn,#V v,0,0,0,0,0
 a b,#a p,0,0,0,0,0
 a d,#a t,0,0,0,0,0
 a g,#a k,0,0,0,0,0
@@ -907,6 +910,7 @@ ai x,#ei x,0,0,0,0,0
 ai y,#ei y,0,0,0,0,0
 ai z,#ei c,0,0,0,0,0
 ai zh,#ei ch,0,0,0,0,0
+ai V,#ei V,0,0,0,0,0
 an b,#en p,0,0,0,0,0
 an c,#en c,0,0,0,0,0
 an ch,#en ch,0,0,0,0,0
@@ -930,6 +934,7 @@ an x,#en x,0,0,0,0,0
 an y,#en y,0,0,0,0,0
 an z,#en c,0,0,0,0,0
 an zh,#en ch,0,0,0,0,0
+an V,#en V,0,0,0,0,0
 ang b,#eng p,0,0,0,0,0
 ang c,#eng c,0,0,0,0,0
 ang ch,#eng ch,0,0,0,0,0
@@ -953,6 +958,7 @@ ang x,#eng x,0,0,0,0,0
 ang y,#eng y,0,0,0,0,0
 ang z,#eng c,0,0,0,0,0
 ang zh,#eng ch,0,0,0,0,0
+ang V,#eng V,0,0,0,0,0
 ao b,#u p,0,0,0,0,0
 ao c,#u c,0,0,0,0,0
 ao ch,#u ch,0,0,0,0,0
@@ -976,6 +982,7 @@ ao x,#u x,0,0,0,0,0
 ao y,#u y,0,0,0,0,0
 ao z,#u c,0,0,0,0,0
 ao zh,#u ch,0,0,0,0,0
+ao V,#u V,0,0,0,0,0
 e b,#e p,0,0,0,0,0
 e d,#e t,0,0,0,0,0
 e g,#e k,0,0,0,0,0
@@ -1041,6 +1048,7 @@ ia x,#a x,0,0,0,0,0
 ia y,#a y,0,0,0,0,0
 ia z,#a c,0,0,0,0,0
 ia zh,#a ch,0,0,0,0,0
+ia V,#a V,0,0,0,0,0
 iai b,#ei p,0,0,0,0,0
 iai c,#ei c,0,0,0,0,0
 iai ch,#ei ch,0,0,0,0,0
@@ -1064,6 +1072,7 @@ iai x,#ei x,0,0,0,0,0
 iai y,#ei y,0,0,0,0,0
 iai z,#ei c,0,0,0,0,0
 iai zh,#ei ch,0,0,0,0,0
+iai V,#ei V,0,0,0,0,0
 ian b,#en p,0,0,0,0,0
 ian c,#en c,0,0,0,0,0
 ian ch,#en ch,0,0,0,0,0
@@ -1087,6 +1096,7 @@ ian x,#en x,0,0,0,0,0
 ian y,#en y,0,0,0,0,0
 ian z,#en c,0,0,0,0,0
 ian zh,#en ch,0,0,0,0,0
+ian V,#en V,0,0,0,0,0
 iang b,#eng p,0,0,0,0,0
 iang c,#eng c,0,0,0,0,0
 iang ch,#eng ch,0,0,0,0,0
@@ -1110,6 +1120,7 @@ iang x,#eng x,0,0,0,0,0
 iang y,#eng y,0,0,0,0,0
 iang z,#eng c,0,0,0,0,0
 iang zh,#eng ch,0,0,0,0,0
+iang V,#eng V,0,0,0,0,0
 iao b,#u p,0,0,0,0,0
 iao c,#u c,0,0,0,0,0
 iao ch,#u ch,0,0,0,0,0
@@ -1133,6 +1144,7 @@ iao x,#u x,0,0,0,0,0
 iao y,#u y,0,0,0,0,0
 iao z,#u c,0,0,0,0,0
 iao zh,#u ch,0,0,0,0,0
+iao V,#u V,0,0,0,0,0
 ie b,#ie p,0,0,0,0,0
 ie d,#ie t,0,0,0,0,0
 ie g,#ie k,0,0,0,0,0
@@ -1162,6 +1174,7 @@ in x,#ei x,0,0,0,0,0
 in y,#ei y,0,0,0,0,0
 in z,#ei c,0,0,0,0,0
 in zh,#ei ch,0,0,0,0,0
+in V,#ei V,0,0,0,0,0
 ing b,#eng p,0,0,0,0,0
 ing c,#eng c,0,0,0,0,0
 ing ch,#eng ch,0,0,0,0,0
@@ -1185,6 +1198,7 @@ ing x,#eng x,0,0,0,0,0
 ing y,#eng y,0,0,0,0,0
 ing z,#eng c,0,0,0,0,0
 ing zh,#eng ch,0,0,0,0,0
+ing V,#eng V,0,0,0,0,0
 iong b,#eng p,0,0,0,0,0
 iong c,#eng c,0,0,0,0,0
 iong ch,#eng ch,0,0,0,0,0
@@ -1208,6 +1222,7 @@ iong x,#eng x,0,0,0,0,0
 iong y,#eng y,0,0,0,0,0
 iong z,#eng c,0,0,0,0,0
 iong zh,#eng ch,0,0,0,0,0
+iong V,#eng V,0,0,0,0,0
 ir b,#ir p,0,0,0,0,0
 ir d,#ir t,0,0,0,0,0
 ir g,#ir k,0,0,0,0,0
@@ -1237,6 +1252,7 @@ iu x,#u x,0,0,0,0,0
 iu y,#u y,0,0,0,0,0
 iu z,#u c,0,0,0,0,0
 iu zh,#u ch,0,0,0,0,0
+iu V,#u V,0,0,0,0,0
 o b,#o p,0,0,0,0,0
 o d,#o t,0,0,0,0,0
 o g,#o k,0,0,0,0,0
@@ -1266,6 +1282,7 @@ ong x,#eng x,0,0,0,0,0
 ong y,#eng y,0,0,0,0,0
 ong z,#eng c,0,0,0,0,0
 ong zh,#eng ch,0,0,0,0,0
+ong V,#eng V,0,0,0,0,0
 ou b,#u p,0,0,0,0,0
 ou c,#u c,0,0,0,0,0
 ou ch,#u ch,0,0,0,0,0
@@ -1289,6 +1306,7 @@ ou x,#u x,0,0,0,0,0
 ou y,#u y,0,0,0,0,0
 ou z,#u c,0,0,0,0,0
 ou zh,#u ch,0,0,0,0,0
+ou V,#u V,0,0,0,0,0
 u b,#u p,0,0,0,0,0
 u d,#u t,0,0,0,0,0
 u g,#u k,0,0,0,0,0
@@ -1318,6 +1336,7 @@ ua x,#a x,0,0,0,0,0
 ua y,#a y,0,0,0,0,0
 ua z,#a c,0,0,0,0,0
 ua zh,#a ch,0,0,0,0,0
+ua V,#a V,0,0,0,0,0
 uai b,#ei p,0,0,0,0,0
 uai c,#ei c,0,0,0,0,0
 uai ch,#ei ch,0,0,0,0,0
@@ -1341,6 +1360,7 @@ uai x,#ei x,0,0,0,0,0
 uai y,#ei y,0,0,0,0,0
 uai z,#ei c,0,0,0,0,0
 uai zh,#ei ch,0,0,0,0,0
+uai V,#ei V,0,0,0,0,0
 uan b,#en p,0,0,0,0,0
 uan c,#en c,0,0,0,0,0
 uan ch,#en ch,0,0,0,0,0
@@ -1364,6 +1384,7 @@ uan x,#en x,0,0,0,0,0
 uan y,#en y,0,0,0,0,0
 uan z,#en c,0,0,0,0,0
 uan zh,#en ch,0,0,0,0,0
+uan V,#en V,0,0,0,0,0
 uang b,#eng p,0,0,0,0,0
 uang c,#eng c,0,0,0,0,0
 uang ch,#eng ch,0,0,0,0,0
@@ -1387,6 +1408,7 @@ uang x,#eng x,0,0,0,0,0
 uang y,#eng y,0,0,0,0,0
 uang z,#eng c,0,0,0,0,0
 uang zh,#eng ch,0,0,0,0,0
+uang V,#eng V,0,0,0,0,0
 ue b,#ie p,0,0,0,0,0
 ue c,#ie c,0,0,0,0,0
 ue ch,#ie ch,0,0,0,0,0
@@ -1410,6 +1432,7 @@ ue x,#ie x,0,0,0,0,0
 ue y,#ie y,0,0,0,0,0
 ue z,#ie c,0,0,0,0,0
 ue zh,#ie ch,0,0,0,0,0
+ue V,#ie V,0,0,0,0,0
 ueng b,#eng p,0,0,0,0,0
 ueng c,#eng c,0,0,0,0,0
 ueng ch,#eng ch,0,0,0,0,0
@@ -1433,6 +1456,7 @@ ueng x,#eng x,0,0,0,0,0
 ueng y,#eng y,0,0,0,0,0
 ueng z,#eng c,0,0,0,0,0
 ueng zh,#eng ch,0,0,0,0,0
+ueng V,#eng V,0,0,0,0,0
 ui b,#ei p,0,0,0,0,0
 ui c,#ei c,0,0,0,0,0
 ui ch,#ei ch,0,0,0,0,0
@@ -1456,6 +1480,7 @@ ui x,#ei x,0,0,0,0,0
 ui y,#ei y,0,0,0,0,0
 ui z,#ei c,0,0,0,0,0
 ui zh,#ei ch,0,0,0,0,0
+ui V,#ei V,0,0,0,0,0
 un b,#en p,0,0,0,0,0
 un c,#en c,0,0,0,0,0
 un ch,#en ch,0,0,0,0,0
@@ -1479,6 +1504,7 @@ un x,#en x,0,0,0,0,0
 un y,#en y,0,0,0,0,0
 un z,#en c,0,0,0,0,0
 un zh,#en ch,0,0,0,0,0
+un V,#en V,0,0,0,0,0
 v b,#v p,0,0,0,0,0
 v d,#v t,0,0,0,0,0
 v g,#v k,0,0,0,0,0
@@ -1508,6 +1534,7 @@ van x,#en x,0,0,0,0,0
 van y,#en y,0,0,0,0,0
 van z,#en c,0,0,0,0,0
 van zh,#en ch,0,0,0,0,0
+van V,#en V,0,0,0,0,0
 vn b,#en p,0,0,0,0,0
 vn c,#en c,0,0,0,0,0
 vn ch,#en ch,0,0,0,0,0
@@ -1531,6 +1558,7 @@ vn x,#en x,0,0,0,0,0
 vn y,#en y,0,0,0,0,0
 vn z,#en c,0,0,0,0,0
 vn zh,#en ch,0,0,0,0,0
+vn V,#en V,0,0,0,0,0
  b,# p,0,0,0,0,0
  d,# t,0,0,0,0,0
  g,# k,0,0,0,0,0
@@ -1542,30 +1570,6 @@ a an,#a a,0,0,0,0,0
 a ang,#a ao,0,0,0,0,0
 a en,#a ou,0,0,0,0,0
 a eng,#a ou,0,0,0,0,0
-a i,#a y,0,0,0,0,0
-a ia,#a y,0,0,0,0,0
-a iai,#a y,0,0,0,0,0
-a ian,#a y,0,0,0,0,0
-a iang,#a y,0,0,0,0,0
-a iao,#a y,0,0,0,0,0
-a ie,#a y,0,0,0,0,0
-a in,#a y,0,0,0,0,0
-a ing,#a y,0,0,0,0,0
-a iong,#a y,0,0,0,0,0
-a iu,#a y,0,0,0,0,0
-a o,#a w,0,0,0,0,0
-a ong,#a w,0,0,0,0,0
-a u,#a w,0,0,0,0,0
-a ua,#a w,0,0,0,0,0
-a uai,#a w,0,0,0,0,0
-a uan,#a w,0,0,0,0,0
-a uang,#a w,0,0,0,0,0
-a ue,#a v,0,0,0,0,0
-a ueng,#a w,0,0,0,0,0
-a ui,#a w,0,0,0,0,0
-a un,#a w,0,0,0,0,0
-a van,#a v,0,0,0,0,0
-a vn,#a v,0,0,0,0,0
 ai a,#ei a,0,0,0,0,0
 ai ai,#ei a,0,0,0,0,0
 ai an,#ei a,0,0,0,0,0
@@ -1576,32 +1580,7 @@ ai ei,#ei ei,0,0,0,0,0
 ai en,#ei ou,0,0,0,0,0
 ai eng,#ei ou,0,0,0,0,0
 ai er,#ei er,0,0,0,0,0
-ai i,#ei y,0,0,0,0,0
-ai ia,#ei y,0,0,0,0,0
-ai iai,#ei y,0,0,0,0,0
-ai ian,#ei y,0,0,0,0,0
-ai iang,#ei y,0,0,0,0,0
-ai iao,#ei y,0,0,0,0,0
-ai ie,#ei y,0,0,0,0,0
-ai in,#ei y,0,0,0,0,0
-ai ing,#ei y,0,0,0,0,0
-ai iong,#ei y,0,0,0,0,0
-ai iu,#ei y,0,0,0,0,0
-ai o,#ei w,0,0,0,0,0
-ai ong,#ei w,0,0,0,0,0
 ai ou,#ei ou,0,0,0,0,0
-ai u,#ei w,0,0,0,0,0
-ai ua,#ei w,0,0,0,0,0
-ai uai,#ei w,0,0,0,0,0
-ai uan,#ei w,0,0,0,0,0
-ai uang,#ei w,0,0,0,0,0
-ai ue,#ei v,0,0,0,0,0
-ai ueng,#ei w,0,0,0,0,0
-ai ui,#ei w,0,0,0,0,0
-ai un,#ei w,0,0,0,0,0
-ai v,#ei v,0,0,0,0,0
-ai van,#ei v,0,0,0,0,0
-ai vn,#ei v,0,0,0,0,0
 an a,#en a,0,0,0,0,0
 an ai,#en a,0,0,0,0,0
 an an,#en a,0,0,0,0,0
@@ -1612,32 +1591,7 @@ an ei,#en ei,0,0,0,0,0
 an en,#en ou,0,0,0,0,0
 an eng,#en ou,0,0,0,0,0
 an er,#en er,0,0,0,0,0
-an i,#en y,0,0,0,0,0
-an ia,#en y,0,0,0,0,0
-an iai,#en y,0,0,0,0,0
-an ian,#en y,0,0,0,0,0
-an iang,#en y,0,0,0,0,0
-an iao,#en y,0,0,0,0,0
-an ie,#en y,0,0,0,0,0
-an in,#en y,0,0,0,0,0
-an ing,#en y,0,0,0,0,0
-an iong,#en y,0,0,0,0,0
-an iu,#en y,0,0,0,0,0
-an o,#en w,0,0,0,0,0
-an ong,#en w,0,0,0,0,0
 an ou,#en ou,0,0,0,0,0
-an u,#en w,0,0,0,0,0
-an ua,#en w,0,0,0,0,0
-an uai,#en w,0,0,0,0,0
-an uan,#en w,0,0,0,0,0
-an uang,#en w,0,0,0,0,0
-an ue,#en v,0,0,0,0,0
-an ueng,#en w,0,0,0,0,0
-an ui,#en w,0,0,0,0,0
-an un,#en w,0,0,0,0,0
-an v,#en v,0,0,0,0,0
-an van,#en v,0,0,0,0,0
-an vn,#en v,0,0,0,0,0
 ang a,#eng a,0,0,0,0,0
 ang ai,#eng a,0,0,0,0,0
 ang an,#eng a,0,0,0,0,0
@@ -1648,32 +1602,7 @@ ang ei,#eng ei,0,0,0,0,0
 ang en,#eng ou,0,0,0,0,0
 ang eng,#eng ou,0,0,0,0,0
 ang er,#eng er,0,0,0,0,0
-ang i,#eng y,0,0,0,0,0
-ang ia,#eng y,0,0,0,0,0
-ang iai,#eng y,0,0,0,0,0
-ang ian,#eng y,0,0,0,0,0
-ang iang,#eng y,0,0,0,0,0
-ang iao,#eng y,0,0,0,0,0
-ang ie,#eng y,0,0,0,0,0
-ang in,#eng y,0,0,0,0,0
-ang ing,#eng y,0,0,0,0,0
-ang iong,#eng y,0,0,0,0,0
-ang iu,#eng y,0,0,0,0,0
-ang o,#eng w,0,0,0,0,0
-ang ong,#eng w,0,0,0,0,0
 ang ou,#eng ou,0,0,0,0,0
-ang u,#eng w,0,0,0,0,0
-ang ua,#eng w,0,0,0,0,0
-ang uai,#eng w,0,0,0,0,0
-ang uan,#eng w,0,0,0,0,0
-ang uang,#eng w,0,0,0,0,0
-ang ue,#eng v,0,0,0,0,0
-ang ueng,#eng w,0,0,0,0,0
-ang ui,#eng w,0,0,0,0,0
-ang un,#eng w,0,0,0,0,0
-ang v,#eng v,0,0,0,0,0
-ang van,#eng v,0,0,0,0,0
-ang vn,#eng v,0,0,0,0,0
 ao a,#u a,0,0,0,0,0
 ao ai,#u a,0,0,0,0,0
 ao an,#u a,0,0,0,0,0
@@ -1684,235 +1613,42 @@ ao ei,#u ei,0,0,0,0,0
 ao en,#u ou,0,0,0,0,0
 ao eng,#u ou,0,0,0,0,0
 ao er,#u er,0,0,0,0,0
-ao i,#u y,0,0,0,0,0
-ao ia,#u y,0,0,0,0,0
-ao iai,#u y,0,0,0,0,0
-ao ian,#u y,0,0,0,0,0
-ao iang,#u y,0,0,0,0,0
-ao iao,#u y,0,0,0,0,0
-ao ie,#u y,0,0,0,0,0
-ao in,#u y,0,0,0,0,0
-ao ing,#u y,0,0,0,0,0
-ao iong,#u y,0,0,0,0,0
-ao iu,#u y,0,0,0,0,0
-ao o,#u w,0,0,0,0,0
-ao ong,#u w,0,0,0,0,0
 ao ou,#u ou,0,0,0,0,0
-ao u,#u w,0,0,0,0,0
-ao ua,#u w,0,0,0,0,0
-ao uai,#u w,0,0,0,0,0
-ao uan,#u w,0,0,0,0,0
-ao uang,#u w,0,0,0,0,0
-ao ue,#u v,0,0,0,0,0
-ao ueng,#u w,0,0,0,0,0
-ao ui,#u w,0,0,0,0,0
-ao un,#u w,0,0,0,0,0
-ao v,#u v,0,0,0,0,0
-ao van,#u v,0,0,0,0,0
-ao vn,#u v,0,0,0,0,0
 e ai,#e a,0,0,0,0,0
 e an,#e a,0,0,0,0,0
 e ang,#e ao,0,0,0,0,0
 e en,#e ou,0,0,0,0,0
 e eng,#e ou,0,0,0,0,0
-e i,#e y,0,0,0,0,0
-e ia,#e y,0,0,0,0,0
-e iai,#e y,0,0,0,0,0
-e ian,#e y,0,0,0,0,0
-e iang,#e y,0,0,0,0,0
-e iao,#e y,0,0,0,0,0
-e ie,#e y,0,0,0,0,0
-e in,#e y,0,0,0,0,0
-e ing,#e y,0,0,0,0,0
-e iong,#e y,0,0,0,0,0
-e iu,#e y,0,0,0,0,0
-e o,#e w,0,0,0,0,0
-e ong,#e w,0,0,0,0,0
-e u,#e w,0,0,0,0,0
-e ua,#e w,0,0,0,0,0
-e uai,#e w,0,0,0,0,0
-e uan,#e w,0,0,0,0,0
-e uang,#e w,0,0,0,0,0
-e ue,#e v,0,0,0,0,0
-e ueng,#e w,0,0,0,0,0
-e ui,#e w,0,0,0,0,0
-e un,#e w,0,0,0,0,0
-e van,#e v,0,0,0,0,0
-e vn,#e v,0,0,0,0,0
 ei ai,#ei a,0,0,0,0,0
 ei an,#ei a,0,0,0,0,0
 ei ang,#ei ao,0,0,0,0,0
 ei en,#ei ou,0,0,0,0,0
 ei eng,#ei ou,0,0,0,0,0
-ei i,#ei y,0,0,0,0,0
-ei ia,#ei y,0,0,0,0,0
-ei iai,#ei y,0,0,0,0,0
-ei ian,#ei y,0,0,0,0,0
-ei iang,#ei y,0,0,0,0,0
-ei iao,#ei y,0,0,0,0,0
-ei ie,#ei y,0,0,0,0,0
-ei in,#ei y,0,0,0,0,0
-ei ing,#ei y,0,0,0,0,0
-ei iong,#ei y,0,0,0,0,0
-ei iu,#ei y,0,0,0,0,0
-ei o,#ei w,0,0,0,0,0
-ei ong,#ei w,0,0,0,0,0
-ei u,#ei w,0,0,0,0,0
-ei ua,#ei w,0,0,0,0,0
-ei uai,#ei w,0,0,0,0,0
-ei uan,#ei w,0,0,0,0,0
-ei uang,#ei w,0,0,0,0,0
-ei ue,#ei v,0,0,0,0,0
-ei ueng,#ei w,0,0,0,0,0
-ei ui,#ei w,0,0,0,0,0
-ei un,#ei w,0,0,0,0,0
-ei van,#ei v,0,0,0,0,0
-ei vn,#ei v,0,0,0,0,0
 en ai,#en a,0,0,0,0,0
 en an,#en a,0,0,0,0,0
 en ang,#en ao,0,0,0,0,0
 en en,#en ou,0,0,0,0,0
 en eng,#en ou,0,0,0,0,0
-en i,#en y,0,0,0,0,0
-en ia,#en y,0,0,0,0,0
-en iai,#en y,0,0,0,0,0
-en ian,#en y,0,0,0,0,0
-en iang,#en y,0,0,0,0,0
-en iao,#en y,0,0,0,0,0
-en ie,#en y,0,0,0,0,0
-en in,#en y,0,0,0,0,0
-en ing,#en y,0,0,0,0,0
-en iong,#en y,0,0,0,0,0
-en iu,#en y,0,0,0,0,0
-en o,#en w,0,0,0,0,0
-en ong,#en w,0,0,0,0,0
-en u,#en w,0,0,0,0,0
-en ua,#en w,0,0,0,0,0
-en uai,#en w,0,0,0,0,0
-en uan,#en w,0,0,0,0,0
-en uang,#en w,0,0,0,0,0
-en ue,#en v,0,0,0,0,0
-en ueng,#en w,0,0,0,0,0
-en ui,#en w,0,0,0,0,0
-en un,#en w,0,0,0,0,0
-en van,#en v,0,0,0,0,0
-en vn,#en v,0,0,0,0,0
 eng ai,#eng a,0,0,0,0,0
 eng an,#eng a,0,0,0,0,0
 eng ang,#eng ao,0,0,0,0,0
 eng en,#eng ou,0,0,0,0,0
 eng eng,#eng ou,0,0,0,0,0
-eng i,#eng y,0,0,0,0,0
-eng ia,#eng y,0,0,0,0,0
-eng iai,#eng y,0,0,0,0,0
-eng ian,#eng y,0,0,0,0,0
-eng iang,#eng y,0,0,0,0,0
-eng iao,#eng y,0,0,0,0,0
-eng ie,#eng y,0,0,0,0,0
-eng in,#eng y,0,0,0,0,0
-eng ing,#eng y,0,0,0,0,0
-eng iong,#eng y,0,0,0,0,0
-eng iu,#eng y,0,0,0,0,0
-eng o,#eng w,0,0,0,0,0
-eng ong,#eng w,0,0,0,0,0
-eng u,#eng w,0,0,0,0,0
-eng ua,#eng w,0,0,0,0,0
-eng uai,#eng w,0,0,0,0,0
-eng uan,#eng w,0,0,0,0,0
-eng uang,#eng w,0,0,0,0,0
-eng ue,#eng v,0,0,0,0,0
-eng ueng,#eng w,0,0,0,0,0
-eng ui,#eng w,0,0,0,0,0
-eng un,#eng w,0,0,0,0,0
-eng van,#eng v,0,0,0,0,0
-eng vn,#eng v,0,0,0,0,0
 er ai,#er a,0,0,0,0,0
 er an,#er a,0,0,0,0,0
 er ang,#er ao,0,0,0,0,0
 er en,#er ou,0,0,0,0,0
 er eng,#er ou,0,0,0,0,0
-er i,#er y,0,0,0,0,0
-er ia,#er y,0,0,0,0,0
-er iai,#er y,0,0,0,0,0
-er ian,#er y,0,0,0,0,0
-er iang,#er y,0,0,0,0,0
-er iao,#er y,0,0,0,0,0
-er ie,#er y,0,0,0,0,0
-er in,#er y,0,0,0,0,0
-er ing,#er y,0,0,0,0,0
-er iong,#er y,0,0,0,0,0
-er iu,#er y,0,0,0,0,0
-er o,#er w,0,0,0,0,0
-er ong,#er w,0,0,0,0,0
-er u,#er w,0,0,0,0,0
-er ua,#er w,0,0,0,0,0
-er uai,#er w,0,0,0,0,0
-er uan,#er w,0,0,0,0,0
-er uang,#er w,0,0,0,0,0
-er ue,#er v,0,0,0,0,0
-er ueng,#er w,0,0,0,0,0
-er ui,#er w,0,0,0,0,0
-er un,#er w,0,0,0,0,0
-er van,#er v,0,0,0,0,0
-er vn,#er v,0,0,0,0,0
 i ai,#i a,0,0,0,0,0
 i an,#i a,0,0,0,0,0
 i ang,#i ao,0,0,0,0,0
 i en,#i ou,0,0,0,0,0
 i eng,#i ou,0,0,0,0,0
-i i,#i y,0,0,0,0,0
-i ia,#i y,0,0,0,0,0
-i iai,#i y,0,0,0,0,0
-i ian,#i y,0,0,0,0,0
-i iang,#i y,0,0,0,0,0
-i iao,#i y,0,0,0,0,0
-i ie,#i y,0,0,0,0,0
-i in,#i y,0,0,0,0,0
-i ing,#i y,0,0,0,0,0
-i iong,#i y,0,0,0,0,0
-i iu,#i y,0,0,0,0,0
-i o,#i w,0,0,0,0,0
-i ong,#i w,0,0,0,0,0
-i u,#i w,0,0,0,0,0
-i ua,#i w,0,0,0,0,0
-i uai,#i w,0,0,0,0,0
-i uan,#i w,0,0,0,0,0
-i uang,#i w,0,0,0,0,0
-i ue,#i v,0,0,0,0,0
-i ueng,#i w,0,0,0,0,0
-i ui,#i w,0,0,0,0,0
-i un,#i w,0,0,0,0,0
-i van,#i v,0,0,0,0,0
-i vn,#i v,0,0,0,0,0
 i0 ai,#i0 a,0,0,0,0,0
 i0 an,#i0 a,0,0,0,0,0
 i0 ang,#i0 ao,0,0,0,0,0
 i0 en,#i0 ou,0,0,0,0,0
 i0 eng,#i0 ou,0,0,0,0,0
-i0 i,#i0 y,0,0,0,0,0
-i0 ia,#i0 y,0,0,0,0,0
-i0 iai,#i0 y,0,0,0,0,0
-i0 ian,#i0 y,0,0,0,0,0
-i0 iang,#i0 y,0,0,0,0,0
-i0 iao,#i0 y,0,0,0,0,0
-i0 ie,#i0 y,0,0,0,0,0
-i0 in,#i0 y,0,0,0,0,0
-i0 ing,#i0 y,0,0,0,0,0
-i0 iong,#i0 y,0,0,0,0,0
-i0 iu,#i0 y,0,0,0,0,0
-i0 o,#i0 w,0,0,0,0,0
-i0 ong,#i0 w,0,0,0,0,0
-i0 u,#i0 w,0,0,0,0,0
-i0 ua,#i0 w,0,0,0,0,0
-i0 uai,#i0 w,0,0,0,0,0
-i0 uan,#i0 w,0,0,0,0,0
-i0 uang,#i0 w,0,0,0,0,0
-i0 ue,#i0 v,0,0,0,0,0
-i0 ueng,#i0 w,0,0,0,0,0
-i0 ui,#i0 w,0,0,0,0,0
-i0 un,#i0 w,0,0,0,0,0
-i0 van,#i0 v,0,0,0,0,0
-i0 vn,#i0 v,0,0,0,0,0
 ia a,#a a,0,0,0,0,0
 ia ai,#a a,0,0,0,0,0
 ia an,#a a,0,0,0,0,0
@@ -1923,32 +1659,7 @@ ia ei,#a ei,0,0,0,0,0
 ia en,#a ou,0,0,0,0,0
 ia eng,#a ou,0,0,0,0,0
 ia er,#a er,0,0,0,0,0
-ia i,#a y,0,0,0,0,0
-ia ia,#a y,0,0,0,0,0
-ia iai,#a y,0,0,0,0,0
-ia ian,#a y,0,0,0,0,0
-ia iang,#a y,0,0,0,0,0
-ia iao,#a y,0,0,0,0,0
-ia ie,#a y,0,0,0,0,0
-ia in,#a y,0,0,0,0,0
-ia ing,#a y,0,0,0,0,0
-ia iong,#a y,0,0,0,0,0
-ia iu,#a y,0,0,0,0,0
-ia o,#a w,0,0,0,0,0
-ia ong,#a w,0,0,0,0,0
 ia ou,#a ou,0,0,0,0,0
-ia u,#a w,0,0,0,0,0
-ia ua,#a w,0,0,0,0,0
-ia uai,#a w,0,0,0,0,0
-ia uan,#a w,0,0,0,0,0
-ia uang,#a w,0,0,0,0,0
-ia ue,#a v,0,0,0,0,0
-ia ueng,#a w,0,0,0,0,0
-ia ui,#a w,0,0,0,0,0
-ia un,#a w,0,0,0,0,0
-ia v,#a v,0,0,0,0,0
-ia van,#a v,0,0,0,0,0
-ia vn,#a v,0,0,0,0,0
 iai a,#ei a,0,0,0,0,0
 iai ai,#ei a,0,0,0,0,0
 iai an,#ei a,0,0,0,0,0
@@ -1959,32 +1670,7 @@ iai ei,#ei ei,0,0,0,0,0
 iai en,#ei ou,0,0,0,0,0
 iai eng,#ei ou,0,0,0,0,0
 iai er,#ei er,0,0,0,0,0
-iai i,#ei y,0,0,0,0,0
-iai ia,#ei y,0,0,0,0,0
-iai iai,#ei y,0,0,0,0,0
-iai ian,#ei y,0,0,0,0,0
-iai iang,#ei y,0,0,0,0,0
-iai iao,#ei y,0,0,0,0,0
-iai ie,#ei y,0,0,0,0,0
-iai in,#ei y,0,0,0,0,0
-iai ing,#ei y,0,0,0,0,0
-iai iong,#ei y,0,0,0,0,0
-iai iu,#ei y,0,0,0,0,0
-iai o,#ei w,0,0,0,0,0
-iai ong,#ei w,0,0,0,0,0
 iai ou,#ei ou,0,0,0,0,0
-iai u,#ei w,0,0,0,0,0
-iai ua,#ei w,0,0,0,0,0
-iai uai,#ei w,0,0,0,0,0
-iai uan,#ei w,0,0,0,0,0
-iai uang,#ei w,0,0,0,0,0
-iai ue,#ei v,0,0,0,0,0
-iai ueng,#ei w,0,0,0,0,0
-iai ui,#ei w,0,0,0,0,0
-iai un,#ei w,0,0,0,0,0
-iai v,#ei v,0,0,0,0,0
-iai van,#ei v,0,0,0,0,0
-iai vn,#ei v,0,0,0,0,0
 ian a,#en a,0,0,0,0,0
 ian ai,#en a,0,0,0,0,0
 ian an,#en a,0,0,0,0,0
@@ -1995,32 +1681,7 @@ ian ei,#en ei,0,0,0,0,0
 ian en,#en ou,0,0,0,0,0
 ian eng,#en ou,0,0,0,0,0
 ian er,#en er,0,0,0,0,0
-ian i,#en y,0,0,0,0,0
-ian ia,#en y,0,0,0,0,0
-ian iai,#en y,0,0,0,0,0
-ian ian,#en y,0,0,0,0,0
-ian iang,#en y,0,0,0,0,0
-ian iao,#en y,0,0,0,0,0
-ian ie,#en y,0,0,0,0,0
-ian in,#en y,0,0,0,0,0
-ian ing,#en y,0,0,0,0,0
-ian iong,#en y,0,0,0,0,0
-ian iu,#en y,0,0,0,0,0
-ian o,#en w,0,0,0,0,0
-ian ong,#en w,0,0,0,0,0
 ian ou,#en ou,0,0,0,0,0
-ian u,#en w,0,0,0,0,0
-ian ua,#en w,0,0,0,0,0
-ian uai,#en w,0,0,0,0,0
-ian uan,#en w,0,0,0,0,0
-ian uang,#en w,0,0,0,0,0
-ian ue,#en v,0,0,0,0,0
-ian ueng,#en w,0,0,0,0,0
-ian ui,#en w,0,0,0,0,0
-ian un,#en w,0,0,0,0,0
-ian v,#en v,0,0,0,0,0
-ian van,#en v,0,0,0,0,0
-ian vn,#en v,0,0,0,0,0
 iang a,#eng a,0,0,0,0,0
 iang ai,#eng a,0,0,0,0,0
 iang an,#eng a,0,0,0,0,0
@@ -2031,32 +1692,7 @@ iang ei,#eng ei,0,0,0,0,0
 iang en,#eng ou,0,0,0,0,0
 iang eng,#eng ou,0,0,0,0,0
 iang er,#eng er,0,0,0,0,0
-iang i,#eng y,0,0,0,0,0
-iang ia,#eng y,0,0,0,0,0
-iang iai,#eng y,0,0,0,0,0
-iang ian,#eng y,0,0,0,0,0
-iang iang,#eng y,0,0,0,0,0
-iang iao,#eng y,0,0,0,0,0
-iang ie,#eng y,0,0,0,0,0
-iang in,#eng y,0,0,0,0,0
-iang ing,#eng y,0,0,0,0,0
-iang iong,#eng y,0,0,0,0,0
-iang iu,#eng y,0,0,0,0,0
-iang o,#eng w,0,0,0,0,0
-iang ong,#eng w,0,0,0,0,0
 iang ou,#eng ou,0,0,0,0,0
-iang u,#eng w,0,0,0,0,0
-iang ua,#eng w,0,0,0,0,0
-iang uai,#eng w,0,0,0,0,0
-iang uan,#eng w,0,0,0,0,0
-iang uang,#eng w,0,0,0,0,0
-iang ue,#eng v,0,0,0,0,0
-iang ueng,#eng w,0,0,0,0,0
-iang ui,#eng w,0,0,0,0,0
-iang un,#eng w,0,0,0,0,0
-iang v,#eng v,0,0,0,0,0
-iang van,#eng v,0,0,0,0,0
-iang vn,#eng v,0,0,0,0,0
 iao a,#u a,0,0,0,0,0
 iao ai,#u a,0,0,0,0,0
 iao an,#u a,0,0,0,0,0
@@ -2067,61 +1703,12 @@ iao ei,#u ei,0,0,0,0,0
 iao en,#u ou,0,0,0,0,0
 iao eng,#u ou,0,0,0,0,0
 iao er,#u er,0,0,0,0,0
-iao i,#u y,0,0,0,0,0
-iao ia,#u y,0,0,0,0,0
-iao iai,#u y,0,0,0,0,0
-iao ian,#u y,0,0,0,0,0
-iao iang,#u y,0,0,0,0,0
-iao iao,#u y,0,0,0,0,0
-iao ie,#u y,0,0,0,0,0
-iao in,#u y,0,0,0,0,0
-iao ing,#u y,0,0,0,0,0
-iao iong,#u y,0,0,0,0,0
-iao iu,#u y,0,0,0,0,0
-iao o,#u w,0,0,0,0,0
-iao ong,#u w,0,0,0,0,0
 iao ou,#u ou,0,0,0,0,0
-iao u,#u w,0,0,0,0,0
-iao ua,#u w,0,0,0,0,0
-iao uai,#u w,0,0,0,0,0
-iao uan,#u w,0,0,0,0,0
-iao uang,#u w,0,0,0,0,0
-iao ue,#u v,0,0,0,0,0
-iao ueng,#u w,0,0,0,0,0
-iao ui,#u w,0,0,0,0,0
-iao un,#u w,0,0,0,0,0
-iao v,#u v,0,0,0,0,0
-iao van,#u v,0,0,0,0,0
-iao vn,#u v,0,0,0,0,0
 ie ai,#ie a,0,0,0,0,0
 ie an,#ie a,0,0,0,0,0
 ie ang,#ie ao,0,0,0,0,0
 ie en,#ie ou,0,0,0,0,0
 ie eng,#ie ou,0,0,0,0,0
-ie i,#ie y,0,0,0,0,0
-ie ia,#ie y,0,0,0,0,0
-ie iai,#ie y,0,0,0,0,0
-ie ian,#ie y,0,0,0,0,0
-ie iang,#ie y,0,0,0,0,0
-ie iao,#ie y,0,0,0,0,0
-ie ie,#ie y,0,0,0,0,0
-ie in,#ie y,0,0,0,0,0
-ie ing,#ie y,0,0,0,0,0
-ie iong,#ie y,0,0,0,0,0
-ie iu,#ie y,0,0,0,0,0
-ie o,#ie w,0,0,0,0,0
-ie ong,#ie w,0,0,0,0,0
-ie u,#ie w,0,0,0,0,0
-ie ua,#ie w,0,0,0,0,0
-ie uai,#ie w,0,0,0,0,0
-ie uan,#ie w,0,0,0,0,0
-ie uang,#ie w,0,0,0,0,0
-ie ue,#ie v,0,0,0,0,0
-ie ueng,#ie w,0,0,0,0,0
-ie ui,#ie w,0,0,0,0,0
-ie un,#ie w,0,0,0,0,0
-ie van,#ie v,0,0,0,0,0
-ie vn,#ie v,0,0,0,0,0
 in a,#ei a,0,0,0,0,0
 in ai,#ei a,0,0,0,0,0
 in an,#ei a,0,0,0,0,0
@@ -2132,32 +1719,7 @@ in ei,#ei ei,0,0,0,0,0
 in en,#ei ou,0,0,0,0,0
 in eng,#ei ou,0,0,0,0,0
 in er,#ei er,0,0,0,0,0
-in i,#ei y,0,0,0,0,0
-in ia,#ei y,0,0,0,0,0
-in iai,#ei y,0,0,0,0,0
-in ian,#ei y,0,0,0,0,0
-in iang,#ei y,0,0,0,0,0
-in iao,#ei y,0,0,0,0,0
-in ie,#ei y,0,0,0,0,0
-in in,#ei y,0,0,0,0,0
-in ing,#ei y,0,0,0,0,0
-in iong,#ei y,0,0,0,0,0
-in iu,#ei y,0,0,0,0,0
-in o,#ei w,0,0,0,0,0
-in ong,#ei w,0,0,0,0,0
 in ou,#ei ou,0,0,0,0,0
-in u,#ei w,0,0,0,0,0
-in ua,#ei w,0,0,0,0,0
-in uai,#ei w,0,0,0,0,0
-in uan,#ei w,0,0,0,0,0
-in uang,#ei w,0,0,0,0,0
-in ue,#ei v,0,0,0,0,0
-in ueng,#ei w,0,0,0,0,0
-in ui,#ei w,0,0,0,0,0
-in un,#ei w,0,0,0,0,0
-in v,#ei v,0,0,0,0,0
-in van,#ei v,0,0,0,0,0
-in vn,#ei v,0,0,0,0,0
 ing a,#eng a,0,0,0,0,0
 ing ai,#eng a,0,0,0,0,0
 ing an,#eng a,0,0,0,0,0
@@ -2168,32 +1730,7 @@ ing ei,#eng ei,0,0,0,0,0
 ing en,#eng ou,0,0,0,0,0
 ing eng,#eng ou,0,0,0,0,0
 ing er,#eng er,0,0,0,0,0
-ing i,#eng y,0,0,0,0,0
-ing ia,#eng y,0,0,0,0,0
-ing iai,#eng y,0,0,0,0,0
-ing ian,#eng y,0,0,0,0,0
-ing iang,#eng y,0,0,0,0,0
-ing iao,#eng y,0,0,0,0,0
-ing ie,#eng y,0,0,0,0,0
-ing in,#eng y,0,0,0,0,0
-ing ing,#eng y,0,0,0,0,0
-ing iong,#eng y,0,0,0,0,0
-ing iu,#eng y,0,0,0,0,0
-ing o,#eng w,0,0,0,0,0
-ing ong,#eng w,0,0,0,0,0
 ing ou,#eng ou,0,0,0,0,0
-ing u,#eng w,0,0,0,0,0
-ing ua,#eng w,0,0,0,0,0
-ing uai,#eng w,0,0,0,0,0
-ing uan,#eng w,0,0,0,0,0
-ing uang,#eng w,0,0,0,0,0
-ing ue,#eng v,0,0,0,0,0
-ing ueng,#eng w,0,0,0,0,0
-ing ui,#eng w,0,0,0,0,0
-ing un,#eng w,0,0,0,0,0
-ing v,#eng v,0,0,0,0,0
-ing van,#eng v,0,0,0,0,0
-ing vn,#eng v,0,0,0,0,0
 iong a,#eng a,0,0,0,0,0
 iong ai,#eng a,0,0,0,0,0
 iong an,#eng a,0,0,0,0,0
@@ -2204,61 +1741,12 @@ iong ei,#eng ei,0,0,0,0,0
 iong en,#eng ou,0,0,0,0,0
 iong eng,#eng ou,0,0,0,0,0
 iong er,#eng er,0,0,0,0,0
-iong i,#eng y,0,0,0,0,0
-iong ia,#eng y,0,0,0,0,0
-iong iai,#eng y,0,0,0,0,0
-iong ian,#eng y,0,0,0,0,0
-iong iang,#eng y,0,0,0,0,0
-iong iao,#eng y,0,0,0,0,0
-iong ie,#eng y,0,0,0,0,0
-iong in,#eng y,0,0,0,0,0
-iong ing,#eng y,0,0,0,0,0
-iong iong,#eng y,0,0,0,0,0
-iong iu,#eng y,0,0,0,0,0
-iong o,#eng w,0,0,0,0,0
-iong ong,#eng w,0,0,0,0,0
 iong ou,#eng ou,0,0,0,0,0
-iong u,#eng w,0,0,0,0,0
-iong ua,#eng w,0,0,0,0,0
-iong uai,#eng w,0,0,0,0,0
-iong uan,#eng w,0,0,0,0,0
-iong uang,#eng w,0,0,0,0,0
-iong ue,#eng v,0,0,0,0,0
-iong ueng,#eng w,0,0,0,0,0
-iong ui,#eng w,0,0,0,0,0
-iong un,#eng w,0,0,0,0,0
-iong v,#eng v,0,0,0,0,0
-iong van,#eng v,0,0,0,0,0
-iong vn,#eng v,0,0,0,0,0
 ir ai,#ir a,0,0,0,0,0
 ir an,#ir a,0,0,0,0,0
 ir ang,#ir ao,0,0,0,0,0
 ir en,#ir ou,0,0,0,0,0
 ir eng,#ir ou,0,0,0,0,0
-ir i,#ir y,0,0,0,0,0
-ir ia,#ir y,0,0,0,0,0
-ir iai,#ir y,0,0,0,0,0
-ir ian,#ir y,0,0,0,0,0
-ir iang,#ir y,0,0,0,0,0
-ir iao,#ir y,0,0,0,0,0
-ir ie,#ir y,0,0,0,0,0
-ir in,#ir y,0,0,0,0,0
-ir ing,#ir y,0,0,0,0,0
-ir iong,#ir y,0,0,0,0,0
-ir iu,#ir y,0,0,0,0,0
-ir o,#ir w,0,0,0,0,0
-ir ong,#ir w,0,0,0,0,0
-ir u,#ir w,0,0,0,0,0
-ir ua,#ir w,0,0,0,0,0
-ir uai,#ir w,0,0,0,0,0
-ir uan,#ir w,0,0,0,0,0
-ir uang,#ir w,0,0,0,0,0
-ir ue,#ir v,0,0,0,0,0
-ir ueng,#ir w,0,0,0,0,0
-ir ui,#ir w,0,0,0,0,0
-ir un,#ir w,0,0,0,0,0
-ir van,#ir v,0,0,0,0,0
-ir vn,#ir v,0,0,0,0,0
 iu a,#u a,0,0,0,0,0
 iu ai,#u a,0,0,0,0,0
 iu an,#u a,0,0,0,0,0
@@ -2269,61 +1757,12 @@ iu ei,#u ei,0,0,0,0,0
 iu en,#u ou,0,0,0,0,0
 iu eng,#u ou,0,0,0,0,0
 iu er,#u er,0,0,0,0,0
-iu i,#u y,0,0,0,0,0
-iu ia,#u y,0,0,0,0,0
-iu iai,#u y,0,0,0,0,0
-iu ian,#u y,0,0,0,0,0
-iu iang,#u y,0,0,0,0,0
-iu iao,#u y,0,0,0,0,0
-iu ie,#u y,0,0,0,0,0
-iu in,#u y,0,0,0,0,0
-iu ing,#u y,0,0,0,0,0
-iu iong,#u y,0,0,0,0,0
-iu iu,#u y,0,0,0,0,0
-iu o,#u w,0,0,0,0,0
-iu ong,#u w,0,0,0,0,0
 iu ou,#u ou,0,0,0,0,0
-iu u,#u w,0,0,0,0,0
-iu ua,#u w,0,0,0,0,0
-iu uai,#u w,0,0,0,0,0
-iu uan,#u w,0,0,0,0,0
-iu uang,#u w,0,0,0,0,0
-iu ue,#u v,0,0,0,0,0
-iu ueng,#u w,0,0,0,0,0
-iu ui,#u w,0,0,0,0,0
-iu un,#u w,0,0,0,0,0
-iu v,#u v,0,0,0,0,0
-iu van,#u v,0,0,0,0,0
-iu vn,#u v,0,0,0,0,0
 o ai,#o a,0,0,0,0,0
 o an,#o a,0,0,0,0,0
 o ang,#o ao,0,0,0,0,0
 o en,#o ou,0,0,0,0,0
 o eng,#o ou,0,0,0,0,0
-o i,#o y,0,0,0,0,0
-o ia,#o y,0,0,0,0,0
-o iai,#o y,0,0,0,0,0
-o ian,#o y,0,0,0,0,0
-o iang,#o y,0,0,0,0,0
-o iao,#o y,0,0,0,0,0
-o ie,#o y,0,0,0,0,0
-o in,#o y,0,0,0,0,0
-o ing,#o y,0,0,0,0,0
-o iong,#o y,0,0,0,0,0
-o iu,#o y,0,0,0,0,0
-o o,#o w,0,0,0,0,0
-o ong,#o w,0,0,0,0,0
-o u,#o w,0,0,0,0,0
-o ua,#o w,0,0,0,0,0
-o uai,#o w,0,0,0,0,0
-o uan,#o w,0,0,0,0,0
-o uang,#o w,0,0,0,0,0
-o ue,#o v,0,0,0,0,0
-o ueng,#o w,0,0,0,0,0
-o ui,#o w,0,0,0,0,0
-o un,#o w,0,0,0,0,0
-o van,#o v,0,0,0,0,0
-o vn,#o v,0,0,0,0,0
 ong a,#eng a,0,0,0,0,0
 ong ai,#eng a,0,0,0,0,0
 ong an,#eng a,0,0,0,0,0
@@ -2334,32 +1773,7 @@ ong ei,#eng ei,0,0,0,0,0
 ong en,#eng ou,0,0,0,0,0
 ong eng,#eng ou,0,0,0,0,0
 ong er,#eng er,0,0,0,0,0
-ong i,#eng y,0,0,0,0,0
-ong ia,#eng y,0,0,0,0,0
-ong iai,#eng y,0,0,0,0,0
-ong ian,#eng y,0,0,0,0,0
-ong iang,#eng y,0,0,0,0,0
-ong iao,#eng y,0,0,0,0,0
-ong ie,#eng y,0,0,0,0,0
-ong in,#eng y,0,0,0,0,0
-ong ing,#eng y,0,0,0,0,0
-ong iong,#eng y,0,0,0,0,0
-ong iu,#eng y,0,0,0,0,0
-ong o,#eng w,0,0,0,0,0
-ong ong,#eng w,0,0,0,0,0
 ong ou,#eng ou,0,0,0,0,0
-ong u,#eng w,0,0,0,0,0
-ong ua,#eng w,0,0,0,0,0
-ong uai,#eng w,0,0,0,0,0
-ong uan,#eng w,0,0,0,0,0
-ong uang,#eng w,0,0,0,0,0
-ong ue,#eng v,0,0,0,0,0
-ong ueng,#eng w,0,0,0,0,0
-ong ui,#eng w,0,0,0,0,0
-ong un,#eng w,0,0,0,0,0
-ong v,#eng v,0,0,0,0,0
-ong van,#eng v,0,0,0,0,0
-ong vn,#eng v,0,0,0,0,0
 ou a,#u a,0,0,0,0,0
 ou ai,#u a,0,0,0,0,0
 ou an,#u a,0,0,0,0,0
@@ -2370,61 +1784,12 @@ ou ei,#u ei,0,0,0,0,0
 ou en,#u ou,0,0,0,0,0
 ou eng,#u ou,0,0,0,0,0
 ou er,#u er,0,0,0,0,0
-ou i,#u y,0,0,0,0,0
-ou ia,#u y,0,0,0,0,0
-ou iai,#u y,0,0,0,0,0
-ou ian,#u y,0,0,0,0,0
-ou iang,#u y,0,0,0,0,0
-ou iao,#u y,0,0,0,0,0
-ou ie,#u y,0,0,0,0,0
-ou in,#u y,0,0,0,0,0
-ou ing,#u y,0,0,0,0,0
-ou iong,#u y,0,0,0,0,0
-ou iu,#u y,0,0,0,0,0
-ou o,#u w,0,0,0,0,0
-ou ong,#u w,0,0,0,0,0
 ou ou,#u ou,0,0,0,0,0
-ou u,#u w,0,0,0,0,0
-ou ua,#u w,0,0,0,0,0
-ou uai,#u w,0,0,0,0,0
-ou uan,#u w,0,0,0,0,0
-ou uang,#u w,0,0,0,0,0
-ou ue,#u v,0,0,0,0,0
-ou ueng,#u w,0,0,0,0,0
-ou ui,#u w,0,0,0,0,0
-ou un,#u w,0,0,0,0,0
-ou v,#u v,0,0,0,0,0
-ou van,#u v,0,0,0,0,0
-ou vn,#u v,0,0,0,0,0
 u ai,#u a,0,0,0,0,0
 u an,#u a,0,0,0,0,0
 u ang,#u ao,0,0,0,0,0
 u en,#u ou,0,0,0,0,0
 u eng,#u ou,0,0,0,0,0
-u i,#u y,0,0,0,0,0
-u ia,#u y,0,0,0,0,0
-u iai,#u y,0,0,0,0,0
-u ian,#u y,0,0,0,0,0
-u iang,#u y,0,0,0,0,0
-u iao,#u y,0,0,0,0,0
-u ie,#u y,0,0,0,0,0
-u in,#u y,0,0,0,0,0
-u ing,#u y,0,0,0,0,0
-u iong,#u y,0,0,0,0,0
-u iu,#u y,0,0,0,0,0
-u o,#u w,0,0,0,0,0
-u ong,#u w,0,0,0,0,0
-u u,#u w,0,0,0,0,0
-u ua,#u w,0,0,0,0,0
-u uai,#u w,0,0,0,0,0
-u uan,#u w,0,0,0,0,0
-u uang,#u w,0,0,0,0,0
-u ue,#u v,0,0,0,0,0
-u ueng,#u w,0,0,0,0,0
-u ui,#u w,0,0,0,0,0
-u un,#u w,0,0,0,0,0
-u van,#u v,0,0,0,0,0
-u vn,#u v,0,0,0,0,0
 ua a,#a a,0,0,0,0,0
 ua ai,#a a,0,0,0,0,0
 ua an,#a a,0,0,0,0,0
@@ -2435,32 +1800,7 @@ ua ei,#a ei,0,0,0,0,0
 ua en,#a ou,0,0,0,0,0
 ua eng,#a ou,0,0,0,0,0
 ua er,#a er,0,0,0,0,0
-ua i,#a y,0,0,0,0,0
-ua ia,#a y,0,0,0,0,0
-ua iai,#a y,0,0,0,0,0
-ua ian,#a y,0,0,0,0,0
-ua iang,#a y,0,0,0,0,0
-ua iao,#a y,0,0,0,0,0
-ua ie,#a y,0,0,0,0,0
-ua in,#a y,0,0,0,0,0
-ua ing,#a y,0,0,0,0,0
-ua iong,#a y,0,0,0,0,0
-ua iu,#a y,0,0,0,0,0
-ua o,#a w,0,0,0,0,0
-ua ong,#a w,0,0,0,0,0
 ua ou,#a ou,0,0,0,0,0
-ua u,#a w,0,0,0,0,0
-ua ua,#a w,0,0,0,0,0
-ua uai,#a w,0,0,0,0,0
-ua uan,#a w,0,0,0,0,0
-ua uang,#a w,0,0,0,0,0
-ua ue,#a v,0,0,0,0,0
-ua ueng,#a w,0,0,0,0,0
-ua ui,#a w,0,0,0,0,0
-ua un,#a w,0,0,0,0,0
-ua v,#a v,0,0,0,0,0
-ua van,#a v,0,0,0,0,0
-ua vn,#a v,0,0,0,0,0
 uai a,#ei a,0,0,0,0,0
 uai ai,#ei a,0,0,0,0,0
 uai an,#ei a,0,0,0,0,0
@@ -2471,32 +1811,7 @@ uai ei,#ei ei,0,0,0,0,0
 uai en,#ei ou,0,0,0,0,0
 uai eng,#ei ou,0,0,0,0,0
 uai er,#ei er,0,0,0,0,0
-uai i,#ei y,0,0,0,0,0
-uai ia,#ei y,0,0,0,0,0
-uai iai,#ei y,0,0,0,0,0
-uai ian,#ei y,0,0,0,0,0
-uai iang,#ei y,0,0,0,0,0
-uai iao,#ei y,0,0,0,0,0
-uai ie,#ei y,0,0,0,0,0
-uai in,#ei y,0,0,0,0,0
-uai ing,#ei y,0,0,0,0,0
-uai iong,#ei y,0,0,0,0,0
-uai iu,#ei y,0,0,0,0,0
-uai o,#ei w,0,0,0,0,0
-uai ong,#ei w,0,0,0,0,0
 uai ou,#ei ou,0,0,0,0,0
-uai u,#ei w,0,0,0,0,0
-uai ua,#ei w,0,0,0,0,0
-uai uai,#ei w,0,0,0,0,0
-uai uan,#ei w,0,0,0,0,0
-uai uang,#ei w,0,0,0,0,0
-uai ue,#ei v,0,0,0,0,0
-uai ueng,#ei w,0,0,0,0,0
-uai ui,#ei w,0,0,0,0,0
-uai un,#ei w,0,0,0,0,0
-uai v,#ei v,0,0,0,0,0
-uai van,#ei v,0,0,0,0,0
-uai vn,#ei v,0,0,0,0,0
 uan a,#en a,0,0,0,0,0
 uan ai,#en a,0,0,0,0,0
 uan an,#en a,0,0,0,0,0
@@ -2507,32 +1822,7 @@ uan ei,#en ei,0,0,0,0,0
 uan en,#en ou,0,0,0,0,0
 uan eng,#en ou,0,0,0,0,0
 uan er,#en er,0,0,0,0,0
-uan i,#en y,0,0,0,0,0
-uan ia,#en y,0,0,0,0,0
-uan iai,#en y,0,0,0,0,0
-uan ian,#en y,0,0,0,0,0
-uan iang,#en y,0,0,0,0,0
-uan iao,#en y,0,0,0,0,0
-uan ie,#en y,0,0,0,0,0
-uan in,#en y,0,0,0,0,0
-uan ing,#en y,0,0,0,0,0
-uan iong,#en y,0,0,0,0,0
-uan iu,#en y,0,0,0,0,0
-uan o,#en w,0,0,0,0,0
-uan ong,#en w,0,0,0,0,0
 uan ou,#en ou,0,0,0,0,0
-uan u,#en w,0,0,0,0,0
-uan ua,#en w,0,0,0,0,0
-uan uai,#en w,0,0,0,0,0
-uan uan,#en w,0,0,0,0,0
-uan uang,#en w,0,0,0,0,0
-uan ue,#en v,0,0,0,0,0
-uan ueng,#en w,0,0,0,0,0
-uan ui,#en w,0,0,0,0,0
-uan un,#en w,0,0,0,0,0
-uan v,#en v,0,0,0,0,0
-uan van,#en v,0,0,0,0,0
-uan vn,#en v,0,0,0,0,0
 uang a,#eng a,0,0,0,0,0
 uang ai,#eng a,0,0,0,0,0
 uang an,#eng a,0,0,0,0,0
@@ -2543,32 +1833,7 @@ uang ei,#eng ei,0,0,0,0,0
 uang en,#eng ou,0,0,0,0,0
 uang eng,#eng ou,0,0,0,0,0
 uang er,#eng er,0,0,0,0,0
-uang i,#eng y,0,0,0,0,0
-uang ia,#eng y,0,0,0,0,0
-uang iai,#eng y,0,0,0,0,0
-uang ian,#eng y,0,0,0,0,0
-uang iang,#eng y,0,0,0,0,0
-uang iao,#eng y,0,0,0,0,0
-uang ie,#eng y,0,0,0,0,0
-uang in,#eng y,0,0,0,0,0
-uang ing,#eng y,0,0,0,0,0
-uang iong,#eng y,0,0,0,0,0
-uang iu,#eng y,0,0,0,0,0
-uang o,#eng w,0,0,0,0,0
-uang ong,#eng w,0,0,0,0,0
 uang ou,#eng ou,0,0,0,0,0
-uang u,#eng w,0,0,0,0,0
-uang ua,#eng w,0,0,0,0,0
-uang uai,#eng w,0,0,0,0,0
-uang uan,#eng w,0,0,0,0,0
-uang uang,#eng w,0,0,0,0,0
-uang ue,#eng v,0,0,0,0,0
-uang ueng,#eng w,0,0,0,0,0
-uang ui,#eng w,0,0,0,0,0
-uang un,#eng w,0,0,0,0,0
-uang v,#eng v,0,0,0,0,0
-uang van,#eng v,0,0,0,0,0
-uang vn,#eng v,0,0,0,0,0
 ue a,#ie a,0,0,0,0,0
 ue ai,#ie a,0,0,0,0,0
 ue an,#ie a,0,0,0,0,0
@@ -2579,32 +1844,7 @@ ue ei,#ie ei,0,0,0,0,0
 ue en,#ie ou,0,0,0,0,0
 ue eng,#ie ou,0,0,0,0,0
 ue er,#ie er,0,0,0,0,0
-ue i,#ie y,0,0,0,0,0
-ue ia,#ie y,0,0,0,0,0
-ue iai,#ie y,0,0,0,0,0
-ue ian,#ie y,0,0,0,0,0
-ue iang,#ie y,0,0,0,0,0
-ue iao,#ie y,0,0,0,0,0
-ue ie,#ie y,0,0,0,0,0
-ue in,#ie y,0,0,0,0,0
-ue ing,#ie y,0,0,0,0,0
-ue iong,#ie y,0,0,0,0,0
-ue iu,#ie y,0,0,0,0,0
-ue o,#ie w,0,0,0,0,0
-ue ong,#ie w,0,0,0,0,0
 ue ou,#ie ou,0,0,0,0,0
-ue u,#ie w,0,0,0,0,0
-ue ua,#ie w,0,0,0,0,0
-ue uai,#ie w,0,0,0,0,0
-ue uan,#ie w,0,0,0,0,0
-ue uang,#ie w,0,0,0,0,0
-ue ue,#ie v,0,0,0,0,0
-ue ueng,#ie w,0,0,0,0,0
-ue ui,#ie w,0,0,0,0,0
-ue un,#ie w,0,0,0,0,0
-ue v,#ie v,0,0,0,0,0
-ue van,#ie v,0,0,0,0,0
-ue vn,#ie v,0,0,0,0,0
 ueng a,#eng a,0,0,0,0,0
 ueng ai,#eng a,0,0,0,0,0
 ueng an,#eng a,0,0,0,0,0
@@ -2615,32 +1855,7 @@ ueng ei,#eng ei,0,0,0,0,0
 ueng en,#eng ou,0,0,0,0,0
 ueng eng,#eng ou,0,0,0,0,0
 ueng er,#eng er,0,0,0,0,0
-ueng i,#eng y,0,0,0,0,0
-ueng ia,#eng y,0,0,0,0,0
-ueng iai,#eng y,0,0,0,0,0
-ueng ian,#eng y,0,0,0,0,0
-ueng iang,#eng y,0,0,0,0,0
-ueng iao,#eng y,0,0,0,0,0
-ueng ie,#eng y,0,0,0,0,0
-ueng in,#eng y,0,0,0,0,0
-ueng ing,#eng y,0,0,0,0,0
-ueng iong,#eng y,0,0,0,0,0
-ueng iu,#eng y,0,0,0,0,0
-ueng o,#eng w,0,0,0,0,0
-ueng ong,#eng w,0,0,0,0,0
 ueng ou,#eng ou,0,0,0,0,0
-ueng u,#eng w,0,0,0,0,0
-ueng ua,#eng w,0,0,0,0,0
-ueng uai,#eng w,0,0,0,0,0
-ueng uan,#eng w,0,0,0,0,0
-ueng uang,#eng w,0,0,0,0,0
-ueng ue,#eng v,0,0,0,0,0
-ueng ueng,#eng w,0,0,0,0,0
-ueng ui,#eng w,0,0,0,0,0
-ueng un,#eng w,0,0,0,0,0
-ueng v,#eng v,0,0,0,0,0
-ueng van,#eng v,0,0,0,0,0
-ueng vn,#eng v,0,0,0,0,0
 ui a,#ei a,0,0,0,0,0
 ui ai,#ei a,0,0,0,0,0
 ui an,#ei a,0,0,0,0,0
@@ -2651,32 +1866,7 @@ ui ei,#ei ei,0,0,0,0,0
 ui en,#ei ou,0,0,0,0,0
 ui eng,#ei ou,0,0,0,0,0
 ui er,#ei er,0,0,0,0,0
-ui i,#ei y,0,0,0,0,0
-ui ia,#ei y,0,0,0,0,0
-ui iai,#ei y,0,0,0,0,0
-ui ian,#ei y,0,0,0,0,0
-ui iang,#ei y,0,0,0,0,0
-ui iao,#ei y,0,0,0,0,0
-ui ie,#ei y,0,0,0,0,0
-ui in,#ei y,0,0,0,0,0
-ui ing,#ei y,0,0,0,0,0
-ui iong,#ei y,0,0,0,0,0
-ui iu,#ei y,0,0,0,0,0
-ui o,#ei w,0,0,0,0,0
-ui ong,#ei w,0,0,0,0,0
 ui ou,#ei ou,0,0,0,0,0
-ui u,#ei w,0,0,0,0,0
-ui ua,#ei w,0,0,0,0,0
-ui uai,#ei w,0,0,0,0,0
-ui uan,#ei w,0,0,0,0,0
-ui uang,#ei w,0,0,0,0,0
-ui ue,#ei v,0,0,0,0,0
-ui ueng,#ei w,0,0,0,0,0
-ui ui,#ei w,0,0,0,0,0
-ui un,#ei w,0,0,0,0,0
-ui v,#ei v,0,0,0,0,0
-ui van,#ei v,0,0,0,0,0
-ui vn,#ei v,0,0,0,0,0
 un a,#en a,0,0,0,0,0
 un ai,#en a,0,0,0,0,0
 un an,#en a,0,0,0,0,0
@@ -2687,58 +1877,12 @@ un ei,#en ei,0,0,0,0,0
 un en,#en ou,0,0,0,0,0
 un eng,#en ou,0,0,0,0,0
 un er,#en er,0,0,0,0,0
-un i,#en y,0,0,0,0,0
-un ia,#en y,0,0,0,0,0
-un iai,#en y,0,0,0,0,0
-un ian,#en y,0,0,0,0,0
-un iang,#en y,0,0,0,0,0
-un iao,#en y,0,0,0,0,0
-un ie,#en y,0,0,0,0,0
-un in,#en y,0,0,0,0,0
-un ing,#en y,0,0,0,0,0
-un iong,#en y,0,0,0,0,0
-un iu,#en y,0,0,0,0,0
-un o,#en w,0,0,0,0,0
-un ong,#en w,0,0,0,0,0
 un ou,#en ou,0,0,0,0,0
-un u,#en w,0,0,0,0,0
-un ua,#en w,0,0,0,0,0
-un uai,#en w,0,0,0,0,0
-un uan,#en w,0,0,0,0,0
-un uang,#en w,0,0,0,0,0
-un ue,#en v,0,0,0,0,0
-un ueng,#en w,0,0,0,0,0
-un ui,#en w,0,0,0,0,0
-un un,#en w,0,0,0,0,0
-un v,#en v,0,0,0,0,0
-un van,#en v,0,0,0,0,0
-un vn,#en v,0,0,0,0,0
 v ai,#v a,0,0,0,0,0
 v an,#v a,0,0,0,0,0
 v ang,#v ao,0,0,0,0,0
 v en,#v ou,0,0,0,0,0
 v eng,#v ou,0,0,0,0,0
-v i,#v y,0,0,0,0,0
-v ia,#v y,0,0,0,0,0
-v iai,#v y,0,0,0,0,0
-v ian,#v y,0,0,0,0,0
-v iang,#v y,0,0,0,0,0
-v iao,#v y,0,0,0,0,0
-v ie,#v y,0,0,0,0,0
-v in,#v y,0,0,0,0,0
-v ing,#v y,0,0,0,0,0
-v iong,#v y,0,0,0,0,0
-v iu,#v y,0,0,0,0,0
-v o,#v w,0,0,0,0,0
-v ong,#v w,0,0,0,0,0
-v u,#v w,0,0,0,0,0
-v ua,#v w,0,0,0,0,0
-v uai,#v w,0,0,0,0,0
-v uan,#v w,0,0,0,0,0
-v uang,#v w,0,0,0,0,0
-v ueng,#v w,0,0,0,0,0
-v ui,#v w,0,0,0,0,0
-v un,#v w,0,0,0,0,0
 van a,#en a,0,0,0,0,0
 van ai,#en a,0,0,0,0,0
 van an,#en a,0,0,0,0,0
@@ -2749,32 +1893,7 @@ van ei,#en ei,0,0,0,0,0
 van en,#en ou,0,0,0,0,0
 van eng,#en ou,0,0,0,0,0
 van er,#en er,0,0,0,0,0
-van i,#en y,0,0,0,0,0
-van ia,#en y,0,0,0,0,0
-van iai,#en y,0,0,0,0,0
-van ian,#en y,0,0,0,0,0
-van iang,#en y,0,0,0,0,0
-van iao,#en y,0,0,0,0,0
-van ie,#en y,0,0,0,0,0
-van in,#en y,0,0,0,0,0
-van ing,#en y,0,0,0,0,0
-van iong,#en y,0,0,0,0,0
-van iu,#en y,0,0,0,0,0
-van o,#en w,0,0,0,0,0
-van ong,#en w,0,0,0,0,0
 van ou,#en ou,0,0,0,0,0
-van u,#en w,0,0,0,0,0
-van ua,#en w,0,0,0,0,0
-van uai,#en w,0,0,0,0,0
-van uan,#en w,0,0,0,0,0
-van uang,#en w,0,0,0,0,0
-van ue,#en v,0,0,0,0,0
-van ueng,#en w,0,0,0,0,0
-van ui,#en w,0,0,0,0,0
-van un,#en w,0,0,0,0,0
-van v,#en v,0,0,0,0,0
-van van,#en v,0,0,0,0,0
-van vn,#en v,0,0,0,0,0
 vn a,#en a,0,0,0,0,0
 vn ai,#en a,0,0,0,0,0
 vn an,#en a,0,0,0,0,0
@@ -2785,68 +1904,4 @@ vn ei,#en ei,0,0,0,0,0
 vn en,#en ou,0,0,0,0,0
 vn eng,#en ou,0,0,0,0,0
 vn er,#en er,0,0,0,0,0
-vn i,#en y,0,0,0,0,0
-vn ia,#en y,0,0,0,0,0
-vn iai,#en y,0,0,0,0,0
-vn ian,#en y,0,0,0,0,0
-vn iang,#en y,0,0,0,0,0
-vn iao,#en y,0,0,0,0,0
-vn ie,#en y,0,0,0,0,0
-vn in,#en y,0,0,0,0,0
-vn ing,#en y,0,0,0,0,0
-vn iong,#en y,0,0,0,0,0
-vn iu,#en y,0,0,0,0,0
-vn o,#en w,0,0,0,0,0
-vn ong,#en w,0,0,0,0,0
 vn ou,#en ou,0,0,0,0,0
-vn u,#en w,0,0,0,0,0
-vn ua,#en w,0,0,0,0,0
-vn uai,#en w,0,0,0,0,0
-vn uan,#en w,0,0,0,0,0
-vn uang,#en w,0,0,0,0,0
-vn ue,#en v,0,0,0,0,0
-vn ueng,#en w,0,0,0,0,0
-vn ui,#en w,0,0,0,0,0
-vn un,#en w,0,0,0,0,0
-vn v,#en v,0,0,0,0,0
-vn van,#en v,0,0,0,0,0
-vn vn,#en v,0,0,0,0,0
- i,# y,0,0,0,0,0
- ia,# y,0,0,0,0,0
- iai,# y,0,0,0,0,0
- ian,# y,0,0,0,0,0
- iang,# y,0,0,0,0,0
- iao,# y,0,0,0,0,0
- ie,# y,0,0,0,0,0
- in,# y,0,0,0,0,0
- ing,# y,0,0,0,0,0
- iong,# y,0,0,0,0,0
- iu,# y,0,0,0,0,0
- o,# w,0,0,0,0,0
- ong,# w,0,0,0,0,0
- u,# w,0,0,0,0,0
- ua,# w,0,0,0,0,0
- uai,# w,0,0,0,0,0
- uan,# w,0,0,0,0,0
- uang,# w,0,0,0,0,0
- ue,# v,0,0,0,0,0
- ueng,# w,0,0,0,0,0
- ui,# w,0,0,0,0,0
- un,# w,0,0,0,0,0
- van,# v,0,0,0,0,0
- vn,# v,0,0,0,0,0
-ia ,#a ,0,0,0,0,0
-iai ,#ai ,0,0,0,0,0
-iang ,#ang ,0,0,0,0,0
-iao ,#ao ,0,0,0,0,0
-iong ,#ong ,0,0,0,0,0
-iu ,#ou ,0,0,0,0,0
-ua ,#a ,0,0,0,0,0
-uai ,#ai ,0,0,0,0,0
-uan ,#an ,0,0,0,0,0
-uang ,#ang ,0,0,0,0,0
-ue ,#ie ,0,0,0,0,0
-ueng ,#eng ,0,0,0,0,0
-ui ,#ei ,0,0,0,0,0
-un ,#en ,0,0,0,0,0
-van ,#ian ,0,0,0,0,0

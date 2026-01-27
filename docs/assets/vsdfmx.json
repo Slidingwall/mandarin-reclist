@@ -112,8 +112,8 @@
         "m o",
         "f o",
         "w ua",
-        "zh  ei",
-        "sh  ei",
+        "zh ei",
+        "sh ei",
         null
       ],
       "vc": [
@@ -207,7 +207,7 @@
         null,
         "e c",
         "e s",
-        "e  ei"
+        "e ei"
       ]
     },
     "_bu_pu_mu_fu_du_tu_nu_lu": {
@@ -254,14 +254,14 @@
     },
     "_bei_pei_mei_fei_dei_tei_nei_l ei": {
       "cv": [
-        "b  ei",
-        "p  ei",
-        "m  ei",
-        "f  ei",
-        "d  ei",
-        "t  ei",
-        "n  ei",
-        "l  ei"
+        "b ei",
+        "p ei",
+        "m ei",
+        "f ei",
+        "d ei",
+        "t ei",
+        "n ei",
+        "l ei"
       ],
       "vc": [
         "ei p",
@@ -333,7 +333,7 @@
         null,
         "ei c",
         "ei s",
-        "ei  ei"
+        "ei ei"
       ]
     },
     "_bi_pi_mi_ye_di_ti_ni_li": {
@@ -606,7 +606,7 @@
         null,
         "eng k",
         "eng h",
-        "eng  ei"
+        "eng ei"
       ]
     },
     "_dong_tong_nong_long_zhong_chong_yong_rong": {
@@ -709,7 +709,7 @@
         "i x",
         "i y",
         "i f",
-        "o  ei",
+        "o ei",
         "ei a",
         "a ao"
       ]
@@ -779,7 +779,7 @@
         "a e",
         "e V",
         "v a",
-        "a  ei",
+        "a ei",
         "ei e"
       ]
     },
@@ -870,7 +870,7 @@
         "o q",
         "i f",
         "en x",
-        "i  ei"
+        "i ei"
       ]
     },
     "_chi_en_e_eng_a_eng_e_ang": {
@@ -923,10 +923,10 @@
       "vc": [
         "er er",
         "er s",
-        "en  ei",
+        "en ei",
         "ei er",
         "er ch",
-        "ir  ei",
+        "ir ei",
         "ei ao"
       ]
     },
@@ -1013,7 +1013,7 @@
       "vc": [
         "i0 t",
         "i w",
-        "u  ei",
+        "u ei",
         null,
         "i0 a",
         "a V",
@@ -1025,11 +1025,11 @@
       "vc": [
         "ir f",
         "o y",
-        "i  ei",
+        "i ei",
         null,
         "ir t",
         "i V",
-        "v  ei"
+        "v ei"
       ]
     },
     "_shi_ni_shi_li_shi_xu_si_wu": {
@@ -1071,11 +1071,11 @@
     "_er_ei_er_ao_ci_ei_ci_ao": {
       "cv": null,
       "vc": [
-        "er  ei",
+        "er ei",
         null,
         "er ao",
         null,
-        "i0  ei",
+        "i0 ei",
         null,
         "i0 ao"
       ]
@@ -1281,7 +1281,7 @@
         null,
         "e c",
         "e s",
-        "e  ei"
+        "e ei"
       ]
     },
     "_bu_pu_mu_fu_du_tu_nu_lu": {
@@ -1407,7 +1407,7 @@
         null,
         "ei c",
         "ei s",
-        "ei  ei"
+        "ei ei"
       ]
     },
     "_bi_pi_mi_ye_di_ti_ni_li": {
@@ -1558,7 +1558,7 @@
         "ou l",
         "ou k",
         "ou h",
-        "ou  ei",
+        "ou ei",
         "ei ou"
       ]
     },
@@ -1697,7 +1697,7 @@
         null,
         "eng k",
         "eng h",
-        "eng  ei"
+        "eng ei"
       ]
     },
     "_dong_tong_nong_long_zhong_chong_yong_rong": {
@@ -1792,7 +1792,7 @@
         "i x",
         "i y",
         "i f",
-        "o  ei",
+        "o ei",
         "ei a",
         "a ao"
       ]
@@ -1862,7 +1862,7 @@
         "a e",
         "e V",
         "v a",
-        "a  ei",
+        "a ei",
         "ei e"
       ]
     },
@@ -1944,7 +1944,7 @@
         "o q",
         "i f",
         "en x",
-        "i  ei"
+        "i ei"
       ]
     },
     "_chi_en_e_eng_a_eng_e_ang": {
@@ -1988,10 +1988,10 @@
       "vc": [
         "er er",
         "er s",
-        "en  ei",
+        "en ei",
         "ei er",
         "er ch",
-        "ir  ei",
+        "ir ei",
         "ei ao"
       ]
     },
@@ -2078,7 +2078,7 @@
       "vc": [
         "i0 t",
         "i w",
-        "u  ei",
+        "u ei",
         null,
         "i0 a",
         "a V",
@@ -2090,11 +2090,11 @@
       "vc": [
         "ir f",
         "o y",
-        "i  ei",
+        "i ei",
         null,
         "ir t",
         "i V",
-        "v  ei"
+        "v ei"
       ]
     },
     "_shi_ni_shi_li_shi_xu_si_wu": {
@@ -2136,11 +2136,11 @@
     "_er_ei_er_ao_ci_ei_ci_ao": {
       "cv": null,
       "vc": [
-        "er  ei",
+        "er ei",
         null,
         "er ao",
         null,
-        "i0  ei",
+        "i0 ei",
         null,
         "i0 ao"
       ]
@@ -2228,7 +2228,7 @@
         "an p",
         "an m",
         "an f",
-        "an  ei"
+        "an ei"
       ]
     },
     "_guan_kuan_huan_wan_an_ran_ang_ei": {
@@ -2249,7 +2249,7 @@
         "an a",
         "an r",
         "an ao",
-        "ang  ei"
+        "ang ei"
       ]
     },
     "_zhuan_chuan_shuan_ruan_zuan_cuan_suan_e": {
@@ -2293,7 +2293,7 @@
         "ai w",
         "ai ch",
         "ai sh",
-        "ai  ei",
+        "ai ei",
         "ei e"
       ]
     },
@@ -2306,7 +2306,7 @@
         "ao a",
         "a r",
         "ang a",
-        "a  ei"
+        "a ei"
       ]
     },
     "_bo_po_mo_fo_wu_e_wu_a": {
@@ -2537,7 +2537,7 @@
         null,
         "ei c",
         "ei s",
-        "ei  ei"
+        "ei ei"
       ]
     },
     "_bi_pi_mi_ye_di_ti_ni_li": {
@@ -2575,7 +2575,7 @@
       "vc": [
         "i q",
         "i x",
-        "i  ei",
+        "i ei",
         null,
         "ian q",
         "ian x",
@@ -2616,11 +2616,11 @@
       ],
       "vc": [
         "i V",
-        "v  ei",
+        "v ei",
         "ei ou",
         null,
         "i w",
-        "u  ei",
+        "u ei",
         "ei ao"
       ]
     },
@@ -2642,7 +2642,7 @@
         null,
         "ian p",
         "ian m",
-        "ian  ei"
+        "ian ei"
       ]
     },
     "_yuan_e_juan_ou_quan_ai_xuan_ao": {
@@ -2768,7 +2768,7 @@
         "ang x",
         "ang ou",
         "ou e",
-        "e  ei"
+        "e ei"
       ]
     },
     "_zhuang_chuang_shuang_wang_rang_cang_sang_e": {
@@ -2810,7 +2810,7 @@
         "ou k",
         "ou h",
         "ou ao",
-        "ao  ei"
+        "ao ei"
       ]
     },
     "_zhou_chou_shou_rou_cou_sou_ou_a": {
@@ -3098,7 +3098,7 @@
         "in f",
         "an y",
         "i f",
-        "o  ei"
+        "o ei"
       ]
     },
     "_yi_sheng_yi_chen_yin_tian_yin_ei": {
@@ -3110,7 +3110,7 @@
         "en y",
         "in t",
         "ian y",
-        "in  ei"
+        "in ei"
       ]
     },
     "_ju_qu_xun_yu_nv_lv_yun_e": {
@@ -3224,7 +3224,7 @@
         "an x",
         "ian r",
         "e ou",
-        "eng  ei"
+        "eng ei"
       ]
     },
     "_yi_ke_qi_he_xi_re_yi_wu": {
@@ -3248,7 +3248,7 @@
         "i h",
         "ei x",
         "i r",
-        "ou  ei"
+        "ou ei"
       ]
     },
     "_yin_ken_qin_hen_xin_ruo_yin_wu": {
@@ -3426,7 +3426,7 @@
         "vn er",
         "er h",
         "eng er",
-        "er  ei",
+        "er ei",
         "ei er",
         "er ch"
       ]
@@ -3560,9 +3560,9 @@
     "_chi_ei_ci_ei_yu_wu_ci_ao": {
       "cv": null,
       "vc": [
-        "ir  ei",
+        "ir ei",
         null,
-        "i0  ei",
+        "i0 ei",
         null,
         "v w",
         null,
@@ -3574,11 +3574,11 @@
       "vc": [
         "in a",
         "an ou",
-        "en  ei",
+        "en ei",
         null,
         "v a",
         null,
-        "i  ei"
+        "i ei"
       ]
     },
     "_ying_yi_ai_ying_ei_ci_en_ao": {
@@ -3587,7 +3587,7 @@
         "ing y",
         "i a",
         "ai y",
-        "ing  ei",
+        "ing ei",
         null,
         "i0 ou",
         "en ao"
@@ -3598,7 +3598,7 @@
       "vc": [
         "v e",
         null,
-        "vn  ei",
+        "vn ei",
         null,
         "vn ao",
         null,
@@ -3610,7 +3610,7 @@
       "vc": [
         "v ou",
         null,
-        "ong  ei",
+        "ong ei",
         null,
         "ing ou",
         null,
