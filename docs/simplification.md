@@ -56,3 +56,13 @@ The characteristic of both CVVC and VCV voice libraries is that splicing occurs 
 
   - 其中：`y`为`i` `ia` `ie` `iao` `iu`(iou) `ian` `in` `iang` `ing`单独作为音节时的辅音，`w`为`u` `ua` `uo/o` `uai` `ui`(uei) `uan`(uen) `un` `uang` `ueng` `ong`单独作为音节时的辅音，`V`为`v`(ü) `ue`(üe) `van`(üan) `vn`(ün) `iong`单独作为音节时的辅音。  
     Where: `y` is the consonant when `i`, `ia`, `ie`, `iao`, `iu`(iou), `ian`, `in`, `iang`, `ing` stand alone as syllables; `w` is the consonant when `u`, `ua`, `uo/o`, `uai`, `ui`(uei), `uan`(uen), `un`, `uang`, `ueng`, `ong` stand alone as syllables; `V` is the consonant when `v`(ü), `ue`(üe), `van`(üan), `vn`(ün), `iong` stand alone as syllables.
+
+{ : .note }
+> 为了兼容DeepVocal和VocalSharp的别名规则，部分音素的别名进行了调整。  
+> To be compatible with the alias rules of DeepVocal and VocalSharp, the aliases of some phonemes have been adjusted.  
+>
+>  音头的`A` `@`被重命名为`ao` `ou`，作为半元音的`v`(ü)被重命名为`V`，韵尾`:i` `:u` `n` `ng`被重命名为`ei` `ou` `en` `eng`。  
+> The initials `A` and `@` are renamed to `ao` and `ou`; the semi-vowel `v` (ü) is renamed to `V`; and the Endings `:i`, `:u`, `n`, and `ng` are renamed to `ei`, `ou`, `en`, and `eng` respectively.   
+> 
+> 如果您使用之前的版本，请手动重命名这些别名。  
+> If you are using the previous version, please rename these aliases manually.  
