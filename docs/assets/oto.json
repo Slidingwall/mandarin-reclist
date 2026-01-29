@@ -289,9 +289,9 @@
         "ei h",
         null,
         null,
-        "e0 q",
-        "e0 x",
-        "e0 ou"
+        "ie q",
+        "ie x",
+        "ie ou"
       ]
     },
     "_gui_kui_hui_wei_dui_tui_yi_ou": {
@@ -348,13 +348,13 @@
         "lie"
       ],
       "vc": [
-        "e0 p",
-        "e0 m",
-        "e0 y",
+        "ie p",
+        "ie m",
+        "ie y",
         null,
-        "e0 t",
-        "e0 n",
-        "e0 l"
+        "ie t",
+        "ie n",
+        "ie l"
       ]
     },
     "_yue_jue_que_xue_a_nue_lue_e": {
@@ -372,10 +372,10 @@
         null,
         null,
         null,
-        "e0 a",
+        "ie a",
         null,
         null,
-        "e0 e"
+        "ie e"
       ]
     },
     "_shi_miao_biao_piao_diao_tiao_niao_liao": {
@@ -751,7 +751,7 @@
       "cv": null,
       "vc": [
         "ir p",
-        "e0 ch",
+        "ie ch",
         "ir w",
         "u V",
         "v t",
@@ -829,11 +829,11 @@
       "cv": null,
       "vc": [
         "i0 l",
-        "e0 k",
+        "ie k",
         "ei q",
-        "e0 h",
+        "ie h",
         "ei x",
-        "e0 r",
+        "ie r",
         "o ou"
       ]
     },
@@ -868,9 +868,9 @@
         "v ou",
         null,
         "o q",
-        "e0 f",
+        "ie f",
         "en x",
-        "e0 ei"
+        "ie ei"
       ]
     },
     "_chi_en_e_eng_a_eng_e_ang": {
@@ -892,7 +892,7 @@
         "ir er",
         "er r",
         "eng x",
-        "e0 er",
+        "ie er",
         "er p",
         "eng w"
       ]
@@ -979,7 +979,7 @@
       "cv": null,
       "vc": [
         "i0 n",
-        "e0 s",
+        "ie s",
         "i0 r",
         "ir y",
         "i s",
@@ -1000,7 +1000,7 @@
       ],
       "vc": [
         "i0 p",
-        "e0 c",
+        "ie c",
         "i0 m",
         "u e",
         "e w",
@@ -1012,7 +1012,7 @@
       "cv": null,
       "vc": [
         "i0 t",
-        "e0 w",
+        "ie w",
         "u ei",
         null,
         "i0 a",
@@ -1028,7 +1028,7 @@
         "i ei",
         null,
         "ir t",
-        "e0 V",
+        "ie V",
         "v ei"
       ]
     },
@@ -1036,7 +1036,7 @@
       "cv": null,
       "vc": [
         "ir n",
-        "e0 sh",
+        "ie sh",
         "ir l",
         null,
         "ir x",
@@ -1053,7 +1053,7 @@
         "o x",
         null,
         "er t",
-        "e0 ao"
+        "ie ao"
       ]
     },
     "_chi_qi_chi_ao_chi_a_er_yi": {
@@ -1363,9 +1363,9 @@
         "ei h",
         null,
         null,
-        "e0 q",
-        "e0 x",
-        "e0 ou"
+        "ie q",
+        "ie x",
+        "ie ou"
       ]
     },
     "_gui_kui_hui_wei_dui_tui_yi_ou": {
@@ -1422,13 +1422,13 @@
         "lie"
       ],
       "vc": [
-        "e0 p",
-        "e0 m",
-        "e0 y",
+        "ie p",
+        "ie m",
+        "ie y",
         null,
-        "e0 t",
-        "e0 n",
-        "e0 l"
+        "ie t",
+        "ie n",
+        "ie l"
       ]
     },
     "_yue_jue_que_xue_a_nue_lue_e": {
@@ -1446,10 +1446,10 @@
         null,
         null,
         null,
-        "e0 a",
+        "ie a",
         null,
         null,
-        "e0 e"
+        "ie e"
       ]
     },
     "_shi_miao_biao_piao_diao_tiao_niao_liao": {
@@ -1834,7 +1834,7 @@
       "cv": null,
       "vc": [
         "ir p",
-        "e0 ch",
+        "ie ch",
         "ir w",
         "u V",
         "v t",
@@ -1903,11 +1903,11 @@
       "cv": null,
       "vc": [
         "i0 l",
-        "e0 k",
+        "ie k",
         "ei q",
-        "e0 h",
+        "ie h",
         "ei x",
-        "e0 r",
+        "ie r",
         "ou ao"
       ]
     },
@@ -1942,9 +1942,9 @@
         "v ou",
         "ou p",
         "o q",
-        "e0 f",
+        "ie f",
         "en x",
-        "e0 ei"
+        "ie ei"
       ]
     },
     "_chi_en_e_eng_a_eng_e_ang": {
@@ -1966,7 +1966,7 @@
         "ir er",
         "er r",
         "eng x",
-        "e0 er",
+        "ie er",
         "er p",
         "eng w"
       ]
@@ -2053,7 +2053,7 @@
       ],
       "vc": [
         "i0 n",
-        "e0 s",
+        "ie s",
         "i0 r",
         "ir y",
         "i s",
@@ -2065,7 +2065,7 @@
       "cv": null,
       "vc": [
         "i0 p",
-        "e0 c",
+        "ie c",
         "i0 m",
         "u e",
         "e w",
@@ -2077,7 +2077,7 @@
       "cv": null,
       "vc": [
         "i0 t",
-        "e0 w",
+        "ie w",
         "u ei",
         null,
         "i0 a",
@@ -2093,7 +2093,7 @@
         "i ei",
         null,
         "ir t",
-        "e0 V",
+        "ie V",
         "v ei"
       ]
     },
@@ -2101,7 +2101,7 @@
       "cv": null,
       "vc": [
         "ir n",
-        "e0 sh",
+        "ie sh",
         "ir l",
         null,
         "ir x",
@@ -2118,7 +2118,7 @@
         "o x",
         null,
         "er t",
-        "e0 ao"
+        "ie ao"
       ]
     },
     "_chi_qi_chi_ao_chi_a_er_yi": {
@@ -2552,13 +2552,13 @@
         "lie"
       ],
       "vc": [
-        "e0 p",
-        "e0 m",
-        "e0 y",
+        "ie p",
+        "ie m",
+        "ie y",
         null,
-        "e0 t",
-        "e0 n",
-        "e0 l"
+        "ie t",
+        "ie n",
+        "ie l"
       ]
     },
     "_jie_qie_xie_ei_jian_qian_xian_wu": {
@@ -2573,13 +2573,13 @@
         null
       ],
       "vc": [
-        "e0 q",
-        "e0 x",
-        "e0 ei",
+        "ie q",
+        "ie x",
+        "ie ei",
         null,
-        "en0 q",
-        "en0 x",
-        "en0 w"
+        "ian q",
+        "ian x",
+        "ian w"
       ]
     },
     "_yue_ao_jue_a_que_en_xue_e": {
@@ -2594,13 +2594,13 @@
         null
       ],
       "vc": [
-        "e0 ao",
+        "ie ao",
         null,
-        "e0 a",
+        "ie a",
         null,
-        "e0 ou",
+        "ie ou",
         null,
-        "e0 e"
+        "ie e"
       ]
     },
     "_nue_yu_ei_ou_lue_wu_ei_ao": {
@@ -2615,11 +2615,11 @@
         null
       ],
       "vc": [
-        "e0 V",
+        "ie V",
         "v ei",
         "ei ou",
         null,
-        "e0 w",
+        "ie w",
         "u ei",
         "ei ao"
       ]
@@ -2636,13 +2636,13 @@
         null
       ],
       "vc": [
-        "en0 t",
-        "en0 n",
-        "en0 l",
+        "ian t",
+        "ian n",
+        "ian l",
         null,
-        "en0 p",
-        "en0 m",
-        "en0 ei"
+        "ian p",
+        "ian m",
+        "ian ei"
       ]
     },
     "_yuan_e_juan_ou_quan_ai_xuan_ao": {
@@ -2657,13 +2657,13 @@
         null
       ],
       "vc": [
-        "en0 e",
+        "ian e",
         null,
-        "en0 ou",
+        "ian ou",
         null,
-        "en0 a",
+        "ian a",
         null,
-        "en0 ao"
+        "ian ao"
       ]
     },
     "_diao_tiao_niao_liao_biao_piao_miao_en": {
@@ -3109,7 +3109,7 @@
         "i ch",
         "een y",
         "ien t",
-        "en0 y",
+        "ian y",
         "ien ei"
       ]
     },
@@ -3140,7 +3140,7 @@
         "v p",
         "aen V",
         "v m",
-        "en0 V",
+        "ian V",
         "v t",
         "ieng V",
         "v f"
@@ -3155,7 +3155,7 @@
         "o V",
         "v sh",
         "eeng V",
-        "en0 f"
+        "ian f"
       ]
     },
     "_jun_qun_xun_yin_yun_pang_yun_ou": {
@@ -3218,11 +3218,11 @@
         null
       ],
       "vc": [
-        "en0 k",
+        "ian k",
         "aen q",
-        "en0 h",
+        "ian h",
         "aen x",
-        "en0 r",
+        "ian r",
         "e ou",
         "eeng ei"
       ]
@@ -3243,11 +3243,11 @@
       "cv": null,
       "vc": [
         "ai x",
-        "e0 k",
+        "ie k",
         "ei q",
-        "e0 h",
+        "ie h",
         "ei x",
-        "e0 r",
+        "ie r",
         "ou ei"
       ]
     },
@@ -3301,7 +3301,7 @@
       "vc": [
         "ou p",
         "o q",
-        "e0 f",
+        "ie f",
         "o x",
         "ao f",
         "ei a",
@@ -3312,9 +3312,9 @@
       "cv": null,
       "vc": [
         "oeng p",
-        "en0 c",
+        "ian c",
         "oeng m",
-        "en0 s",
+        "ian s",
         "oeng f",
         "een a",
         "a ao"
@@ -3333,9 +3333,9 @@
       ],
       "vc": [
         "e p",
-        "en0 ch",
+        "ian ch",
         "e m",
-        "en0 sh",
+        "ian sh",
         "e f",
         "eeng a",
         "ai f"
@@ -3353,9 +3353,9 @@
         null
       ],
       "vc": [
-        "e0 er",
+        "ie er",
         "er p",
-        "en0 er",
+        "ian er",
         "er m",
         "i er",
         "er f",
@@ -3480,7 +3480,7 @@
       "cv": null,
       "vc": [
         "i0 p",
-        "e0 c",
+        "ie c",
         "i0 m",
         "ien c",
         "i0 t",
@@ -3492,7 +3492,7 @@
       "cv": null,
       "vc": [
         "i0 n",
-        "e0 s",
+        "ie s",
         "i0 l",
         "ien s",
         "i0 q",
@@ -3516,7 +3516,7 @@
       "cv": null,
       "vc": [
         "ir p",
-        "e0 ch",
+        "ie ch",
         "ir m",
         "ien ch",
         "ir t",
@@ -3528,7 +3528,7 @@
       "cv": null,
       "vc": [
         "ir n",
-        "e0 sh",
+        "ie sh",
         "ir l",
         "ien sh",
         "ir q",
@@ -3660,7 +3660,7 @@
       "a a",
       "a wo",
       "o mie",
-      "e0 ne",
+      "ie ne",
       "e yu",
       "v tu",
       "u ao"
@@ -3670,7 +3670,7 @@
       "a ba",
       "a bo",
       "o die",
-      "e0 le",
+      "ie le",
       "e nv",
       "v nu",
       "u bao"
@@ -3680,7 +3680,7 @@
       "a pa",
       "a po",
       "o tie",
-      "e0 ge",
+      "ie ge",
       "e wou",
       "en cha",
       "en yao"
@@ -3690,7 +3690,7 @@
       "a ma",
       "a mo",
       "o nie",
-      "e0 shi",
+      "ie shi",
       "ir fu",
       "u tong",
       "eng la"
@@ -3700,7 +3700,7 @@
       "a fa",
       "a fo",
       "o lie",
-      "e0 shu",
+      "ie shu",
       "u fou",
       "eng ran",
       "en tu"
@@ -3710,7 +3710,7 @@
       "a da",
       "a duo",
       "o jie",
-      "e0 ru",
+      "ie ru",
       "u dou",
       "eng duan",
       "en dao"
@@ -3720,7 +3720,7 @@
       "a ta",
       "a tuo",
       "o qie",
-      "e0 kua",
+      "ie kua",
       "en za",
       "a yong",
       "eng ao"
@@ -3730,7 +3730,7 @@
       "a na",
       "a nuo",
       "o xie",
-      "e0 hua",
+      "ie hua",
       "en ca",
       "a tong",
       "eng mao"
@@ -3740,7 +3740,7 @@
       "a la",
       "a luo",
       "o yue",
-      "e0 er",
+      "ie er",
       "er pu",
       "u wei",
       "ei ha"
@@ -3770,7 +3770,7 @@
       "a ha",
       "a huo",
       "o jue",
-      "e0 chu",
+      "ie chu",
       "u mou",
       "en se",
       "e su"
@@ -3780,7 +3780,7 @@
       "a zha",
       "a zhuo",
       "o que",
-      "e0 zhuang",
+      "ie zhuang",
       "eng che",
       "e kong",
       "eng gei"
@@ -3790,7 +3790,7 @@
       "a cha",
       "a chuo",
       "o xue",
-      "e0 gong",
+      "ie gong",
       "eng she",
       "e ju",
       "v gu"
@@ -3802,7 +3802,7 @@
       "o ei",
       "ei ku",
       "u ye",
-      "e0 ke",
+      "ie ke",
       "e zhua"
     ],
     "_za_za_ruo_bei_hu_bie_he_chua": [
@@ -3812,7 +3812,7 @@
       "o bei",
       "ei hu",
       "u bie",
-      "e0 he",
+      "ie he",
       "e chua"
     ],
     "_ca_ca_zuo_shi_shuo_shu_zuo_dao": [
@@ -3882,7 +3882,7 @@
       "e gu",
       "u wou",
       "en die",
-      "e0 lun",
+      "ie lun",
       "en ha"
     ],
     "_kua_kua_ke_wu_lun_lie_fang_bei": [
@@ -3892,7 +3892,7 @@
       "e wu",
       "u lun",
       "en lie",
-      "e0 fang",
+      "ie fang",
       "eng bei"
     ],
     "_hua_hua_he_nei_ye_ri_ci_dao": [
@@ -3901,7 +3901,7 @@
       "a he",
       "e nei",
       "ei ye",
-      "e0 ri",
+      "ie ri",
       "ir ci",
       "i0 dao"
     ],
@@ -3912,7 +3912,7 @@
       "e lei",
       "ei ru",
       "u tie",
-      "e0 re",
+      "ie re",
       "e po"
     ],
     "_chua_chua_che_gei_zu_nie_ze_mo": [
@@ -3922,7 +3922,7 @@
       "e gei",
       "ei zu",
       "u nie",
-      "e0 ze",
+      "ie ze",
       "e mo"
     ],
     "_wo_wo_e_xu_hu_cheng_chen_kuo": [
@@ -4021,7 +4021,7 @@
       "o zhe",
       "e hui",
       "ei mie",
-      "e0 tu",
+      "ie tu",
       "u ei",
       "ei ou"
     ],
@@ -4052,7 +4052,7 @@
       "e shui",
       "ei zhi",
       "ir ye",
-      "e0 suo",
+      "ie suo",
       "o mou"
     ],
     "_chuo_chuo_ze_cu_cong_teng_wei_bou": [
@@ -4081,7 +4081,7 @@
       "o se",
       "e zha",
       "a nie",
-      "e0 bo",
+      "ie bo",
       "o er",
       "er wu"
     ],
@@ -4089,17 +4089,17 @@
       "- zuo",
       "o zuo",
       "o ye",
-      "e0 cu",
+      "ie cu",
       "u nou",
       "en bie",
-      "e0 pi",
+      "ie pi",
       "i huo"
     ],
     "_cuo_cuo_bie_gui_fang_fu_ga_tao": [
       "- cuo",
       "o cuo",
       "o bie",
-      "e0 gui",
+      "ie gui",
       "ei fang",
       "eng fu",
       "u ga",
@@ -4119,7 +4119,7 @@
       "- e",
       "e e",
       "e ye",
-      "e0 hui",
+      "ie hui",
       "ei wang",
       "eng kao",
       "eng gao",
@@ -4129,7 +4129,7 @@
       "- me",
       "e me",
       "e bie",
-      "e0 zhou",
+      "ie zhou",
       "en hua",
       "a chi",
       "ir bo",
@@ -4149,9 +4149,9 @@
       "- te",
       "e te",
       "e mie",
-      "e0 shui",
+      "ie shui",
       "ei bie",
-      "e0 luo",
+      "ie luo",
       "o yong",
       "eng mei"
     ],
@@ -4159,7 +4159,7 @@
       "- ne",
       "e ne",
       "e die",
-      "e0 guang",
+      "ie guang",
       "eng shuo",
       "o ca",
       "a zhong",
@@ -4169,17 +4169,17 @@
       "- le",
       "e le",
       "e tie",
-      "e0 zui",
+      "ie zui",
       "ei cu",
       "u lie",
-      "e0 ce",
+      "ie ce",
       "e fo"
     ],
     "_ge_ge_nie_yong_su_mo_lei_cuo": [
       "- ge",
       "e ge",
       "e nie",
-      "e0 yong",
+      "ie yong",
       "eng su",
       "u mo",
       "o lei",
@@ -4189,7 +4189,7 @@
       "- ke",
       "e ke",
       "e lie",
-      "e0 sui",
+      "ie sui",
       "ei yong",
       "eng bou",
       "en bo",
@@ -4199,7 +4199,7 @@
       "- he",
       "e he",
       "e jie",
-      "e0 zi",
+      "ie zi",
       "i0 zong",
       "eng da",
       "a ri",
@@ -4209,7 +4209,7 @@
       "- zhe",
       "e zhe",
       "e qie",
-      "e0 dong",
+      "ie dong",
       "eng nv",
       "v da",
       "en nu",
@@ -4229,7 +4229,7 @@
       "- she",
       "e she",
       "e yue",
-      "e0 zong",
+      "ie zong",
       "eng ce",
       "e zhuang",
       "eng na",
@@ -4239,7 +4239,7 @@
       "- re",
       "e re",
       "e xie",
-      "e0 tong",
+      "ie tong",
       "eng lv",
       "v ta",
       "en er",
@@ -4249,7 +4249,7 @@
       "- ze",
       "e ze",
       "e jue",
-      "e0 zhong",
+      "ie zhong",
       "eng er",
       "er zhi",
       "ir wa",
@@ -4269,7 +4269,7 @@
       "- se",
       "e se",
       "e que",
-      "e0 ni",
+      "ie ni",
       "i sa",
       "en pu",
       "u shuo",
@@ -4277,8 +4277,8 @@
     ],
     "_ye_ye_ei_he_huo_zong_ba_jiu": [
       "- ye",
-      "e0 ye",
-      "e0 ei",
+      "ie ye",
+      "ie ei",
       "ei he",
       "e huo",
       "o zong",
@@ -4287,8 +4287,8 @@
     ],
     "_bie_bie_bei_zhe_zhuo_cong_pa_qiu": [
       "- bie",
-      "e0 bie",
-      "e0 bei",
+      "ie bie",
+      "ie bei",
       "ei zhe",
       "e zhuo",
       "o cong",
@@ -4297,8 +4297,8 @@
     ],
     "_mie_mie_mei_nen_zi_ang_se_fou": [
       "- mie",
-      "e0 mie",
-      "e0 mei",
+      "ie mie",
+      "ie mei",
       "ei nou",
       "en zi",
       "i0 ao",
@@ -4307,8 +4307,8 @@
     ],
     "_die_die_fei_ci_se_yong_re_rou": [
       "- die",
-      "e0 die",
-      "e0 fei",
+      "ie die",
+      "ie fei",
       "ei ci",
       "i0 se",
       "e yong",
@@ -4317,8 +4317,8 @@
     ],
     "_tie_tie_yu_e_zi_ju_ge_cha": [
       "- tie",
-      "e0 tie",
-      "e0 yu",
+      "ie tie",
+      "ie yu",
       "v e",
       "e zi",
       "i0 ju",
@@ -4327,8 +4327,8 @@
     ],
     "_nie_nie_nv_me_ci_qu_ke_sha": [
       "- nie",
-      "e0 nie",
-      "e0 nv",
+      "ie nie",
+      "ie nv",
       "v me",
       "e ci",
       "i0 qu",
@@ -4337,8 +4337,8 @@
     ],
     "_lie_lie_nei_kong_xia_te_guo_yao": [
       "- lie",
-      "e0 lie",
-      "e0 nei",
+      "ie lie",
+      "ie nei",
       "ei kong",
       "eng xia",
       "a te",
@@ -4347,28 +4347,28 @@
     ],
     "_jie_jie_lei_zhen_qie_chi_ke_wo": [
       "- jie",
-      "e0 jie",
-      "e0 lei",
+      "ie jie",
+      "ie lei",
       "ei zhou",
       "en qie",
-      "e0 chi",
+      "ie chi",
       "ir ke",
-      "e0 wo"
+      "ie wo"
     ],
     "_qie_qie_gei_qie_wen_bi_qu_sha": [
       "- qie",
-      "e0 qie",
-      "e0 gei",
+      "ie qie",
+      "ie gei",
       "ei qie",
-      "e0 wou",
+      "ie wou",
       "en bi",
       "i qu",
       "v sha"
     ],
     "_xie_xie_qu_ne_chi_qu_che_ca": [
       "- xie",
-      "e0 xie",
-      "e0 qu",
+      "ie xie",
+      "ie qu",
       "v ne",
       "e chi",
       "ir qu",
@@ -4377,8 +4377,8 @@
     ],
     "_yue_yue_xu_le_shi_xu_she_sa": [
       "- yue",
-      "e0 yue",
-      "e0 xu",
+      "ie yue",
+      "ie xu",
       "v le",
       "e shi",
       "ir xu",
@@ -4387,30 +4387,30 @@
     ],
     "_jue_jue_zu_teng_que_mu_jue_tou": [
       "- jue",
-      "e0 jue",
-      "e0 zu",
+      "ie jue",
+      "ie zu",
       "u tou",
       "eng que",
-      "e0 mu",
+      "ie mu",
       "u jue",
-      "e0 tou"
+      "ie tou"
     ],
     "_que_que_wei_que_ran_lv_ya_mao": [
       "- que",
-      "e0 que",
-      "e0 wei",
+      "ie que",
+      "ie wei",
       "ei que",
-      "e0 ran",
+      "ie ran",
       "en lv",
       "v ya",
       "a mao"
     ],
     "_xue_xue_dui_xue_duan_yu_can_bao": [
       "- xue",
-      "e0 xue",
-      "e0 dui",
+      "ie xue",
+      "ie dui",
       "ei xue",
-      "e0 duan",
+      "ie duan",
       "en yu",
       "v ca",
       "en bao"
@@ -4470,7 +4470,7 @@
       "ei lei",
       "ei chu",
       "u mie",
-      "e0 che",
+      "ie che",
       "e wo",
       "o gua",
       "a lao"
@@ -4480,7 +4480,7 @@
       "ei gei",
       "ei shu",
       "u die",
-      "e0 she",
+      "ie she",
       "e bo",
       "o kua",
       "a gao"
@@ -4491,7 +4491,7 @@
       "ei nv",
       "v jia",
       "a que",
-      "e0 kuo",
+      "ie kuo",
       "o cu",
       "u liu"
     ],
@@ -4543,7 +4543,7 @@
       "a duan",
       "en ri",
       "ir yue",
-      "e0 ha"
+      "ie ha"
     ],
     "_sui_sui_ri_zhuan_ba_wen_teng_lao": [
       "- sui",
@@ -4558,7 +4558,7 @@
     "_ang_ye_yi_guo_tong_nei_shao_kuo": [
       "- ao",
       "eng ye",
-      "e0 yi",
+      "ie yi",
       "i guo",
       "o tong",
       "eng nei",
@@ -4568,9 +4568,9 @@
     "_bang_bie_bi_jue_xi_sha_me_ei": [
       "- bao",
       "eng bie",
-      "e0 bi",
+      "ie bi",
       "i jue",
-      "e0 xi",
+      "ie xi",
       "i sha",
       "a me",
       "e ei"
@@ -4578,9 +4578,9 @@
     "_mang_mie_mi_xue_bu_yang_men_mo": [
       "- mao",
       "eng mie",
-      "e0 mi",
+      "ie mi",
       "i xue",
-      "e0 bu",
+      "ie bu",
       "u yao",
       "eng mou",
       "en mo"
@@ -4588,27 +4588,27 @@
     "_dang_die_di_ei_pu_ta_qie_fo": [
       "- dao",
       "eng die",
-      "e0 di",
+      "ie di",
       "i ei",
       "ei pu",
       "u ta",
       "a qie",
-      "e0 fo"
+      "ie fo"
     ],
     "_tang_tie_ti_bei_su_jie_se_duo": [
       "- tao",
       "eng tie",
-      "e0 ti",
+      "ie ti",
       "i bei",
       "ei su",
       "u jie",
-      "e0 se",
+      "ie se",
       "e duo"
     ],
     "_lang_lie_li_mei_mu_ni_shu_nuo": [
       "- lao",
       "eng lie",
-      "e0 li",
+      "ie li",
       "i mei",
       "ei mu",
       "u ni",
@@ -4630,7 +4630,7 @@
       "eng ka",
       "a fang",
       "eng qie",
-      "e0 hu",
+      "ie hu",
       "u bou",
       "en ze",
       "e zu"
@@ -4640,7 +4640,7 @@
       "eng ha",
       "a wang",
       "eng xie",
-      "e0 ju",
+      "ie ju",
       "v te",
       "e zhi",
       "ir dao"
@@ -4650,17 +4650,17 @@
       "eng zha",
       "a guang",
       "eng yue",
-      "e0 fu",
+      "ie fu",
       "u que",
-      "e0 nou",
+      "ie nou",
       "en fa"
     ],
     "_chang_nie_du_xue_an_re_nu_zao": [
       "- chao",
       "eng nie",
-      "e0 du",
+      "ie du",
       "u xue",
-      "e0 a",
+      "ie a",
       "en re",
       "e nu",
       "u zao"
@@ -4668,7 +4668,7 @@
     "_shang_xue_nuo_guang_gen_ru_wo_kao": [
       "- shao",
       "eng xue",
-      "e0 nuo",
+      "ie nuo",
       "o guang",
       "eng gou",
       "eng ru",
@@ -4678,7 +4678,7 @@
     "_rang_jie_ji_fei_xia_kong_chua_hou": [
       "- rao",
       "eng jie",
-      "e0 ji",
+      "ie ji",
       "i fei",
       "ei xia",
       "a kong",
@@ -4690,7 +4690,7 @@
       "eng za",
       "a zhuang",
       "eng jue",
-      "e0 nu",
+      "ie nu",
       "u bei",
       "ei ni",
       "i you"
@@ -4743,7 +4743,7 @@
       "eng tu",
       "u ha",
       "a jue",
-      "e0 guo"
+      "ie guo"
     ],
     "_en_eng_zhuo_ri_ruo_ru_fei_a": [
       "- ou",
@@ -4781,7 +4781,7 @@
       "eng zuo",
       "o ya",
       "en yue",
-      "e0 me",
+      "ie me",
       "e gua",
       "a liu"
     ],
@@ -4801,9 +4801,9 @@
       "o bou",
       "en da",
       "en sha",
-      "e0 qi",
+      "ie qi",
       "i yue",
-      "e0 xiao"
+      "ie xiao"
     ],
     "_nen_neng_e_wan_zui_bo_nv_bu": [
       "- nou",
@@ -4921,7 +4921,7 @@
       "er sha",
       "en ni",
       "i que",
-      "e0 wu",
+      "ie wu",
       "u gong",
       "eng dou"
     ],
@@ -4931,7 +4931,7 @@
       "er ya",
       "a e",
       "e xue",
-      "e0 gu",
+      "ie gu",
       "u mei",
       "ei mou"
     ],
@@ -5071,7 +5071,7 @@
       "eng pu",
       "u na",
       "a xie",
-      "e0 duo",
+      "ie duo",
       "o chua",
       "a zhao"
     ],
@@ -5081,7 +5081,7 @@
       "eng mu",
       "u la",
       "a yue",
-      "e0 tuo",
+      "ie tuo",
       "o hua",
       "a kao"
     ],
@@ -5091,7 +5091,7 @@
       "eng lu",
       "u cha",
       "a xue",
-      "e0 huo",
+      "ie huo",
       "o zhua",
       "a hao"
     ],
@@ -5113,7 +5113,7 @@
       "a mei",
       "ei wu",
       "u qie",
-      "e0 ou"
+      "ie ou"
     ],
     "_yi_yi_wu_da_jie_pu_gong_tao": [
       "- yi",
@@ -5121,7 +5121,7 @@
       "i wu",
       "u da",
       "a jie",
-      "e0 pu",
+      "ie pu",
       "a gong",
       "eng tao"
     ],
@@ -5261,7 +5261,7 @@
       "u ju",
       "v ba",
       "a lie",
-      "e0 po",
+      "ie po",
       "o you",
       "o chou"
     ],
@@ -5410,7 +5410,7 @@
       "u su",
       "u fa",
       "a ye",
-      "e0 e",
+      "ie e",
       "e kua",
       "a pu",
       "u dao"
@@ -5423,7 +5423,7 @@
       "i0 ka",
       "a bu",
       "u yue",
-      "e0 chuo"
+      "ie chuo"
     ],
     "_nv_nv_zi_pan_zhong_a_tie_qiao": [
       "- nv",
@@ -5433,7 +5433,7 @@
       "en zhong",
       "eng a",
       "a tie",
-      "e0 qiao"
+      "ie qiao"
     ],
     "_lv_lv_ci_ma_sui_bu_xie_ben": [
       "- lv",
@@ -5443,7 +5443,7 @@
       "a sui",
       "ei bu",
       "u xie",
-      "e0 bou"
+      "ie bou"
     ],
     "_ju_ju_si_fa_su_li_xie_zuo": [
       "- ju",
@@ -5453,7 +5453,7 @@
       "a su",
       "u li",
       "i xie",
-      "e0 zuo"
+      "ie zuo"
     ],
     "_qu_qu_zhi_lan_que_ci_cong_tiao": [
       "- qu",
@@ -5461,7 +5461,7 @@
       "v zhi",
       "ir la",
       "en que",
-      "e0 ci",
+      "ie ci",
       "i0 cong",
       "eng tiao"
     ],
@@ -5520,7 +5520,7 @@
       "ir zhi",
       "ir a",
       "a bie",
-      "e0 zhuo",
+      "ie zhuo",
       "o jia",
       "a ji",
       "i mao"
@@ -5540,7 +5540,7 @@
       "ir shi",
       "ir pa",
       "a mie",
-      "e0 shuo",
+      "ie shuo",
       "o xia",
       "a xi",
       "i tao"
@@ -5550,7 +5550,7 @@
       "ir ri",
       "ir ma",
       "a die",
-      "e0 ruo",
+      "ie ruo",
       "o wa",
       "a wu",
       "u mao"
@@ -5591,9 +5591,9 @@
       "ei xu",
       "v gua",
       "en xue",
-      "e0 si",
+      "ie si",
       "i0 jie",
-      "e0 ao"
+      "ie ao"
     ],
     "_er_lv_pi_po_chao_ci_li_fa": [
       null,
@@ -5613,7 +5613,7 @@
       "o shao",
       "o zi",
       "i0 yue",
-      "e0 gua"
+      "ie gua"
     ],
     "_er_pi_she_hu_liang_nen_duo_zou": [
       null,
@@ -5660,7 +5660,7 @@
       "v wo",
       "o a",
       "en jie",
-      "e0 zhi",
+      "ie zhi",
       "ir zong",
       "eng wa",
       "a tou"
@@ -5678,10 +5678,10 @@
     "_yu_nie_kong_chan_jue_lv_de_liu": [
       null,
       "v nie",
-      "e0 kong",
+      "ie kong",
       "eng cha",
       "en jue",
-      "e0 lv",
+      "ie lv",
       "v de",
       "e liu"
     ],
@@ -5689,7 +5689,7 @@
       null,
       "v di",
       "i mie",
-      "e0 chou",
+      "ie chou",
       "en zhua",
       "en nv",
       "v sa",
@@ -5700,16 +5700,16 @@
       "ir cuo",
       "o bi",
       "i bie",
-      "e0 hou",
+      "ie hou",
       "en kua",
       "en xie",
-      "e0 zhao"
+      "ie zhao"
     ],
     "_zhi_yu_yue_zhe_pu_sheng_shen_huo": [
       null,
       "ir yu",
       "v yue",
-      "e0 zhe",
+      "ie zhe",
       "e pu",
       "u shou",
       "eng shou",
@@ -5731,7 +5731,7 @@
       "e jiu",
       null,
       "v xie",
-      "e0 de",
+      "ie de",
       "e ran",
       "en zao"
     ],
@@ -5763,7 +5763,7 @@
       "a gou",
       null,
       "er die",
-      "e0 chao"
+      "ie chao"
     ],
     "_er_bo_di_fo_lao_er_he_hou": [
       null,
@@ -5782,7 +5782,7 @@
       "i zhao",
       null,
       "i0 que",
-      "e0 chua",
+      "ie chua",
       "en liu"
     ],
     "_er_nei_yu_mie_liao_er_re_rou": [
@@ -5790,7 +5790,7 @@
       "er nei",
       "ei yu",
       "v mie",
-      "e0 liao",
+      "ie liao",
       null,
       "er re",
       "e rou"
@@ -5823,7 +5823,7 @@
       "o gong",
       null,
       "er xue",
-      "e0 gou"
+      "ie gou"
     ],
     "_er_dan_bei_zou_er_xi_suo_jiu": [
       null,
@@ -5893,12 +5893,12 @@
       null,
       "er ran",
       "en mie",
-      "e0 yao"
+      "ie yao"
     ],
     "_er_lie_can_shao_zi_shan_qi_biao": [
       null,
       "er lie",
-      "e0 ca",
+      "ie ca",
       "en shao",
       null,
       "i0 sha",
@@ -5998,7 +5998,7 @@
     "_er_bie_ku_zeng_zen_chuo_er_tou": [
       null,
       "er bie",
-      "e0 ku",
+      "ie ku",
       "u zou",
       "eng zou",
       "en chuo",
@@ -6012,7 +6012,7 @@
       "o dou",
       null,
       "ir xie",
-      "e0 ka",
+      "ie ka",
       "a mou"
     ],
     "_yu_nei_chan_jiu_er_dui_ju_xia": [
@@ -6052,7 +6052,7 @@
       "en gua",
       null,
       "v bie",
-      "e0 pa",
+      "ie pa",
       "en qiu"
     ],
     "_yu_wei_re_ruo_zhao_er_kan_jia": [
@@ -6069,7 +6069,7 @@
       null,
       "v ni",
       "i tie",
-      "e0 rou",
+      "ie rou",
       "en you",
       null,
       "er te",
@@ -6089,7 +6089,7 @@
       null,
       "v ti",
       "i die",
-      "e0 shou",
+      "ie shou",
       "en tiao",
       null,
       "er ze",
@@ -6109,11 +6109,11 @@
       null,
       "v ji",
       "i lie",
-      "e0 lu",
+      "ie lu",
       null,
       "v qi",
       "i jie",
-      "e0 mo"
+      "ie mo"
     ],
     "_yu_nuo_nan_pa_dao_zi_die_ya": [
       null,
@@ -6123,7 +6123,7 @@
       "a dao",
       null,
       "i0 die",
-      "e0 ya"
+      "ie ya"
     ],
     "_yu_gei_she_shuo_hao_zi_qie_cong": [
       null,
@@ -6133,7 +6133,7 @@
       "o hao",
       null,
       "i0 qie",
-      "e0 cong"
+      "ie cong"
     ],
     "_yu_se_man_jiao_yu_bo_ba_po": [
       null,
@@ -6169,7 +6169,7 @@
       null,
       "v xi",
       "i qie",
-      "e0 fou",
+      "ie fou",
       null,
       "ir suo",
       "o pi",
@@ -6209,7 +6209,7 @@
       null,
       "v li",
       "i nie",
-      "e0 zou",
+      "ie zou",
       "en wo",
       "o mao",
       null,
@@ -6258,7 +6258,7 @@
     "_zhi_que_ban_nie_xu_chu_che_kao": [
       null,
       "ir que",
-      "e0 ba",
+      "ie ba",
       "en nie",
       null,
       "v chu",
@@ -6278,7 +6278,7 @@
     "_zhi_bie_te_duan_liao_zhi_lv_guo": [
       null,
       "ir bie",
-      "e0 te",
+      "ie te",
       "e duan",
       "en liao",
       null,
@@ -6298,7 +6298,7 @@
     "_zhi_xue_xia_lei_shi_can_te_liao": [
       null,
       "ir xue",
-      "e0 xia",
+      "ie xia",
       "a lei",
       null,
       "ir ca",
@@ -6309,7 +6309,7 @@
       null,
       "i0 duan",
       "en ye",
-      "e0 dou",
+      "ie dou",
       null,
       "er yong",
       "eng di",
@@ -6338,7 +6338,7 @@
     "_zhi_nie_tan_cu_zhe_gao_er_dao": [
       null,
       "ir nie",
-      "e0 ta",
+      "ie ta",
       "en cu",
       "u zhe",
       "e gao",
@@ -6348,7 +6348,7 @@
     "_zhi_tie_dan_shu_ge_tao_er_mao": [
       null,
       "ir tie",
-      "e0 da",
+      "ie da",
       "en shu",
       "u ge",
       "e tao",
@@ -6358,7 +6358,7 @@
     "_zhi_die_fan_shi_che_tong_zi_fang": [
       null,
       "ir die",
-      "e0 fa",
+      "ie fa",
       "en shi",
       "ir che",
       "e tong",
@@ -6371,7 +6371,7 @@
       "i fang",
       "eng dui",
       "ei tie",
-      "e0 bao",
+      "ie bao",
       null,
       "ir zhuang"
     ],
@@ -6381,7 +6381,7 @@
       "i tong",
       "eng hui",
       "ei xie",
-      "e0 dao",
+      "ie dao",
       null,
       "er yao"
     ],
@@ -6391,7 +6391,7 @@
       "i yong",
       "eng shui",
       "ei jue",
-      "e0 lao",
+      "ie lao",
       null,
       "er liao"
     ],
@@ -6401,7 +6401,7 @@
       "i dong",
       "eng zui",
       "ei lie",
-      "e0 liu",
+      "ie liu",
       null,
       "er jiao"
     ],
@@ -6411,7 +6411,7 @@
       "i guang",
       "eng gui",
       "ei nie",
-      "e0 mao",
+      "ie mao",
       null,
       "v zhuo"
     ],
@@ -6421,7 +6421,7 @@
       "i zhuang",
       "eng sui",
       "ei yue",
-      "e0 tao",
+      "ie tao",
       null,
       "er rao"
     ],
@@ -6440,7 +6440,7 @@
       "ir zuo",
       "o yi",
       "i ye",
-      "e0 kou",
+      "ie kou",
       "en biao",
       null,
       "er tuo"
@@ -6478,21 +6478,21 @@
     "_zi_tie_zhan_zuo_zi_lie_wan_suo": [
       null,
       "i0 tie",
-      "e0 zha",
+      "ie zha",
       "en zuo",
       null,
       "i0 lie",
-      "e0 wa",
+      "ie wa",
       "en suo"
     ],
     "_zi_nie_chan_cuo_er_xie_wang_jiu": [
       null,
       "i0 nie",
-      "e0 cha",
+      "ie cha",
       "en cuo",
       null,
       "er xie",
-      "e0 wang",
+      "ie wang",
       "eng jiu"
     ],
     "_zi_fei_gan_qu_ao_er_che_cou": [
@@ -6558,7 +6558,7 @@
     "_zi_ye_sha_ao_er_mi_re_kuo": [
       null,
       "i0 ye",
-      "e0 sha",
+      "ie sha",
       "a ao",
       null,
       "er mi",
@@ -6589,7 +6589,7 @@
       null,
       "i0 lv",
       "v xue",
-      "e0 tiao",
+      "ie tiao",
       null,
       "er pa",
       "en si",
@@ -6628,7 +6628,7 @@
     "_zi_mie_san_ce_er_tu_duan_ke": [
       null,
       "i0 mie",
-      "e0 sa",
+      "ie sa",
       "en ce",
       null,
       "er tu",
@@ -6639,16 +6639,16 @@
       null,
       "i0 yu",
       "v jue",
-      "e0 biao",
+      "ie biao",
       null,
       "i0 nv",
       "v que",
-      "e0 you"
+      "ie you"
     ],
     "_zi_bie_zan_hu_te_zao_yu_chuo": [
       null,
       "i0 bie",
-      "e0 za",
+      "ie za",
       "en hu",
       "u te",
       "e zao",
@@ -6678,10 +6678,10 @@
     "_er_yue_mou_er_jue_cuo_ni_yao": [
       null,
       "er yue",
-      "e0 mou",
+      "ie mou",
       null,
       "er jue",
-      "e0 cuo",
+      "ie cuo",
       null,
       "i yao"
     ],
@@ -6691,7 +6691,7 @@
       "ei qiao",
       null,
       "er ye",
-      "e0 jiao",
+      "ie jiao",
       null,
       "er zhao"
     ],
@@ -6701,7 +6701,7 @@
       "eng bu",
       null,
       "er mie",
-      "e0 zhu",
+      "ie zhu",
       null,
       "er suo"
     ],
@@ -6738,7 +6738,7 @@
     "_er_qie_su_zi_po_pu_er_du": [
       null,
       "er qie",
-      "e0 su",
+      "ie su",
       null,
       "i0 po",
       "o pu",
@@ -6818,27 +6818,27 @@
     "_yu_lie_gao_yu_jie_kao_er_kao": [
       null,
       "v lie",
-      "e0 gao",
+      "ie gao",
       null,
       "v jie",
-      "e0 kao",
+      "ie kao",
       null,
       "er kao"
     ],
     "_yu_qie_hao_yu_tie_rao_zi_zuo": [
       null,
       "v qie",
-      "e0 hao",
+      "ie hao",
       null,
       "v tie",
-      "e0 rao",
+      "ie rao",
       null,
       "i0 zuo"
     ],
     "_yu_die_zao_er_li_ruo_yu_cuo": [
       null,
       "v die",
-      "e0 zao",
+      "ie zao",
       null,
       "er li",
       "i ruo",
@@ -6861,7 +6861,7 @@
       "ei ba",
       null,
       "ir jue",
-      "e0 jia",
+      "ie jia",
       null,
       "v mou"
     ],
@@ -6888,10 +6888,10 @@
     "_zhi_lie_na_zhi_qie_ga_zi_can": [
       null,
       "ir lie",
-      "e0 na",
+      "ie na",
       null,
       "ir qie",
-      "e0 ga",
+      "ie ga",
       null,
       "i0 ca"
     ],
@@ -6908,10 +6908,10 @@
     "_zhi_mie_ma_zhi_jie_la_er_huo": [
       null,
       "ir mie",
-      "e0 ma",
+      "ie ma",
       null,
       "ir jie",
-      "e0 la",
+      "ie la",
       null,
       "er huo"
     ],
@@ -6921,7 +6921,7 @@
       "e nuo",
       null,
       "i0 jue",
-      "e0 zhua",
+      "ie zhua",
       null,
       "i0 hou"
     ],
@@ -6988,7 +6988,7 @@
     "_zi_xie_shao_zhi_hua_tiao_er_chao": [
       null,
       "i0 xie",
-      "e0 shao",
+      "ie shao",
       null,
       "ir hua",
       "a tiao",
@@ -7011,7 +7011,7 @@
       "o mu",
       null,
       "er que",
-      "e0 qiu",
+      "ie qiu",
       null,
       "er gou"
     ],
@@ -7038,7 +7038,7 @@
     "_zi_xue_jiu_zi_nuo_nu_zi_wu": [
       null,
       "i0 xue",
-      "e0 jiu",
+      "ie jiu",
       null,
       "i0 nuo",
       "o nu",
@@ -7731,7 +7731,7 @@
       "e R",
       null,
       "er nie",
-      "e0 R",
+      "ie R",
       null,
       "er R"
     ],
@@ -7772,9 +7772,9 @@
       "a a",
       "a wo",
       "o mie",
-      "e0 gao",
+      "ie gao",
       "ou nie",
-      "e0 ne",
+      "ie ne",
       "e shao"
     ],
     "_ba_ba_bo_die_kao_lie_le_rao": [
@@ -7782,9 +7782,9 @@
       "a ba",
       "a bo",
       "o die",
-      "e0 kao",
+      "ie kao",
       "ou lie",
-      "e0 le",
+      "ie le",
       "e rao"
     ],
     "_pa_pa_po_tie_hao_jie_ge_hao": [
@@ -7792,9 +7792,9 @@
       "a pa",
       "a po",
       "o tie",
-      "e0 hao",
+      "ie hao",
       "ou jie",
-      "e0 ge",
+      "ie ge",
       "e hao"
     ],
     "_ma_ma_mo_nie_zhao_qie_biao_ben": [
@@ -7802,9 +7802,9 @@
       "a ma",
       "a mo",
       "o nie",
-      "e0 zhao",
+      "ie zhao",
       "ou qie",
-      "e0 biao",
+      "ie biao",
       "ou bou"
     ],
     "_fa_fa_fo_lie_chao_xie_piao_nen": [
@@ -7812,9 +7812,9 @@
       "a fa",
       "a fo",
       "o lie",
-      "e0 chao",
+      "ie chao",
       "ou xie",
-      "e0 piao",
+      "ie piao",
       "ou nou"
     ],
     "_da_da_duo_jie_shao_yue_miao_kong": [
@@ -7822,9 +7822,9 @@
       "a da",
       "a duo",
       "o jie",
-      "e0 shao",
+      "ie shao",
       "ou yue",
-      "e0 miao",
+      "ie miao",
       "ou kong"
     ],
     "_ta_ta_tuo_qie_rao_nue_diao_hong": [
@@ -7832,9 +7832,9 @@
       "a ta",
       "a tuo",
       "o qie",
-      "e0 rao",
+      "ie rao",
       "ou nue",
-      "e0 diao",
+      "ie diao",
       "ou hong"
     ],
     "_na_na_nuo_xie_zao_lue_tiao_jiong": [
@@ -7842,9 +7842,9 @@
       "a na",
       "a nuo",
       "o xie",
-      "e0 zao",
+      "ie zao",
       "ou lue",
-      "e0 tiao",
+      "ie tiao",
       "ou jiong"
     ],
     "_la_la_luo_yue_cao_jue_you_qiong": [
@@ -7852,9 +7852,9 @@
       "a la",
       "a luo",
       "o yue",
-      "e0 cao",
+      "ie cao",
       "ou jue",
-      "e0 you",
+      "ie you",
       "ou qiong"
     ],
     "_ga_ga_guo_nue_sao_que_miu_xiong": [
@@ -7862,9 +7862,9 @@
       "a ga",
       "a guo",
       "o nue",
-      "e0 sao",
+      "ie sao",
       "ou que",
-      "e0 miu",
+      "ie miu",
       "ou xiong"
     ],
     "_ka_ka_kuo_lue_yao_xue_diu_zhong": [
@@ -7872,9 +7872,9 @@
       "a ka",
       "a kuo",
       "o lue",
-      "e0 yao",
+      "ie yao",
       "ou xue",
-      "e0 diu",
+      "ie diu",
       "ou zhong"
     ],
     "_ha_ha_huo_jue_niao_ei_pu_ao": [
@@ -7882,7 +7882,7 @@
       "a ha",
       "a huo",
       "o jue",
-      "e0 niao",
+      "ie niao",
       "ou ei",
       "ei pu",
       "u ao"
@@ -7892,7 +7892,7 @@
       "a zha",
       "a zhuo",
       "o que",
-      "e0 liao",
+      "ie liao",
       "ou bei",
       "ei mu",
       "u bao"
@@ -7902,7 +7902,7 @@
       "a cha",
       "a chuo",
       "o xue",
-      "e0 jiao",
+      "ie jiao",
       "ou pei",
       "ei fu",
       "u pao"
@@ -7962,7 +7962,7 @@
       "a dia",
       "a e",
       "e xue",
-      "e0 qiao",
+      "ie qiao",
       "ou run",
       "en si",
       "i0 pao"
@@ -8241,7 +8241,7 @@
       "- zuo",
       "o zuo",
       "o ye",
-      "e0 tui",
+      "ie tui",
       "ei cun",
       "en lv",
       "v ya",
@@ -8251,7 +8251,7 @@
       "- cuo",
       "o cuo",
       "o bie",
-      "e0 gui",
+      "ie gui",
       "ei sun",
       "en ju",
       "v dia",
@@ -8261,7 +8261,7 @@
       "- suo",
       "o suo",
       "o pie",
-      "e0 kui",
+      "ie kui",
       "ei fang",
       "eng biao",
       "ou kuang",
@@ -8271,7 +8271,7 @@
       "- e",
       "e e",
       "e ye",
-      "e0 hui",
+      "ie hui",
       "ei wang",
       "eng piao",
       "ou huang",
@@ -8281,7 +8281,7 @@
       "- me",
       "e me",
       "e bie",
-      "e0 zhui",
+      "ie zhui",
       "ei guang",
       "eng miao",
       "ou zhuang",
@@ -8291,7 +8291,7 @@
       "- de",
       "e de",
       "e pie",
-      "e0 chui",
+      "ie chui",
       "ei kuang",
       "eng diao",
       "ou chuang",
@@ -8301,7 +8301,7 @@
       "- te",
       "e te",
       "e mie",
-      "e0 shui",
+      "ie shui",
       "ei huang",
       "eng tiao",
       "ou shuang",
@@ -8311,7 +8311,7 @@
       "- ne",
       "e ne",
       "e die",
-      "e0 rui",
+      "ie rui",
       "ei zhuang",
       "eng you",
       "ou yong",
@@ -8321,7 +8321,7 @@
       "- le",
       "e le",
       "e tie",
-      "e0 zui",
+      "ie zui",
       "ei chuang",
       "eng miu",
       "ou dong",
@@ -8331,7 +8331,7 @@
       "- ge",
       "e ge",
       "e nie",
-      "e0 cui",
+      "ie cui",
       "ei shuang",
       "eng diu",
       "ou tong",
@@ -8341,7 +8341,7 @@
       "- ke",
       "e ke",
       "e lie",
-      "e0 sui",
+      "ie sui",
       "ei yong",
       "eng niu",
       "ou nong",
@@ -8351,7 +8351,7 @@
       "- he",
       "e he",
       "e jie",
-      "e0 ao",
+      "ie ao",
       "ou mei",
       "ei he",
       "e huo",
@@ -8361,7 +8361,7 @@
       "- zhe",
       "e zhe",
       "e qie",
-      "e0 bao",
+      "ie bao",
       "ou fei",
       "ei zhe",
       "e zhuo",
@@ -8371,7 +8371,7 @@
       "- che",
       "e che",
       "e xie",
-      "e0 pao",
+      "ie pao",
       "ou dei",
       "ei che",
       "e chuo",
@@ -8381,7 +8381,7 @@
       "- she",
       "e she",
       "e yue",
-      "e0 mao",
+      "ie mao",
       "ou tei",
       "ei she",
       "e shuo",
@@ -8391,7 +8391,7 @@
       "- re",
       "e re",
       "e nue",
-      "e0 dao",
+      "ie dao",
       "ou nei",
       "ei re",
       "e ruo",
@@ -8401,7 +8401,7 @@
       "- ze",
       "e ze",
       "e lue",
-      "e0 tao",
+      "ie tao",
       "ou lei",
       "ei ze",
       "e zuo",
@@ -8411,7 +8411,7 @@
       "- ce",
       "e ce",
       "e jue",
-      "e0 nao",
+      "ie nao",
       "ou gei",
       "ei ce",
       "e cuo",
@@ -8421,7 +8421,7 @@
       "- se",
       "e se",
       "e que",
-      "e0 lao",
+      "ie lao",
       "ou kei",
       "ei se",
       "e suo",
@@ -8429,172 +8429,172 @@
     ],
     "_ye_ye_ei_fou_hei_ye_niu_chong": [
       "- ye",
-      "e0 ye",
-      "e0 ei",
+      "ie ye",
+      "ie ei",
       "ei fou",
       "ou hei",
       "ei ye",
-      "e0 niu",
+      "ie niu",
       "ou chong"
     ],
     "_bie_bie_bei_dou_zhei_bie_liu_rong": [
       "- bie",
-      "e0 bie",
-      "e0 bei",
+      "ie bie",
+      "ie bei",
       "ei dou",
       "ou zhei",
       "ei bie",
-      "e0 liu",
+      "ie liu",
       "ou rong"
     ],
     "_pie_pie_pei_tou_shei_pie_jiu_zong": [
       "- pie",
-      "e0 pie",
-      "e0 pei",
+      "ie pie",
+      "ie pei",
       "ei tou",
       "ou shei",
       "ei pie",
-      "e0 jiu",
+      "ie jiu",
       "ou zong"
     ],
     "_mie_mie_mei_nen_zei_mie_qiu_cong": [
       "- mie",
-      "e0 mie",
-      "e0 mei",
+      "ie mie",
+      "ie mei",
       "ei nou",
       "ou zei",
       "ei mie",
-      "e0 qiu",
+      "ie qiu",
       "ou cong"
     ],
     "_die_die_fei_lou_wei_die_xiu_song": [
       "- die",
-      "e0 die",
-      "e0 fei",
+      "ie die",
+      "ie fei",
       "ei lou",
       "ou wei",
       "ei die",
-      "e0 xiu",
+      "ie xiu",
       "ou song"
     ],
     "_tie_tie_dei_gou_dui_tie_ran_ao": [
       "- tie",
-      "e0 tie",
-      "e0 dei",
+      "ie tie",
+      "ie dei",
       "ei gou",
       "ou dui",
       "ei tie",
-      "e0 ran",
+      "ie ran",
       "en ao"
     ],
     "_nie_nie_tei_kou_tui_nie_duan_bao": [
       "- nie",
-      "e0 nie",
-      "e0 tei",
+      "ie nie",
+      "ie tei",
       "ei kou",
       "ou tui",
       "ei nie",
-      "e0 duan",
+      "ie duan",
       "en bao"
     ],
     "_lie_lie_nei_hou_gui_lie_tuan_pao": [
       "- lie",
-      "e0 lie",
-      "e0 nei",
+      "ie lie",
+      "ie nei",
       "ei hou",
       "ou gui",
       "ei lie",
-      "e0 tuan",
+      "ie tuan",
       "en pao"
     ],
     "_jie_jie_lei_zhou_kui_jie_nuan_mao": [
       "- jie",
-      "e0 jie",
-      "e0 lei",
+      "ie jie",
+      "ie lei",
       "ei zhou",
       "ou kui",
       "ei jie",
-      "e0 nuan",
+      "ie nuan",
       "en mao"
     ],
     "_qie_qie_gei_chou_hui_qie_luan_dao": [
       "- qie",
-      "e0 qie",
-      "e0 gei",
+      "ie qie",
+      "ie gei",
       "ei chou",
       "ou hui",
       "ei qie",
-      "e0 luan",
+      "ie luan",
       "en dao"
     ],
     "_xie_xie_kei_shou_zhui_xie_ruan_tao": [
       "- xie",
-      "e0 xie",
-      "e0 kei",
+      "ie xie",
+      "ie kei",
       "ei shou",
       "ou zhui",
       "ei xie",
-      "e0 ruan",
+      "ie ruan",
       "en tao"
     ],
     "_yue_yue_hei_rou_chui_yue_zuan_nao": [
       "- yue",
-      "e0 yue",
-      "e0 hei",
+      "ie yue",
+      "ie hei",
       "ei rou",
       "ou chui",
       "ei yue",
-      "e0 zuan",
+      "ie zuan",
       "en nao"
     ],
     "_nue_nue_zhei_zou_shui_nue_cuan_lao": [
       "- nue",
-      "e0 nue",
-      "e0 zhei",
+      "ie nue",
+      "ie zhei",
       "ei zou",
       "ou shui",
       "ei nue",
-      "e0 cuan",
+      "ie cuan",
       "en lao"
     ],
     "_lue_lue_shei_cou_rui_lue_suan_gao": [
       "- lue",
-      "e0 lue",
-      "e0 shei",
+      "ie lue",
+      "ie shei",
       "ei cou",
       "ou rui",
       "ei lue",
-      "e0 suan",
+      "ie suan",
       "en gao"
     ],
     "_jue_jue_zei_sou_zui_jue_wen_kao": [
       "- jue",
-      "e0 jue",
-      "e0 zei",
+      "ie jue",
+      "ie zei",
       "ei sou",
       "ou zui",
       "ei jue",
-      "e0 wou",
+      "ie wou",
       "en kao"
     ],
     "_que_que_wei_biao_cui_que_dun_hao": [
       "- que",
-      "e0 que",
-      "e0 wei",
+      "ie que",
+      "ie wei",
       "ei biao",
       "ou cui",
       "ei que",
-      "e0 dun",
+      "ie dun",
       "en hao"
     ],
     "_xue_xue_dui_piao_sui_xue_tun_zhao": [
       "- xue",
-      "e0 xue",
-      "e0 dui",
+      "ie xue",
+      "ie dui",
       "ei piao",
       "ou sui",
       "ei xue",
-      "e0 tun",
+      "ie tun",
       "en zhao"
     ],
     "_ei_ei_du_she_diao_che_tuo_zao": [
@@ -8652,7 +8652,7 @@
       "ei dei",
       "ei ku",
       "u ye",
-      "e0 ke",
+      "ie ke",
       "e zhua",
       "a luan",
       "en chao"
@@ -8662,7 +8662,7 @@
       "ei tei",
       "ei hu",
       "u bie",
-      "e0 he",
+      "ie he",
       "e chua",
       "a ruan",
       "en shao"
@@ -8672,7 +8672,7 @@
       "ei nei",
       "ei zhu",
       "u pie",
-      "e0 zhe",
+      "ie zhe",
       "e shua",
       "a zuan",
       "en rao"
@@ -8682,7 +8682,7 @@
       "ei lei",
       "ei chu",
       "u mie",
-      "e0 che",
+      "ie che",
       "e wo",
       "o gua",
       "a lao"
@@ -8692,7 +8692,7 @@
       "ei gei",
       "ei shu",
       "u die",
-      "e0 she",
+      "ie she",
       "e bo",
       "o kua",
       "a gao"
@@ -8702,7 +8702,7 @@
       "ei kei",
       "ei ru",
       "u tie",
-      "e0 re",
+      "ie re",
       "e po",
       "o hua",
       "a kao"
@@ -8712,7 +8712,7 @@
       "ei hei",
       "ei zu",
       "u nie",
-      "e0 ze",
+      "ie ze",
       "e mo",
       "o zhua",
       "a hao"
@@ -8722,7 +8722,7 @@
       "ei zhei",
       "ei cu",
       "u lie",
-      "e0 ce",
+      "ie ce",
       "e fo",
       "o chua",
       "a zhao"
@@ -8732,7 +8732,7 @@
       "ei shei",
       "ei su",
       "u jie",
-      "e0 se",
+      "ie se",
       "e duo",
       "o shua",
       "a chao"
@@ -8881,47 +8881,47 @@
       "- ao",
       "ou ao",
       "eng ye",
-      "e0 yi",
+      "ie yi",
       "i lue",
-      "e0 qi",
+      "ie qi",
       "i yue",
-      "e0 xiao"
+      "ie xiao"
     ],
     "_bao_bang_bie_bi_jue_xi_nue_mou": [
       "- bao",
       "ou bao",
       "eng bie",
-      "e0 bi",
+      "ie bi",
       "i jue",
-      "e0 xi",
+      "ie xi",
       "i nue",
-      "e0 mou"
+      "ie mou"
     ],
     "_pao_pang_pie_pi_que_wu_nue_fou": [
       "- pao",
       "ou pao",
       "eng pie",
-      "e0 pi",
+      "ie pi",
       "i que",
-      "e0 wu",
+      "ie wu",
       "u nue",
-      "e0 fou"
+      "ie fou"
     ],
     "_mao_mang_mie_mi_xue_bu_lue_dou": [
       "- mao",
       "ou mao",
       "eng mie",
-      "e0 mi",
+      "ie mi",
       "i xue",
-      "e0 bu",
+      "ie bu",
       "u lue",
-      "e0 dou"
+      "ie dou"
     ],
     "_dao_dang_die_di_ei_ya_yong_ao": [
       "- dao",
       "ou dao",
       "eng die",
-      "e0 di",
+      "ie di",
       "i ei",
       "ei ya",
       "a yong",
@@ -8931,7 +8931,7 @@
       "- tao",
       "ou tao",
       "eng tie",
-      "e0 ti",
+      "ie ti",
       "i bei",
       "ei dia",
       "a dong",
@@ -8941,7 +8941,7 @@
       "- nao",
       "ou nao",
       "eng nie",
-      "e0 ni",
+      "ie ni",
       "i pei",
       "ei lia",
       "a tong",
@@ -8951,7 +8951,7 @@
       "- lao",
       "ou lao",
       "eng lie",
-      "e0 li",
+      "ie li",
       "i mei",
       "ei jia",
       "a nong",
@@ -8973,7 +8973,7 @@
       "eng ka",
       "a fang",
       "eng qie",
-      "e0 pu",
+      "ie pu",
       "a gong",
       "eng tao"
     ],
@@ -8983,9 +8983,9 @@
       "eng ha",
       "a wang",
       "eng xie",
-      "e0 mu",
+      "ie mu",
       "u jue",
-      "e0 tou"
+      "ie tou"
     ],
     "_zhao_zhang_zha_guang_yue_fu_que_nen": [
       "- zhao",
@@ -8993,9 +8993,9 @@
       "eng zha",
       "a guang",
       "eng yue",
-      "e0 fu",
+      "ie fu",
       "u que",
-      "e0 nou"
+      "ie nou"
     ],
     "_chao_chang_cha_kuang_nue_du_xue_lou": [
       "- chao",
@@ -9003,9 +9003,9 @@
       "eng cha",
       "a kuang",
       "eng nue",
-      "e0 du",
+      "ie du",
       "u xue",
-      "e0 lou"
+      "ie lou"
     ],
     "_shao_shang_sha_huang_lue_tu_ei_ou": [
       "- shao",
@@ -9013,7 +9013,7 @@
       "eng sha",
       "a huang",
       "eng lue",
-      "e0 tu",
+      "ie tu",
       "u ei",
       "ei ou"
     ],
@@ -9021,7 +9021,7 @@
       "- rao",
       "ou rao",
       "eng jie",
-      "e0 ji",
+      "ie ji",
       "i fei",
       "ei xia",
       "a kong",
@@ -9033,7 +9033,7 @@
       "eng za",
       "a zhuang",
       "eng jue",
-      "e0 nu",
+      "ie nu",
       "u bei",
       "ei bou"
     ],
@@ -9043,7 +9043,7 @@
       "eng ca",
       "a chuang",
       "eng que",
-      "e0 lu",
+      "ie lu",
       "u pei",
       "ei pou"
     ],
@@ -9053,7 +9053,7 @@
       "eng sa",
       "a shuang",
       "eng xue",
-      "e0 gu",
+      "ie gu",
       "u mei",
       "ei mou"
     ],
@@ -9643,7 +9643,7 @@
       "en zhong",
       "eng a",
       "a tie",
-      "e0 wo",
+      "ie wo",
       "o cui",
       "ei qiao"
     ],
@@ -9653,7 +9653,7 @@
       "en chong",
       "eng ba",
       "a nie",
-      "e0 bo",
+      "ie bo",
       "o sui",
       "ei xiao"
     ],
@@ -9663,7 +9663,7 @@
       "en rong",
       "eng pa",
       "a lie",
-      "e0 po",
+      "ie po",
       "o you",
       "ou long"
     ],
@@ -9783,7 +9783,7 @@
       "eng wu",
       "u da",
       "a jie",
-      "e0 mo",
+      "ie mo",
       "o tui",
       "ei shao"
     ],
@@ -9793,7 +9793,7 @@
       "eng bu",
       "u ta",
       "a qie",
-      "e0 fo",
+      "ie fo",
       "o gui",
       "ei rao"
     ],
@@ -9803,7 +9803,7 @@
       "eng pu",
       "u na",
       "a xie",
-      "e0 duo",
+      "ie duo",
       "o kui",
       "ei zao"
     ],
@@ -9813,7 +9813,7 @@
       "eng mu",
       "u la",
       "a yue",
-      "e0 tuo",
+      "ie tuo",
       "o hui",
       "ei cao"
     ],
@@ -9823,7 +9823,7 @@
       "eng fu",
       "u ga",
       "a nue",
-      "e0 nuo",
+      "ie nuo",
       "o zhui",
       "ei sao"
     ],
@@ -9833,7 +9833,7 @@
       "eng du",
       "u ka",
       "a lue",
-      "e0 luo",
+      "ie luo",
       "o chui",
       "ei yao"
     ],
@@ -9843,7 +9843,7 @@
       "eng tu",
       "u ha",
       "a jue",
-      "e0 guo",
+      "ie guo",
       "o shui",
       "ei niao"
     ],
@@ -9853,7 +9853,7 @@
       "eng nu",
       "u zha",
       "a que",
-      "e0 kuo",
+      "ie kuo",
       "o rui",
       "ei liao"
     ],
@@ -9863,7 +9863,7 @@
       "eng lu",
       "u cha",
       "a xue",
-      "e0 huo",
+      "ie huo",
       "o zui",
       "ei jiao"
     ],
@@ -10184,7 +10184,7 @@
       "a ze",
       "e biao",
       "ou mie",
-      "e0 zuo",
+      "ie zuo",
       "o bou"
     ],
     "_zu_zu_pa_ce_piao_die_cuo_pou": [
@@ -10194,7 +10194,7 @@
       "a ce",
       "e piao",
       "ou die",
-      "e0 cuo",
+      "ie cuo",
       "o pou"
     ],
     "_cu_cu_ma_se_miao_tie_suo_mou": [
@@ -10204,7 +10204,7 @@
       "a se",
       "e miao",
       "ou tie",
-      "e0 suo",
+      "ie suo",
       "o mou"
     ],
     "_su_su_fa_ye_e_kua_pu_dao": [
@@ -10212,7 +10212,7 @@
       "u su",
       "u fa",
       "a ye",
-      "e0 e",
+      "ie e",
       "e kua",
       "a pu",
       "u dao"
@@ -10225,7 +10225,7 @@
       "i0 ka",
       "a bu",
       "u yue",
-      "e0 pou"
+      "ie pou"
     ],
     "_nv_nv_zi_pa_cui_wu_qie_ou": [
       "- nv",
@@ -10235,7 +10235,7 @@
       "a cui",
       "ei wu",
       "u qie",
-      "e0 ou"
+      "ie ou"
     ],
     "_lv_lv_ci_ma_sui_bu_xie_ben": [
       "- lv",
@@ -10245,7 +10245,7 @@
       "a sui",
       "ei bu",
       "u xie",
-      "e0 bou"
+      "ie bou"
     ],
     "_ju_ju_si_fa_biao_se_hua_shao": [
       "- ju",
@@ -10264,7 +10264,7 @@
       "ir la",
       "a piao",
       "ou ye",
-      "e0 me",
+      "ie me",
       "e zao"
     ],
     "_xu_xu_chi_ga_miao_bie_de_cao": [
@@ -10274,7 +10274,7 @@
       "ir ga",
       "a miao",
       "ou bie",
-      "e0 de",
+      "ie de",
       "e cao"
     ],
     "_er_er_zi_da_diao_pie_te_sao": [
@@ -10284,7 +10284,7 @@
       "i0 da",
       "a diao",
       "ou pie",
-      "e0 te",
+      "ie te",
       "e sao"
     ],
     "_zi_zi_zhi_ka_yi_a_mi_ao": [
@@ -10322,7 +10322,7 @@
       "ir zhi",
       "ir a",
       "a bie",
-      "e0 zhuo",
+      "ie zhuo",
       "o jia",
       "a ji",
       "i mao"
@@ -10332,7 +10332,7 @@
       "ir chi",
       "ir ba",
       "a pie",
-      "e0 chuo",
+      "ie chuo",
       "o qia",
       "a qi",
       "i dao"
@@ -10342,7 +10342,7 @@
       "ir shi",
       "ir pa",
       "a mie",
-      "e0 shuo",
+      "ie shuo",
       "o xia",
       "a xi",
       "i tao"
@@ -10352,7 +10352,7 @@
       "ir ri",
       "ir ma",
       "a die",
-      "e0 ruo",
+      "ie ruo",
       "o wa",
       "a wu",
       "u mao"
@@ -10373,7 +10373,7 @@
       "v su",
       "u di",
       "i xie",
-      "e0 ri",
+      "ie ri",
       "ir ci",
       "i0 dao"
     ],
@@ -10584,7 +10584,7 @@
       "ou zu",
       "u zun",
       "en jie",
-      "e0 zhi",
+      "ie zhi",
       "ir zong"
     ],
     "_er_cu_qiao_cu_cun_qie_chi_cong": [
@@ -10594,7 +10594,7 @@
       "ou cu",
       "u cun",
       "en qie",
-      "e0 chi",
+      "ie chi",
       "ir cong"
     ],
     "_er_su_xiao_su_sun_xie_shi_song": [
@@ -10604,7 +10604,7 @@
       "ou su",
       "u sun",
       "en xie",
-      "e0 shi",
+      "ie shi",
       "ir song"
     ],
     "_er_luo_er_wu_zhun_de_zhu_zhui": [
@@ -10630,7 +10630,7 @@
     "_er_ye_er_pu_shun_ne_shu_shui": [
       null,
       "er ye",
-      "e0 er",
+      "ie er",
       "er pu",
       "u shun",
       "en ne",
@@ -10774,7 +10774,7 @@
       "e gu",
       "u wou",
       "en die",
-      "e0 lun",
+      "ie lun",
       "en ha"
     ],
     "_er_bi_che_ku_dun_tie_gun_zha": [
@@ -10784,7 +10784,7 @@
       "e ku",
       "u dun",
       "en tie",
-      "e0 gun",
+      "ie gun",
       "en zha"
     ],
     "_er_pi_she_hu_tun_nie_kun_cha": [
@@ -10794,7 +10794,7 @@
       "e hu",
       "u tun",
       "en nie",
-      "e0 kun",
+      "ie kun",
       "en cha"
     ],
     "_er_mi_re_wu_lun_lie_hun_sha": [
@@ -10804,13 +10804,13 @@
       "e wu",
       "u lun",
       "en lie",
-      "e0 hun",
+      "ie hun",
       "en sha"
     ],
     "_er_bie_ku_en_e_xi_tuo_ran": [
       null,
       "er bie",
-      "e0 ku",
+      "ie ku",
       "u ou",
       "en e",
       "e xi",
@@ -10820,7 +10820,7 @@
     "_er_pie_hu_ben_ze_zu_zong_jiu": [
       null,
       "er pie",
-      "e0 hu",
+      "ie hu",
       "u bou",
       "en ze",
       "e zu",
@@ -10830,7 +10830,7 @@
     "_er_mie_zhu_pen_ce_cu_cong_qiu": [
       null,
       "er mie",
-      "e0 zhu",
+      "ie zhu",
       "u pou",
       "en ce",
       "e cu",
@@ -10840,7 +10840,7 @@
     "_er_die_chu_men_se_su_song_xiu": [
       null,
       "er die",
-      "e0 chu",
+      "ie chu",
       "u mou",
       "en se",
       "e su",
@@ -10850,57 +10850,57 @@
     "_er_tie_shu_feng_ran_nue_fang_bei": [
       null,
       "er tie",
-      "e0 shu",
+      "ie shu",
       "u fou",
       "eng ran",
       "en nue",
-      "e0 fang",
+      "ie fang",
       "eng bei"
     ],
     "_er_nie_ru_deng_duan_lue_wang_pei": [
       null,
       "er nie",
-      "e0 ru",
+      "ie ru",
       "u dou",
       "eng duan",
       "en lue",
-      "e0 wang",
+      "ie wang",
       "eng pei"
     ],
     "_er_lie_zu_teng_tuan_jue_zi_zong": [
       null,
       "er lie",
-      "e0 zu",
+      "ie zu",
       "u tou",
       "eng tuan",
       "en jue",
-      "e0 zi",
+      "ie zi",
       "i0 zong"
     ],
     "_er_jie_cu_neng_nuan_que_ci_cong": [
       null,
       "er jie",
-      "e0 cu",
+      "ie cu",
       "u nou",
       "eng nuan",
       "en que",
-      "e0 ci",
+      "ie ci",
       "i0 cong"
     ],
     "_er_qie_su_leng_luan_xue_si_song": [
       null,
       "er qie",
-      "e0 su",
+      "ie su",
       "u lou",
       "eng luan",
       "en xue",
-      "e0 si",
+      "ie si",
       "i0 song"
     ],
     "_er_xie_yu_e_zi_ju_ge_dun": [
       null,
       "er xie",
-      "e0 yu",
+      "ie yu",
       "v e",
       "e zi",
       "i0 ju",
@@ -10910,7 +10910,7 @@
     "_er_yue_nv_me_ci_qu_ke_tun": [
       null,
       "er yue",
-      "e0 nv",
+      "ie nv",
       "v me",
       "e ci",
       "i0 qu",
@@ -10920,7 +10920,7 @@
     "_er_nue_lv_de_si_xu_he_lun": [
       null,
       "er nue",
-      "e0 lv",
+      "ie lv",
       "v de",
       "e si",
       "i0 xu",
@@ -10930,7 +10930,7 @@
     "_er_lue_ju_te_zhi_ju_zhe_gun": [
       null,
       "er lue",
-      "e0 ju",
+      "ie ju",
       "v te",
       "e zhi",
       "ir ju",
@@ -10940,7 +10940,7 @@
     "_er_jue_qu_ne_chi_qu_che_kun": [
       null,
       "er jue",
-      "e0 qu",
+      "ie qu",
       "v ne",
       "e chi",
       "ir qu",
@@ -10950,7 +10950,7 @@
     "_er_que_xu_le_shi_xu_she_hun": [
       null,
       "er que",
-      "e0 xu",
+      "ie xu",
       "v le",
       "e shi",
       "ir xu",
@@ -10960,7 +10960,7 @@
     "_er_xue_gou_bu_cang_ben_bo_duan": [
       null,
       "er xue",
-      "e0 gou",
+      "ie gou",
       "ou bu",
       "u cao",
       "eng bou",
@@ -11115,7 +11115,7 @@
       "en zuo",
       "o zi",
       "i0 yue",
-      "e0 gua"
+      "ie gua"
     ],
     "_er_kuo_qiong_kun_cuo_ci_nue_kua": [
       null,
@@ -11125,7 +11125,7 @@
       "en cuo",
       "o ci",
       "i0 nue",
-      "e0 kua"
+      "ie kua"
     ],
     "_er_huo_xiong_hun_suo_si_lue_hua": [
       null,
@@ -11135,7 +11135,7 @@
       "en suo",
       "o si",
       "i0 lue",
-      "e0 hua"
+      "ie hua"
     ],
     "_er_zhuo_zhong_zhun_diu_zi_jue_zhua": [
       null,
@@ -11145,7 +11145,7 @@
       "en diu",
       "ou zi",
       "i0 jue",
-      "e0 zhua"
+      "ie zhua"
     ],
     "_er_chuo_chong_chun_niu_ci_que_chua": [
       null,
@@ -11155,7 +11155,7 @@
       "en niu",
       "ou ci",
       "i0 que",
-      "e0 chua"
+      "ie chua"
     ],
     "_er_shuo_rong_shun_liu_si_xue_shua": [
       null,
@@ -11165,7 +11165,7 @@
       "en liu",
       "ou si",
       "i0 xue",
-      "e0 shua"
+      "ie shua"
     ],
     "_er_zuo_zong_zun_jiu_zhi_jue_jia": [
       null,
@@ -11175,7 +11175,7 @@
       "en jiu",
       "ou zhi",
       "ir jue",
-      "e0 jia"
+      "ie jia"
     ],
     "_er_cuo_cong_cun_qiu_chi_que_qia": [
       null,
@@ -11185,7 +11185,7 @@
       "en qiu",
       "ou chi",
       "ir que",
-      "e0 qia"
+      "ie qia"
     ],
     "_er_suo_song_sun_xiu_shi_xue_xia": [
       null,
@@ -11195,7 +11195,7 @@
       "en xiu",
       "ou shi",
       "ir xue",
-      "e0 xia"
+      "ie xia"
     ],
     "_zi_wo_wu_biao_yi_nuo_yong_mei": [
       null,
@@ -11354,7 +11354,7 @@
       "ir zuo",
       "o yi",
       "i ye",
-      "e0 kou",
+      "ie kou",
       "en biao"
     ],
     "_er_ma_zhi_cuo_bi_bie_hen_piao": [
@@ -11364,7 +11364,7 @@
       "ir cuo",
       "o bi",
       "i bie",
-      "e0 hou",
+      "ie hou",
       "en piao"
     ],
     "_er_fa_zhi_suo_pi_pie_zhen_miao": [
@@ -11374,7 +11374,7 @@
       "ir suo",
       "o pi",
       "i pie",
-      "e0 zhou",
+      "ie zhou",
       "en miao"
     ],
     "_er_dan_bei_yu_di_mie_chen_diao": [
@@ -11384,7 +11384,7 @@
       null,
       "v di",
       "i mie",
-      "e0 chou",
+      "ie chou",
       "en diao"
     ],
     "_er_tan_pei_yu_ti_die_shen_tiao": [
@@ -11394,7 +11394,7 @@
       null,
       "v ti",
       "i die",
-      "e0 shou",
+      "ie shou",
       "en tiao"
     ],
     "_er_nan_mei_yu_ni_tie_ren_you": [
@@ -11404,7 +11404,7 @@
       null,
       "v ni",
       "i tie",
-      "e0 rou",
+      "ie rou",
       "en you"
     ],
     "_er_lan_fei_yu_li_nie_zen_miu": [
@@ -11414,7 +11414,7 @@
       null,
       "v li",
       "i nie",
-      "e0 zou",
+      "ie zou",
       "en miu"
     ],
     "_er_gan_dei_yu_ji_lie_cen_zei": [
@@ -11424,7 +11424,7 @@
       null,
       "v ji",
       "i lie",
-      "e0 cou",
+      "ie cou",
       "en zei"
     ],
     "_er_kan_tei_yu_qi_jie_sen_wei": [
@@ -11434,7 +11434,7 @@
       null,
       "v qi",
       "i jie",
-      "e0 sou",
+      "ie sou",
       "en wei"
     ],
     "_er_han_nei_yu_xi_qie_zhun_dia": [
@@ -11444,7 +11444,7 @@
       null,
       "v xi",
       "i qie",
-      "e0 zhun",
+      "ie zhun",
       "en dia"
     ],
     "_er_zhan_lei_zhi_yu_yue_chun_lia": [
@@ -11454,7 +11454,7 @@
       null,
       "ir yu",
       "v yue",
-      "e0 chun",
+      "ie chun",
       "en lia"
     ],
     "_er_chan_gei_zhi_nv_nue_shun_jia": [
@@ -11464,7 +11464,7 @@
       null,
       "ir nv",
       "v nue",
-      "e0 shun",
+      "ie shun",
       "en jia"
     ],
     "_er_shan_kei_zhi_lv_lue_run_qia": [
@@ -11474,7 +11474,7 @@
       null,
       "ir lv",
       "v lue",
-      "e0 run",
+      "ie run",
       "en qia"
     ],
     "_er_zan_hei_zi_yu_jue_zun_xia": [
@@ -11484,7 +11484,7 @@
       null,
       "i0 yu",
       "v jue",
-      "e0 zun",
+      "ie zun",
       "en xia"
     ],
     "_er_can_zhei_zi_nv_que_cun_wa": [
@@ -11494,7 +11494,7 @@
       null,
       "i0 nv",
       "v que",
-      "e0 cun",
+      "ie cun",
       "en wa"
     ],
     "_er_san_shei_zi_lv_xue_sun_ei": [
@@ -11504,7 +11504,7 @@
       null,
       "i0 lv",
       "v xue",
-      "e0 sun",
+      "ie sun",
       "en ei"
     ],
     "_zhi_yi_fang_dui_zhi_ni_chuang_chui": [
@@ -11820,7 +11820,7 @@
     "_zhi_ye_a_zi_e_zhun_zhi_duo": [
       null,
       "ir ye",
-      "e0 a",
+      "ie a",
       null,
       "i0 e",
       "e zhun",
@@ -11830,7 +11830,7 @@
     "_zhi_bie_ba_zi_me_chun_zhi_tuo": [
       null,
       "ir bie",
-      "e0 ba",
+      "ie ba",
       null,
       "i0 me",
       "e chun",
@@ -11840,7 +11840,7 @@
     "_zhi_pie_pa_zi_de_shun_zhi_nuo": [
       null,
       "ir pie",
-      "e0 pa",
+      "ie pa",
       null,
       "i0 de",
       "e shun",
@@ -11850,7 +11850,7 @@
     "_zhi_mie_ma_zi_te_run_zhi_luo": [
       null,
       "ir mie",
-      "e0 ma",
+      "ie ma",
       null,
       "i0 te",
       "e run",
@@ -11860,7 +11860,7 @@
     "_zhi_die_fa_zi_ne_zun_zhi_guo": [
       null,
       "ir die",
-      "e0 fa",
+      "ie fa",
       null,
       "i0 ne",
       "e zun",
@@ -11870,7 +11870,7 @@
     "_zhi_tie_da_zi_le_cun_zhi_kuo": [
       null,
       "ir tie",
-      "e0 da",
+      "ie da",
       null,
       "i0 le",
       "e cun",
@@ -11880,7 +11880,7 @@
     "_zhi_nie_ta_zi_ge_sun_zhi_huo": [
       null,
       "ir nie",
-      "e0 ta",
+      "ie ta",
       null,
       "i0 ge",
       "e sun",
@@ -11890,7 +11890,7 @@
     "_zhi_lie_na_zi_ke_fang_zhi_e": [
       null,
       "ir lie",
-      "e0 na",
+      "ie na",
       null,
       "i0 ke",
       "e fang",
@@ -11900,7 +11900,7 @@
     "_zhi_jie_la_zi_he_wang_zhi_me": [
       null,
       "ir jie",
-      "e0 la",
+      "ie la",
       null,
       "i0 he",
       "e wang",
@@ -11910,7 +11910,7 @@
     "_zhi_qie_ga_zi_zhe_guang_zhi_de": [
       null,
       "ir qie",
-      "e0 ga",
+      "ie ga",
       null,
       "i0 zhe",
       "e guang",
@@ -11920,7 +11920,7 @@
     "_zhi_xie_ka_zi_che_kuang_zhi_te": [
       null,
       "ir xie",
-      "e0 ka",
+      "ie ka",
       null,
       "i0 che",
       "e kuang",
@@ -11930,7 +11930,7 @@
     "_zhi_yue_ha_zi_she_huang_zhi_ne": [
       null,
       "ir yue",
-      "e0 ha",
+      "ie ha",
       null,
       "i0 she",
       "e huang",
@@ -11940,7 +11940,7 @@
     "_zhi_nue_zha_zi_re_zhuang_zhi_le": [
       null,
       "ir nue",
-      "e0 zha",
+      "ie zha",
       null,
       "i0 re",
       "e zhuang",
@@ -11950,7 +11950,7 @@
     "_zhi_lue_cha_zi_ze_chuang_zhi_ge": [
       null,
       "ir lue",
-      "e0 cha",
+      "ie cha",
       null,
       "i0 ze",
       "e chuang",
@@ -11983,7 +11983,7 @@
       "e nong",
       null,
       "i0 ye",
-      "e0 sha",
+      "ie sha",
       null,
       "ir ze"
     ],
@@ -11993,7 +11993,7 @@
       "e long",
       null,
       "i0 bie",
-      "e0 za",
+      "ie za",
       null,
       "ir ce"
     ],
@@ -12003,7 +12003,7 @@
       "en gua",
       null,
       "i0 pie",
-      "e0 ca",
+      "ie ca",
       null,
       "ir se"
     ],
@@ -12013,7 +12013,7 @@
       "en kua",
       null,
       "i0 mie",
-      "e0 sa",
+      "ie sa",
       null,
       "i0 lia"
     ],
@@ -12023,7 +12023,7 @@
       "en hua",
       null,
       "i0 jie",
-      "e0 zong",
+      "ie zong",
       null,
       "i0 jia"
     ],
@@ -12033,7 +12033,7 @@
       "en zhua",
       null,
       "i0 qie",
-      "e0 cong",
+      "ie cong",
       null,
       "i0 qia"
     ],
@@ -12043,7 +12043,7 @@
       "en chua",
       null,
       "i0 xie",
-      "e0 song",
+      "ie song",
       null,
       "i0 xia"
     ],
@@ -12053,7 +12053,7 @@
       "en shua",
       null,
       "i0 die",
-      "e0 ya",
+      "ie ya",
       null,
       "i0 wa"
     ],
@@ -12063,7 +12063,7 @@
       "en wo",
       null,
       "i0 tie",
-      "e0 dia",
+      "ie dia",
       null,
       "i0 gua"
     ],
@@ -12073,7 +12073,7 @@
       "en ye",
       null,
       "i0 nie",
-      "e0 lia",
+      "ie lia",
       null,
       "i0 kua"
     ],
@@ -12083,7 +12083,7 @@
       "en bie",
       null,
       "i0 lie",
-      "e0 wa",
+      "ie wa",
       null,
       "i0 hua"
     ],
@@ -12419,7 +12419,7 @@
     ],
     "_ye_guang_yi_qiu_er_lia_yi_ma": [
       null,
-      "e0 guang",
+      "ie guang",
       null,
       "i qiu",
       null,
@@ -12429,7 +12429,7 @@
     ],
     "_ye_kuang_yi_xiu_er_jia_yi_fa": [
       null,
-      "e0 kuang",
+      "ie kuang",
       null,
       "i xiu",
       null,
@@ -12439,7 +12439,7 @@
     ],
     "_ye_huang_yi_ran_er_qia_yi_da": [
       null,
-      "e0 huang",
+      "ie huang",
       null,
       "i ran",
       null,
@@ -12449,7 +12449,7 @@
     ],
     "_ye_zhuang_yi_duan_er_xia_yi_ta": [
       null,
-      "e0 zhuang",
+      "ie zhuang",
       null,
       "i duan",
       null,
@@ -12459,7 +12459,7 @@
     ],
     "_ye_chuang_yi_tuan_er_wa_yi_na": [
       null,
-      "e0 chuang",
+      "ie chuang",
       null,
       "i tuan",
       null,
@@ -12469,7 +12469,7 @@
     ],
     "_ye_shuang_yi_nuan_er_gua_yi_la": [
       null,
-      "e0 shuang",
+      "ie shuang",
       null,
       "i nuan",
       null,
@@ -12479,7 +12479,7 @@
     ],
     "_ye_yong_yi_luan_er_kua_yi_ga": [
       null,
-      "e0 yong",
+      "ie yong",
       null,
       "i luan",
       null,
@@ -12489,7 +12489,7 @@
     ],
     "_ye_dong_yi_ruan_er_hua_yi_ka": [
       null,
-      "e0 dong",
+      "ie dong",
       null,
       "i ruan",
       null,
@@ -12499,7 +12499,7 @@
     ],
     "_ye_tong_yi_zuan_er_zhua_yi_ha": [
       null,
-      "e0 tong",
+      "ie tong",
       null,
       "i zuan",
       null,
@@ -12509,7 +12509,7 @@
     ],
     "_ye_nong_yi_cuan_er_chua_yi_zha": [
       null,
-      "e0 nong",
+      "ie nong",
       null,
       "i cuan",
       null,
@@ -12519,7 +12519,7 @@
     ],
     "_ye_long_yi_suan_er_shua_yi_cha": [
       null,
-      "e0 long",
+      "ie long",
       null,
       "i suan",
       null,
@@ -12529,7 +12529,7 @@
     ],
     "_ye_gong_yi_wen_yi_shun_yi_sha": [
       null,
-      "e0 gong",
+      "ie gong",
       null,
       "i wou",
       null,
@@ -12539,7 +12539,7 @@
     ],
     "_ye_kong_yi_dun_yi_run_yi_za": [
       null,
-      "e0 kong",
+      "ie kong",
       null,
       "i dun",
       null,
@@ -12549,7 +12549,7 @@
     ],
     "_ye_hong_yi_tun_yi_zun_yi_ca": [
       null,
-      "e0 hong",
+      "ie hong",
       null,
       "i tun",
       null,
@@ -12559,7 +12559,7 @@
     ],
     "_ye_jiong_yi_lun_yi_cun_yi_sa": [
       null,
-      "e0 jiong",
+      "ie jiong",
       null,
       "i lun",
       null,
@@ -12569,7 +12569,7 @@
     ],
     "_ye_qiong_yi_gun_yi_sun_yi_ya": [
       null,
-      "e0 qiong",
+      "ie qiong",
       null,
       "i gun",
       null,
@@ -12579,7 +12579,7 @@
     ],
     "_ye_xiong_yi_kun_yi_biao_yi_dia": [
       null,
-      "e0 xiong",
+      "ie xiong",
       null,
       "i kun",
       null,
@@ -12589,7 +12589,7 @@
     ],
     "_ye_zhong_yi_hun_yi_piao_yi_lia": [
       null,
-      "e0 zhong",
+      "ie zhong",
       null,
       "i hun",
       null,
@@ -12599,7 +12599,7 @@
     ],
     "_ye_chong_yi_zhun_yi_miao_yi_jia": [
       null,
-      "e0 chong",
+      "ie chong",
       null,
       "i zhun",
       null,
@@ -12609,7 +12609,7 @@
     ],
     "_ye_rong_yi_chun_yi_diao_yi_qia": [
       null,
-      "e0 rong",
+      "ie rong",
       null,
       "i chun",
       null,
@@ -13835,7 +13835,7 @@
       null,
       "e R",
       null,
-      "e0 R"
+      "ie R"
     ],
     "_ei_R_en_R_eng_R_yi_R": [
       null,
@@ -13871,7 +13871,7 @@
         "miu"
       ],
       "vc": [
-        "e0 r",
+        "ie r",
         "en sh",
         "en x",
         "eng r",
@@ -13896,7 +13896,7 @@
         "a sh",
         "a t",
         "ei p",
-        "e0 sh",
+        "ie sh",
         "ei t",
         "en t"
       ]
@@ -13997,7 +13997,7 @@
         "zuan"
       ],
       "vc": [
-        "e0 p",
+        "ie p",
         "ei r",
         "ei s",
         "eng x",
@@ -14071,7 +14071,7 @@
         null,
         null,
         null,
-        "e0 ch",
+        "ie ch",
         null,
         null,
         "v m"
@@ -14083,7 +14083,7 @@
         "ir q",
         null,
         null,
-        "e0 x",
+        "ie x",
         "v ch",
         null,
         "e k"
@@ -14142,7 +14142,7 @@
       "vc": [
         null,
         null,
-        "e0 c",
+        "ie c",
         "i0 sh",
         null,
         null,
@@ -14153,7 +14153,7 @@
       "cv": null,
       "vc": [
         "er t",
-        "e0 m",
+        "ie m",
         null,
         null,
         null,
@@ -14213,7 +14213,7 @@
       "cv": null,
       "vc": [
         null,
-        "e0 s",
+        "ie s",
         null,
         "a s",
         null,
@@ -14502,7 +14502,7 @@
       "vc": [
         null,
         null,
-        "e0 t",
+        "ie t",
         null,
         "er p",
         null,
@@ -14573,7 +14573,7 @@
       "cv": null,
       "vc": [
         null,
-        "e0 n",
+        "ie n",
         null,
         null,
         null,
@@ -14633,7 +14633,7 @@
       "cv": null,
       "vc": [
         null,
-        "e0 h",
+        "ie h",
         null,
         "v t",
         null,
@@ -14645,10 +14645,10 @@
       "cv": null,
       "vc": [
         "v n",
-        "e0 k",
+        "ie k",
         null,
         null,
-        "e0 l",
+        "ie l",
         null,
         null
       ]
@@ -14660,7 +14660,7 @@
         null,
         null,
         null,
-        "e0 q",
+        "ie q",
         null,
         null
       ]

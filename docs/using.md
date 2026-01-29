@@ -39,8 +39,8 @@ For DeepVocal, you need `*.dvtb` and `voice.dvcfg`. For VocalSharp, you need `*.
 > 为了兼容DeepVocal和VocalSharp的别名规则，部分音素的别名进行了调整。  
 > To be compatible with the alias rules of DeepVocal and VocalSharp, the aliases of some phonemes have been adjusted.  
 >
->  音头的`A` `@`被重命名为`ao` `ou`，作为半元音的`v`(ü)被重命名为`V`，韵尾`:i` `:u` `n` `ng`被重命名为`ei` `ou` `en` `eng`。  
-> The initials `A` and `@` are renamed to `ao` and `ou`; the semi-vowel `v` (ü) is renamed to `V`; and the Endings `:i`, `:u`, `n`, and `ng` are renamed to `ei`, `ou`, `en`, and `eng` respectively.   
+>  音头的`A` `@`被重命名为`ao` `ou`，作为半元音的`v`(ü)被重命名为`V`，韵尾`e0` `en0` `:i` `:u` `n` `ng`被重命名为`ie` `ian` `ei` `ou` `en` `eng`。  
+> The initials `A` and `@` are renamed to `ao` and `ou`; the semi-vowel `v` (ü) is renamed to `V`; and the Endings `e0`, `en0`, `:i`, `:u`, `n`, and `ng` are renamed to `ie`, `ian`, `ei`, `ou`, `en`, and `eng` respectively.   
 > 
 > 如果您使用之前的版本，请手动重命名这些别名。  
 > If you are using the previous version, please rename these aliases manually.  

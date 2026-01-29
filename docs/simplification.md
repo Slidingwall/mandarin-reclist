@@ -23,7 +23,7 @@ The characteristic of both CVVC and VCV voice libraries is that splicing occurs 
 {: .important-title }
 > 元音组合 Vowel Combanations:
 >
-> <table style="text-align: center"><tr><td><b>元音<br/>Vowels</b></td><td><b>简化后<br/>Simplified</b></td><td><b>元音<br/>Vowels</b></td><td><b>简化后<br/>Simplified</b></td></tr><tr><td>a,ai,an</td><td>a</td><td>ua,uai,uan</td><td>ua</td></tr><tr><td>ao,ang</td><td>ao</td><td>iao,iang</td><td>iA</td></tr><tr><td>ou,en,eng</td><td>ou</td><td>i,in,ing</td><td>i</td></tr><tr><td>uo,o</td><td>uo</td><td>ü,ün</td><td>ü</td></tr><tr><td>ie,ian</td><td>ie*</td><td>ue(üe),uan(üan)</td><td>ue*</td></tr><tr><td colspan="4">e,i0,ir,u,ei,ui,iu,er,ia,un,uang,ong,iong</td></tr></table>
+> <table style="text-align: center"><tr><td><b>元音<br/>Vowels</b></td><td><b>简化后<br/>Simplified</b></td><td><b>元音<br/>Vowels</b></td><td><b>简化后<br/>Simplified</b></td></tr><tr><td>a,ai,an</td><td>a</td><td>ua,uai,uan</td><td>ua</td></tr><tr><td>ao,ang</td><td>ao</td><td>iao,iang</td><td>iao</td></tr><tr><td>ou,en,eng</td><td>ou</td><td>i,in,ing</td><td>i</td></tr><tr><td>uo,o</td><td>uo</td><td>ü,ün</td><td>ü</td></tr><tr><td>ie,ian</td><td>ie*</td><td>ue(üe),uan(üan)</td><td>ue*</td></tr><tr><td colspan="4">e,i0,ir,u,ei,ui,iu,er,ia,un,uang,ong,iong</td></tr></table>
 
 - 简化并与辅音结合后，Full表的CV总数为274。  
   After simplification and combination with consonants, the total number of CVs in the Full list is 274.
@@ -37,7 +37,7 @@ The characteristic of both CVVC and VCV voice libraries is that splicing occurs 
 {: .important-title }
 > 结尾组合 Ending Combanations:
 > 
-> <table style="text-align: center"><tr><td><b>结尾<br>Endings</b></td><td><b>简化后<br>Simplified</b></td><td><b>结尾<br>Endings</b></td><td><b>简化后<br>Simplified</b></td></tr><tr><td>ai,uai</td><td rowspan=2>ei</td><td>ao,iao</td><td rowspan=2>ou</td></tr><tr><td>ei,ui(uei)</td><td>ou,iu(iou)</td></tr><tr><td>an,uan</td><td rowspan=5>en</td><td>ang,iang,uang</td><td rowspan=4>eng</td></tr><tr><td>ian,uan(üan)</td><td>eng,ueng</td></tr><tr><td>en,un(uen)</td><td>ing</td></tr><tr><td>in</td><td>ong</td></tr><tr><td>ün</td><td>ie,ue(üe)</td><td>e0</td></tr><tr><td>a,ia,ua</td><td>a</td><td>o,uo</td><td>o</td></tr><tr><td colspan=4>e,i,i0,ir,u,ü,er</td></tr></table>
+> <table style="text-align: center"><tr><td><b>结尾<br>Endings</b></td><td><b>简化后<br>Simplified</b></td><td><b>结尾<br>Endings</b></td><td><b>简化后<br>Simplified</b></td></tr><tr><td>ai,uai</td><td rowspan=2>ei</td><td>ao,iao</td><td rowspan=2>ou</td></tr><tr><td>ei,ui(uei)</td><td>ou,iu(iou)</td></tr><tr><td>an,uan</td><td rowspan=5>en</td><td>ang,iang,uang</td><td rowspan=4>eng</td></tr><tr><td>ian,uan(üan)</td><td>eng,ueng</td></tr><tr><td>en,un(uen)</td><td>ing</td></tr><tr><td>in</td><td>ong</td></tr><tr><td>ün</td><td>ie,ue(üe)</td><td>ie</td></tr><tr><td>a,ia,ua</td><td>a</td><td>o,uo</td><td>o</td></tr><tr><td colspan=4>e,i,i0,ir,u,ü,er</td></tr></table>
 
 - Full表：与CVVChinse的23个韵尾一致，不进行简化。  
   Full list: Aligns with the 23 codas of CVVChinse and no simplification is applied. 
@@ -61,8 +61,8 @@ The characteristic of both CVVC and VCV voice libraries is that splicing occurs 
 > 为了兼容DeepVocal和VocalSharp的别名规则，部分音素的别名进行了调整。  
 > To be compatible with the alias rules of DeepVocal and VocalSharp, the aliases of some phonemes have been adjusted.  
 >
->  音头的`A` `@`被重命名为`ao` `ou`，作为半元音的`v`(ü)被重命名为`V`，韵尾`:i` `:u` `n` `ng`被重命名为`ei` `ou` `en` `eng`。  
-> The initials `A` and `@` are renamed to `ao` and `ou`; the semi-vowel `v` (ü) is renamed to `V`; and the Endings `:i`, `:u`, `n`, and `ng` are renamed to `ei`, `ou`, `en`, and `eng` respectively.   
+>  音头的`A` `@`被重命名为`ao` `ou`，作为半元音的`v`(ü)被重命名为`V`，韵尾`e0` `en0` `:i` `:u` `n` `ng`被重命名为`ie` `ian` `ei` `ou` `en` `eng`。  
+> The initials `A` and `@` are renamed to `ao` and `ou`; the semi-vowel `v` (ü) is renamed to `V`; and the Endings `e0`, `en0`, `:i`, `:u`, `n`, and `ng` are renamed to `ie`, `ian`, `ei`, `ou`, `en`, and `eng` respectively.   
 > 
 > 如果您使用之前的版本，请手动重命名这些别名。  
 > If you are using the previous version, please rename these aliases manually.  
