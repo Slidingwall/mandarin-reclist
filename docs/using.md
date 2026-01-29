@@ -35,7 +35,7 @@ For DeepVocal, you need `*.dvtb` and `voice.dvcfg`. For VocalSharp, you need `*.
 [生成器](/mandarin-reclist/generator)能够支持直接生成`voice.dvcfg`和`*.vsdxmf`的模板。oto.ini的转换工具正在计划开发中。  
 [Generator](/mandarin-reclist/generator) can directly generate `voice.dvcfg` and `*.vsdxmf` templates. A conversion tool for `oto.ini` is planned for development.  
 
-{ : .note }
+{: .note }
 > 为了兼容DeepVocal和VocalSharp的别名规则，部分音素的别名进行了调整。  
 > To be compatible with the alias rules of DeepVocal and VocalSharp, the aliases of some phonemes have been adjusted.  
 >
